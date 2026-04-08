@@ -1,0 +1,323 @@
+{
+  "model1": {
+    "task": "multiclass",
+    "classes": [
+      "autonomous_driving",
+      "behavioral_manipulation",
+      "biometrics",
+      "code_ai",
+      "conversational_ai",
+      "critical_infrastructure",
+      "cybersecurity",
+      "education_ai",
+      "employment_ai",
+      "fintech",
+      "gaming_ai",
+      "general_purpose_ai",
+      "generative_ai",
+      "healthcare_ai",
+      "law_enforcement",
+      "legal_ai",
+      "nlp_ai",
+      "public_services",
+      "recommender_systems",
+      "social_scoring"
+    ],
+    "num_classes": 20,
+    "domain_to_label": {
+      "Biometrics": "biometrics",
+      "Behavioral Manipulation": "behavioral_manipulation",
+      "Social Scoring": "social_scoring",
+      "Critical Infrastructure": "critical_infrastructure",
+      "Education": "education_ai",
+      "Employment": "employment_ai",
+      "Financial Services": "fintech",
+      "Insurance": "fintech",
+      "Public Services": "public_services",
+      "Law Enforcement": "law_enforcement",
+      "Migration": "law_enforcement",
+      "Justice": "legal_ai",
+      "Healthcare": "healthcare_ai",
+      "Automotive": "autonomous_driving",
+      "General Purpose AI": "general_purpose_ai",
+      "Customer Service": "conversational_ai",
+      "Media": "generative_ai",
+      "Media/Content": "generative_ai",
+      "Social Media": "recommender_systems",
+      "E-commerce": "recommender_systems",
+      "Email/Security": "cybersecurity",
+      "Gaming": "gaming_ai",
+      "Language": "nlp_ai",
+      "Developer Tools": "code_ai"
+    }
+  },
+  "model2": {
+    "task": "multilabel",
+    "labels": [
+      "anomaly_detection",
+      "behavioral_analytics",
+      "biometrics",
+      "chatbot",
+      "collaborative_filtering",
+      "computer_vision",
+      "data_mining",
+      "decision_systems",
+      "deep_learning",
+      "gan",
+      "generative_ai",
+      "geospatial_analysis",
+      "iot",
+      "knowledge_graphs",
+      "machine_learning",
+      "medical_imaging",
+      "nlp",
+      "optimization",
+      "predictive_analytics",
+      "ranking_algorithms",
+      "recommender_systems",
+      "reinforcement_learning",
+      "sensor_fusion",
+      "sentiment_analysis",
+      "social_network_analysis",
+      "time_series_analysis",
+      "transformer"
+    ],
+    "num_labels": 27,
+    "system_to_techniques": {
+      "Social Credit Scoring System": [
+        "machine_learning",
+        "data_mining",
+        "social_network_analysis"
+      ],
+      "Subliminal Manipulation Engine": [
+        "nlp",
+        "deep_learning",
+        "behavioral_analytics"
+      ],
+      "Real-Time Public Facial Recognition": [
+        "computer_vision",
+        "deep_learning",
+        "biometrics"
+      ],
+      "Vulnerability Exploitation AI": [
+        "machine_learning",
+        "behavioral_analytics",
+        "nlp"
+      ],
+      "Workplace Emotion Recognition System": [
+        "computer_vision",
+        "deep_learning",
+        "sentiment_analysis"
+      ],
+      "Classroom Emotion Surveillance": [
+        "computer_vision",
+        "deep_learning",
+        "sentiment_analysis"
+      ],
+      "Biometric Characteristic Inference AI": [
+        "computer_vision",
+        "deep_learning",
+        "biometrics"
+      ],
+      "Untargeted Facial Recognition Scraping": [
+        "computer_vision",
+        "deep_learning",
+        "biometrics",
+        "data_mining"
+      ],
+      "Biometric Verification System (Airport)": [
+        "computer_vision",
+        "biometrics",
+        "deep_learning"
+      ],
+      "Live Biometric Identification (Law Enforcement)": [
+        "computer_vision",
+        "biometrics",
+        "deep_learning"
+      ],
+      "Smart Grid AI Management System": [
+        "machine_learning",
+        "iot",
+        "time_series_analysis",
+        "optimization"
+      ],
+      "Water Treatment AI Monitor": [
+        "machine_learning",
+        "iot",
+        "anomaly_detection",
+        "time_series_analysis"
+      ],
+      "AI Admission Scoring System": [
+        "machine_learning",
+        "nlp",
+        "ranking_algorithms"
+      ],
+      "AI Student Performance Prediction": [
+        "machine_learning",
+        "predictive_analytics",
+        "data_mining"
+      ],
+      "AI CV Screening & Recruitment Tool": [
+        "nlp",
+        "machine_learning",
+        "ranking_algorithms"
+      ],
+      "AI Employee Monitoring & Productivity Scoring": [
+        "machine_learning",
+        "behavioral_analytics",
+        "time_series_analysis"
+      ],
+      "AI Gig Worker Task Allocation System": [
+        "machine_learning",
+        "optimization",
+        "reinforcement_learning"
+      ],
+      "AI Credit Scoring System": [
+        "machine_learning",
+        "predictive_analytics",
+        "data_mining"
+      ],
+      "AI Insurance Risk Assessment": [
+        "machine_learning",
+        "predictive_analytics",
+        "data_mining"
+      ],
+      "Social Benefit Eligibility AI": [
+        "machine_learning",
+        "nlp",
+        "decision_systems"
+      ],
+      "Predictive Policing System": [
+        "machine_learning",
+        "predictive_analytics",
+        "geospatial_analysis"
+      ],
+      "AI Lie Detection / Credibility Assessment": [
+        "computer_vision",
+        "nlp",
+        "sentiment_analysis"
+      ],
+      "AI Asylum Application Risk Classifier": [
+        "nlp",
+        "machine_learning",
+        "decision_systems"
+      ],
+      "AI Legal Research & Case Outcome Predictor": [
+        "nlp",
+        "deep_learning",
+        "predictive_analytics"
+      ],
+      "AI Diagnostic Imaging System (Radiology)": [
+        "computer_vision",
+        "deep_learning",
+        "medical_imaging"
+      ],
+      "AI Clinical Decision Support System": [
+        "nlp",
+        "machine_learning",
+        "knowledge_graphs",
+        "decision_systems"
+      ],
+      "AI Mental Health Triage System": [
+        "nlp",
+        "deep_learning",
+        "sentiment_analysis"
+      ],
+      "Autonomous Vehicle Level 3+ AI": [
+        "computer_vision",
+        "deep_learning",
+        "reinforcement_learning",
+        "sensor_fusion"
+      ],
+      "ChatGPT / Claude / Gemini (Consumer)": [
+        "nlp",
+        "deep_learning",
+        "transformer",
+        "generative_ai"
+      ],
+      "AI Customer Service Chatbot": [
+        "nlp",
+        "deep_learning",
+        "chatbot"
+      ],
+      "AI-Generated News Content Tool": [
+        "nlp",
+        "deep_learning",
+        "generative_ai"
+      ],
+      "Deepfake Detection & Generation Platform": [
+        "computer_vision",
+        "deep_learning",
+        "generative_ai",
+        "gan"
+      ],
+      "AI Recommendation Algorithm (Social Media)": [
+        "deep_learning",
+        "recommender_systems",
+        "behavioral_analytics"
+      ],
+      "AI Spam Filter": [
+        "nlp",
+        "machine_learning",
+        "anomaly_detection"
+      ],
+      "AI-Enabled Video Game NPC": [
+        "reinforcement_learning",
+        "deep_learning",
+        "generative_ai"
+      ],
+      "AI Product Recommendation Engine": [
+        "deep_learning",
+        "recommender_systems",
+        "collaborative_filtering"
+      ],
+      "AI Translation Tool": [
+        "nlp",
+        "deep_learning",
+        "transformer"
+      ],
+      "AI Code Assistant": [
+        "nlp",
+        "deep_learning",
+        "transformer",
+        "generative_ai"
+      ],
+      "GPT-4 / GPT-4o (API)": [
+        "nlp",
+        "deep_learning",
+        "transformer",
+        "generative_ai"
+      ],
+      "Gemini Ultra / Gemini 1.5 Pro": [
+        "nlp",
+        "deep_learning",
+        "transformer",
+        "generative_ai",
+        "computer_vision"
+      ],
+      "Claude 3.5 / Claude Sonnet 4": [
+        "nlp",
+        "deep_learning",
+        "transformer",
+        "generative_ai"
+      ],
+      "Llama 3 / Llama 4 (Open Source)": [
+        "nlp",
+        "deep_learning",
+        "transformer",
+        "generative_ai"
+      ]
+    }
+  },
+  "split": {
+    "test_size": 0.1,
+    "random_state": 42,
+    "strategy": "stratified on app_type, split before augmentation",
+    "augmentation": "template-based, 6 variants per sample (train only)"
+  },
+  "source": "eu_ai_act_risk_register_2026.csv",
+  "total_original_samples": 42,
+  "train_original": 37,
+  "train_augmented": 259,
+  "test_samples": 5
+}
