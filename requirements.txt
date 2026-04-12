@@ -1,0 +1,7 @@
+nlpaug 
+transformers 
+torch
+sacremoses
+pandas
+scikit-learn
+tqdm
