@@ -1,7 +1,8 @@
 nlpaug 
 transformers 
-torch
+#torch
 sacremoses
 pandas
 scikit-learn
 tqdm
+sentencepiece
