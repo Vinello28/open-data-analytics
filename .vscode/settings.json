@@ -1,0 +1,8 @@
+{
+    "chat.tools.terminal.autoApprove": {
+        "/^python3 -c \"import pandas as pd; df = pd\\.read_csv\\('data/processed/pwc_ai_multilabel\\.csv'\\); labels = set\\(l\\.strip\\(\\) for x in df\\['labels'\\]\\.dropna\\(\\) for l in str\\(x\\)\\.split\\('\\|'\\) if l\\.strip\\(\\)\\); print\\(list\\(labels\\)\\[:50\\]\\); print\\('Total unique labels:', len\\(labels\\)\\)\"$/": {
+            "approve": true,
+            "matchCommandLine": true
+        }
+    }
+}

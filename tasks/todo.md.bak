@@ -8,10 +8,10 @@
 - [ ] 6. Generazione Dataset Multilabel (description, labels) tramite normalizzazione della colonna `tasks`, salvataggio in `data/processed/pwc_ai_multilabel.csv`.
 
 # Piano di Sviluppo: Multilabel Consolidation e Traduzione (max 20-30 label)
-- [x] 1. Analisi delle label esistenti ed estrazione frequenze dal dataset `pwc_ai_multilabel.csv`.
-- [x] 2. Definizione del dizionario di mapping (circa 20-30 macro-categorie AI, es. 'Reinforcement Learning', 'Computer Vision', 'Natural Language Processing') da applicare alle label attuali.
-- [x] 3. Integrazione di nuovo codice nel notebook `09_eda_pwc_multilabel.ipynb` per:
-    - [x] Mappare e normalizzare le liste di label per ogni riga.
-    - [x] Dedurre duplicati interni (es. se un record ha 'dr' e 'rl' che mappano entrambi a 'Reinforcement Learning', va mantenuta 1 sola occorrenza).
-    - [x] Visualizzare graficamente la nuova distribuzione.
-- [x] 4. Salvataggio del nuovo dataset normalizzato in `data/processed/` (es. `pwc_ai_multilabel_mapped.csv`).
+- [ ] 1. Analisi delle label esistenti ed estrazione frequenze dal dataset `pwc_ai_multilabel.csv`.
+- [ ] 2. Definizione del dizionario di mapping (circa 20-30 macro-categorie AI, es. 'Reinforcement Learning', 'Computer Vision', 'Natural Language Processing') da applicare alle label attuali.
+- [ ] 3. Integrazione di nuovo codice nel notebook `09_eda_pwc_multilabel.ipynb` per:
+    - [ ] Mappare e normalizzare le liste di label per ogni riga.
+    - [ ] Dedurre duplicati interni (es. se un record ha 'dr' e 'rl' che mappano entrambi a 'Reinforcement Learning', va mantenuta 1 sola occorrenza).
+    - [ ] Visualizzare graficamente la nuova distribuzione.
+- [ ] 4. Salvataggio del nuovo dataset normalizzato in `data/processed/` (es. `pwc_ai_multilabel_mapped.csv`).
