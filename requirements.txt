@@ -5,3 +5,4 @@ sacremoses
 pandas
 scikit-learn
 tqdm
+openai
