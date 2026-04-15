@@ -27,3 +27,15 @@
 - **Risultato**: Sviluppate regole regex mirate ad individuare gli effettivi casi d'uso ("Healthcare", "Virtual Assistants", "Fintech", ecc.) all'interno degli abstract etichettati genericamente come "Research". 
 - **Impatto misurato**: Ricollocati circa 129.313 record da "Research" alle rispettive categorie applicative (il conteggio è sceso da ~337.000 a ~207.000).
 - **Prossimi step**: Eventuale training del modello potrà trarre beneficio dalla maggiore granularità applicativa.
+
+# Piano di Sviluppo: LLM Classification su dataset PWC Multiclass (LM Studio)
+- [x] 1. Creare un nuovo notebook `10_llm_classification_multiclass.ipynb`.
+- [x] 2. Configurare la connessione al server locale LM Studio (default: `http://localhost:1234/v1`) tramite la libreria `openai` in Python.
+- [x] 3. Caricare il dataset generato in precedenza (es. `data/processed/pwc_ai_multiclass_balanced.csv` o `pwc_ai_multiclass.csv`).
+- [x] 4. Eseguire un attento **Prompt Engineering** per il modello "mlx-community/Ministral 3 3B Instruct 2512". Il prompt dovrà:
+    - [ ] Fornire il contesto (classificazione di paper scientifici/abstract in categorie AI).
+    - [ ] Elencare le categorie esatte disponibili (Healthcare, Fintech, Automotive, ecc.).
+    - [ ] Richiedere un output strutturato (es. solo il nome della categoria o JSON) per evitare testo discorsivo.
+- [x] 5. Implementare una funzione di classificazione batch degli errori (timeout, parsing fallito).
+- [x] 6. Testare la classificazione (es. 10-50 record) per validare la robustezza del prompt e dell'output.
+- [x] 7. Salvare i risultati
