@@ -3,3 +3,5 @@ data/cup_clean/
 data/cup_only/
 .DS_Store
 CLAUDE.md
+data/raw/
+data/processed/
