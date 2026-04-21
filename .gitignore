@@ -5,3 +5,5 @@ data/cup_only/
 CLAUDE.md
 data/raw/
 data/processed/
+src/__pycache__/
+data/training/bert_binary.csv
