@@ -1,0 +1,1 @@
+Implementazione di tecniche di One-Shot Learning per il riconoscimento di componenti meccanici rari in linee di produzione ad alta variabilità.

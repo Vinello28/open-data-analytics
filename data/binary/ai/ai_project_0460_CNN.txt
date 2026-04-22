@@ -1,0 +1,1 @@
+Realizzazione di un sistema di Machine Learning per style transfer nel contesto ricerca scientifica. La soluzione utilizza Deep Learning con reti neurali convoluzionali (CNN) per analizzare database relazionali legacy migrati su data lake in tempo reale. L'infrastruttura tecnologica prevede mixed precision training (FP16/BF16) per garantire alte performance.

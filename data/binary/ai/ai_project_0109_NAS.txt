@@ -1,0 +1,1 @@
+Realizzazione di un sistema di Machine Learning per grasp planning nel contesto farmaceutico. La soluzione utilizza Neural Architecture Search (NAS) per analizzare dati sintetici generati tramite simulazione in tempo reale. L'infrastruttura tecnologica prevede container orchestration con Kubernetes per garantire alte performance.

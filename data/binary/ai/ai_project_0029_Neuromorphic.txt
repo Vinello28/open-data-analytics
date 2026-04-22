@@ -1,0 +1,1 @@
+Creazione di un motore di AI per path planning basato su Neuromorphic Computing dedicato al settore ambiente. L'addestramento sfrutta immagini ad alta risoluzione acquisite da telecamere industriali con tecniche di data augmentation. L'infrastruttura include pipeline MLOps con CI/CD automatizzato per training e inferenza.

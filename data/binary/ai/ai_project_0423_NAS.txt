@@ -1,0 +1,1 @@
+Implementazione di un sistema di intelligenza artificiale per traduzione automatica utilizzando Neural Architecture Search (NAS). Il progetto si rivolge al settore agricoltura e processa dati multimodali (testo, immagini, audio). L'architettura tecnologica include container orchestration con Kubernetes con capacità di scaling automatico.

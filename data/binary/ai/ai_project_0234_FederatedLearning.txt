@@ -1,0 +1,1 @@
+Implementazione di un sistema di intelligenza artificiale per traffic optimization utilizzando Federated Learning per privacy-preserving AI. Il progetto si rivolge al settore manifatturiero e processa log di sistema e telemetria applicativa. L'architettura tecnologica include mixed precision training (FP16/BF16) con capacità di scaling automatico.

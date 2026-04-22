@@ -1,0 +1,28 @@
+.PANTOGRAFO 3D 4 ASSI INTERPOLATI COMPOSTO DA:
+-Area di lavoro XYZ 790 x 470 x 130 mm
+-Carpenteria meccanica in acciaio lavorato
+-Avanzamenti XYZ con viti a ricircolo di sfere di precisione precaricate
+-Scorrimenti XYZ su pattini a ricircolo di sfere
+-Cablaggio bordo macchina con cavi per robotica e catene porta cavo
+-Velocità massima assi XY 80 mm/sec.
+-Velocità massima asse Z 50 mm/sec.
+-Elettronica di controllo XMC 2.0 Stepless
+-Interfaccia operatore 3D per windows XMC 4.0 eth RJ45 ¿ Linguaggio ISO
+-Elettromandrino modello RM-AirSP0.8KW 800 W, 24000rpm
+-Overfeed utensile con potenziometro esterno
+-Overfeed mandrino con potenziometro esterno
+-Campana di protezione zona lavorazione utensile
+-Licenza software CNC professionale XMC 4.0
+-Post processor 3D
+-Predisposizione 4° asse
+-Kit pinze fissaggio utensile ER (1Pz 4mm/1Pz 6mm)
+.CABINA INSONORIZZANTE PER RM-EASYSTEP3D completa di:
+-Piedini di appoggio
+-Doppia porta di apertura frontale e posteriore con doppio micro di sicurezza
+-Struttura molto robusta in estruso di alluminio
+-Vetrate in lexan anti urto
+DA CONSIDERARSI INCLUSI NELLA FORNITURA:
+-Nebulizzatore di raffreddamento
+-Campana aspirazione truciolo
+-Software CAM 3D
+.COMPUTER APPLE IMAC

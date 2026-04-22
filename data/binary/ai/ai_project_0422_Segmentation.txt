@@ -1,0 +1,1 @@
+Progetto di action recognition nel settore sport basato su Semantic Segmentation e Instance Segmentation. Il sistema analizza dati finanziari tick-by-tick ad alta frequenza per ottimizzare i processi operativi. L'infrastruttura prevede pipeline MLOps con CI/CD automatizzato. Il finanziamento copre sviluppo software, acquisizione dati e deployment in produzione.

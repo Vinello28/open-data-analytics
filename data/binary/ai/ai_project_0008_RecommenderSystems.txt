@@ -1,0 +1,1 @@
+Sviluppo di una piattaforma AI per swarm intelligence tramite Recommendation Systems con Collaborative Filtering applicata al dominio moda. Il modello viene addestrato su log di sistema e telemetria applicativa e deployato su monitoring e observability con Prometheus/Grafana. I fondi supportano ricerca, sviluppo e validazione sul campo.

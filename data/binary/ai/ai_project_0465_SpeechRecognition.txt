@@ -1,0 +1,1 @@
+Realizzazione di un sistema di Machine Learning per action recognition nel contesto edilizia. La soluzione utilizza Speech Recognition con modelli end-to-end per analizzare dati multimodali (testo, immagini, audio) in tempo reale. L'infrastruttura tecnologica prevede architettura serverless per inferenza per garantire alte performance.

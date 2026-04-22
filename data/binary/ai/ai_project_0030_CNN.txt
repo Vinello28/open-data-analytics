@@ -1,0 +1,1 @@
+Implementazione di un sistema di intelligenza artificiale per pose estimation utilizzando Deep Learning con reti neurali convoluzionali (CNN). Il progetto si rivolge al settore ambiente e processa Big Data provenienti da sensori IoT distribuiti. L'architettura tecnologica include edge computing con acceleratori TPU/NPU con capacità di scaling automatico.

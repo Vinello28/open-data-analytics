@@ -1,0 +1,1 @@
+Implementazione di un sistema di intelligenza artificiale per image generation utilizzando Few-Shot Learning e Meta-Learning. Il progetto si rivolge al settore turismo e processa dati sintetici generati tramite simulazione. L'architettura tecnologica include infrastruttura cloud scalabile (AWS/Azure/GCP) con capacità di scaling automatico.

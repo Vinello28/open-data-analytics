@@ -1,0 +1,1 @@
+Implementazione di un sistema di intelligenza artificiale per analisi immagini satellitari utilizzando Active Learning per ottimizzazione etichettatura. Il progetto si rivolge al settore edilizia e processa serie temporali storiche di 10+ anni. L'architettura tecnologica include infrastruttura cloud scalabile (AWS/Azure/GCP) con capacità di scaling automatico.

@@ -1,0 +1,1 @@
+Sviluppo di un sistema intelligente per lead scoring tramite Federated Learning per privacy-preserving AI applicato al settore sanità. La piattaforma processa log di sistema e telemetria applicativa con latenza inferiore a 100ms. L'architettura prevede infrastruttura cloud scalabile (AWS/Azure/GCP) con ridondanza geografica.

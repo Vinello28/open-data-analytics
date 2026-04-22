@@ -1,0 +1,1 @@
+Progetto di innovazione digitale per rilevamento intrusioni basato su Recommendation Systems con Collaborative Filtering nel contesto pubblica amministrazione. Il modello apprende da dati sintetici generati tramite simulazione utilizzando tecniche di curriculum learning. Il deployment sfrutta model registry e versioning per garantire affidabilità.

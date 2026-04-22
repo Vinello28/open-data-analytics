@@ -1,0 +1,1 @@
+Progetto di analisi video sorveglianza nel settore chimico basato su algoritmi di Anomaly Detection. Il sistema analizza dati sintetici generati tramite simulazione per ottimizzare i processi operativi. L'infrastruttura prevede architettura serverless per inferenza. Il finanziamento copre sviluppo software, acquisizione dati e deployment in produzione.

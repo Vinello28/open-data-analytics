@@ -1,0 +1,1 @@
+Progetto di ricerca applicata su Variational Autoencoders (VAE) per path planning in ambito sicurezza. Il sistema elabora corpus testuali multilingue attraverso pipeline di data processing avanzate. Il deployment avviene su architettura serverless per inferenza con monitoraggio continuo delle performance.

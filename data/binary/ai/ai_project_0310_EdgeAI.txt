@@ -1,0 +1,1 @@
+Implementazione di un sistema di intelligenza artificiale per pianificazione percorsi utilizzando Edge AI e TinyML per dispositivi embedded. Il progetto si rivolge al settore moda e processa dati multimodali (testo, immagini, audio). L'architettura tecnologica include edge computing con acceleratori TPU/NPU con capacità di scaling automatico.

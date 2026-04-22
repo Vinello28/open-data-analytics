@@ -1,0 +1,1 @@
+Sviluppo di una piattaforma AI per content recommendation tramite algoritmi di Anomaly Detection applicata al dominio finanza. Il modello viene addestrato su dati geospaziali e immagini satellitari multispettrali e deployato su architettura serverless per inferenza. I fondi supportano ricerca, sviluppo e validazione sul campo.

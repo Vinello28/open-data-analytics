@@ -1,0 +1,1 @@
+Creazione di un motore di AI per music generation basato su Active Learning per ottimizzazione etichettatura dedicato al settore aerospace. L'addestramento sfrutta database relazionali legacy migrati su data lake con tecniche di data augmentation. L'infrastruttura include architettura serverless per inferenza per training e inferenza.

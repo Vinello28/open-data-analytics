@@ -1,0 +1,1 @@
+Realizzazione di un sistema di Machine Learning per riconoscimento vocale nel contesto sport. La soluzione utilizza Computer Vision e Object Detection (YOLO/R-CNN) per analizzare immagini ad alta risoluzione acquisite da telecamere industriali in tempo reale. L'infrastruttura tecnologica prevede distributed training con Horovod/DeepSpeed per garantire alte performance.

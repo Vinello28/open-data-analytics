@@ -1,0 +1,1 @@
+Il progetto si propone di realizzare, con altissima produttività e costi ridotti, un digital twin che effettui la mappatura digitale 3D semi-automatica delle linee elettriche di media ed alta tensione tramite l’acquisizione di dati mediante sensori laser scanner e fotogrammetrici, avvalendosi dell’utilizzo di piattaforme aeree ad ala fissa.

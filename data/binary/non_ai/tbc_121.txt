@@ -1,0 +1,3 @@
+Il software  serve per gestire il personale addetto alla scelta delle pelli,
+ad esaminare, archiviare e gestire i dati raccolti, sia da desktop che da dispositivi mobili in remoto.
+Si necessita di pulsanti e ricevitore segnale bluetooth, computer.

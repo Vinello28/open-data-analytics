@@ -1,0 +1,1 @@
+Implementazione di algoritmi di Variational Autoencoders (VAE) per lead scoring nel dominio trasporti. Il progetto integra stream di dati in tempo reale provenienti da multiple sorgenti eterogenee. Il finanziamento copre model registry e versioning e team di data scientist specializzati.

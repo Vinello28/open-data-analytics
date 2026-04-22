@@ -1,0 +1,5 @@
+La ¿Cultural Mente.it SRL¿ è un¿impresa sociale che si occupa di realizzare azioni e progetti per la valorizzazione del patrimonio culturale italiano. L¿impresa è in difficoltà con i Big Data, ovvero la gestione dei dati dei beneficiari delle misure sociali. Difatti, quotidianamente l¿Impresa Sociale raccoglie numerose richieste da parte di soggetti interessati a partecipare attivamente alle iniziative culturali.Tali dati vengono raccolti totalmente ¿a mano¿ con consequenziali rallentamenti nella gestione delle richieste e difficoltà nell¿organizzazione degli stessi. Pertanto, si sta programmando un progetto innovativo che mira a raggiungere il seguente obiettivo: ¿Planning digitale per una gestione digitale efficiente dei dati costumers e volunteers¿. Le azioni che si porranno in essere per raggiungere l'obiettivo sono: 
+-	Analisi della situazione attuale dell¿impresa sociale;
+-	Verifica delle procedure attivate per la gestione dei BIG DATA;
+-	Pianificazione di soluzioni digitali per la gestione dei BIG DATA;
+-	Studio e pianificazione di un¿infrastruttura digitale che permetta un¿efficiente gestione dei dati dei fruitori dei servizi culturali e dei volontari

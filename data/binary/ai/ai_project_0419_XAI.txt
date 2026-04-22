@@ -1,0 +1,1 @@
+Progetto di innovazione digitale per analisi video sorveglianza basato su Explainable AI (XAI) con SHAP/LIME nel contesto sicurezza. Il modello apprende da serie temporali storiche di 10+ anni utilizzando tecniche di curriculum learning. Il deployment sfrutta A/B testing framework per garantire affidabilità.

@@ -1,0 +1,1 @@
+Implementazione di algoritmi di Explainable AI (XAI) con SHAP/LIME per lead scoring nel dominio farmaceutico. Il progetto integra corpus testuali multilingue provenienti da multiple sorgenti eterogenee. Il finanziamento copre pipeline MLOps con CI/CD automatizzato e team di data scientist specializzati.

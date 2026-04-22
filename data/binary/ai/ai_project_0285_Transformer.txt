@@ -1,0 +1,1 @@
+Implementazione di un sistema di intelligenza artificiale per diagnosi medica automatizzata utilizzando architetture Transformer e modelli di attenzione. Il progetto si rivolge al settore farmaceutico e processa database relazionali legacy migrati su data lake. L'architettura tecnologica include A/B testing framework con capacità di scaling automatico.

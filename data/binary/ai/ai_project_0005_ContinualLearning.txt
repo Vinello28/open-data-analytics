@@ -1,0 +1,1 @@
+Progetto di innovazione digitale per fraud detection basato su Continual Learning e Lifelong Learning nel contesto retail. Il modello apprende da dataset annotati di oltre 1 milione di esempi utilizzando tecniche di curriculum learning. Il deployment sfrutta model registry e versioning per garantire affidabilità.

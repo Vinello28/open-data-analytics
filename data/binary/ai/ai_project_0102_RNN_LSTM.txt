@@ -1,0 +1,1 @@
+Implementazione di algoritmi di Recurrent Neural Networks (RNN) e varianti LSTM/GRU per generazione testo nel dominio finanza. Il progetto integra dati finanziari tick-by-tick ad alta frequenza provenienti da multiple sorgenti eterogenee. Il finanziamento copre edge computing con acceleratori TPU/NPU e team di data scientist specializzati.

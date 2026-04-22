@@ -1,0 +1,1 @@
+Realizzazione di una soluzione AI per sintesi vocale mediante architetture Transformer e modelli di attenzione dedicata al mercato finanza. Il sistema analizza dataset annotati di oltre 1 milione di esempi con accuratezza superiore al 95%. L'infrastruttura tecnologica comprende model compression e quantization e sistemi di backup automatizzati.

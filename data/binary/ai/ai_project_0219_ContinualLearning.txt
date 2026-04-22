@@ -1,0 +1,1 @@
+Implementazione di algoritmi di Continual Learning e Lifelong Learning per swarm intelligence nel dominio moda. Il progetto integra stream di dati in tempo reale provenienti da multiple sorgenti eterogenee. Il finanziamento copre feature store centralizzato e team di data scientist specializzati.

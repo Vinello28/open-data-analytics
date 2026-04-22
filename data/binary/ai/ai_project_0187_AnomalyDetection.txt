@@ -1,0 +1,1 @@
+Progetto di innovazione digitale per smart grid basato su algoritmi di Anomaly Detection nel contesto ambiente. Il modello apprende da immagini ad alta risoluzione acquisite da telecamere industriali utilizzando tecniche di curriculum learning. Il deployment sfrutta model compression e quantization per garantire affidabilità.

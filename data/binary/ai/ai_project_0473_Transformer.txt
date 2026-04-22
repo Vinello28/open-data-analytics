@@ -1,0 +1,1 @@
+Implementazione di un sistema di intelligenza artificiale per riconoscimento vocale utilizzando architetture Transformer e modelli di attenzione. Il progetto si rivolge al settore farmaceutico e processa point cloud da sensori LiDAR. L'architettura tecnologica include infrastruttura cloud scalabile (AWS/Azure/GCP) con capacità di scaling automatico.

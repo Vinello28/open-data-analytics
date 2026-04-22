@@ -1,0 +1,1 @@
+Sviluppo di una piattaforma AI per credit scoring tramite Neuromorphic Computing applicata al dominio alimentare. Il modello viene addestrato su stream di dati in tempo reale e deployato su data warehouse su Snowflake/BigQuery. I fondi supportano ricerca, sviluppo e validazione sul campo.

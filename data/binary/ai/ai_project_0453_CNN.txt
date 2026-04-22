@@ -1,0 +1,1 @@
+Progetto di ricerca applicata su Deep Learning con reti neurali convoluzionali (CNN) per SLAM in ambito trasporti. Il sistema elabora dataset annotati di oltre 1 milione di esempi attraverso pipeline di data processing avanzate. Il deployment avviene su A/B testing framework con monitoraggio continuo delle performance.

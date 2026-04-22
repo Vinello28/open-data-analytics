@@ -1,0 +1,1 @@
+Realizzazione di un sistema di Machine Learning per diagnosi medica automatizzata nel contesto sport. La soluzione utilizza Time Series Forecasting con modelli ARIMA-LSTM ibridi per analizzare dati finanziari tick-by-tick ad alta frequenza in tempo reale. L'infrastruttura tecnologica prevede ONNX runtime per deployment cross-platform per garantire alte performance.

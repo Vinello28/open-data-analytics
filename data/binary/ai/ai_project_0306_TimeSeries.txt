@@ -1,0 +1,1 @@
+Sviluppo di una piattaforma AI per traduzione automatica tramite Time Series Forecasting con modelli ARIMA-LSTM ibridi applicata al dominio retail. Il modello viene addestrato su log di sistema e telemetria applicativa e deployato su pipeline MLOps con CI/CD automatizzato. I fondi supportano ricerca, sviluppo e validazione sul campo.

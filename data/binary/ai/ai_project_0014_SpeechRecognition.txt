@@ -1,0 +1,1 @@
+Implementazione di algoritmi di Speech Recognition con modelli end-to-end per controllo qualità nel dominio farmaceutico. Il progetto integra dati finanziari tick-by-tick ad alta frequenza provenienti da multiple sorgenti eterogenee. Il finanziamento copre infrastruttura cloud scalabile (AWS/Azure/GCP) e team di data scientist specializzati.

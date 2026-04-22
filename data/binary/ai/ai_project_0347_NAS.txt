@@ -1,0 +1,1 @@
+Sviluppo di un sistema intelligente per ottimizzazione processi produttivi tramite Neural Architecture Search (NAS) applicato al settore alimentare. La piattaforma processa point cloud da sensori LiDAR con latenza inferiore a 100ms. L'architettura prevede architettura serverless per inferenza con ridondanza geografica.

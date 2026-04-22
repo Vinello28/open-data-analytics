@@ -1,0 +1,1 @@
+Realizzazione di una soluzione AI per pianificazione percorsi mediante Neural Architecture Search (NAS) dedicata al mercato ricerca scientifica. Il sistema analizza dati finanziari tick-by-tick ad alta frequenza con accuratezza superiore al 95%. L'infrastruttura tecnologica comprende cluster GPU NVIDIA A100/H100 per training distribuito e sistemi di backup automatizzati.

@@ -1,0 +1,4 @@
+Il progetto si pone l¿obbiettivo della progettazione di una scheda di raccolta e trasmissione dei dati di incasso di casse automatiche per lavanderie e autolavaggi.
+La scheda opererà in ambito IoT (Internet of Things) e Big Data, la scheda sarà in grado di dedurre l¿incasso e il resto erogato al fine di determinare i parametri a fini fiscali di incasso da inviare alla agenzia delle entrate. 
+Con riferimento a tecnologie di Big Data e Cloud computing, il progetto creerà anche una piattaforma Cloud  di raccolta dei dati, la piattaforma sarà abilitata alla creazione di analisi statistiche e di Data Analytics in base ai requisisti posti dal cliente.
+L¿obbiettivo è di realizzare la progettazione della scheda elettronica, l¿interfacciamento con l¿hardware di cassa, la trasmissione dei dati con algoritmi di cifratura via internet, la raccolta e analisi del dato su di una piattaforma Cloud specifica.

@@ -1,0 +1,1 @@
+Implementazione di algoritmi di Ensemble Learning con Random Forest e Gradient Boosting per action recognition nel dominio sport. Il progetto integra segnali biomedici (EEG, ECG, fMRI) provenienti da multiple sorgenti eterogenee. Il finanziamento copre architettura serverless per inferenza e team di data scientist specializzati.

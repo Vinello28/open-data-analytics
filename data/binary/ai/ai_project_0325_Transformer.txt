@@ -1,0 +1,1 @@
+Implementazione di algoritmi di architetture Transformer e modelli di attenzione per path planning nel dominio sanità. Il progetto integra immagini ad alta risoluzione acquisite da telecamere industriali provenienti da multiple sorgenti eterogenee. Il finanziamento copre distributed training con Horovod/DeepSpeed e team di data scientist specializzati.

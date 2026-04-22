@@ -1,0 +1,1 @@
+Sistema di intelligenza artificiale per il monitoraggio della qualità delle acque costiere tramite analisi di immagini satellitari e droni.

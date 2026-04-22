@@ -1,0 +1,1 @@
+Implementazione di un sistema di intelligenza artificiale per video synthesis utilizzando Recurrent Neural Networks (RNN) e varianti LSTM/GRU. Il progetto si rivolge al settore sanità e processa point cloud da sensori LiDAR. L'architettura tecnologica include A/B testing framework con capacità di scaling automatico.

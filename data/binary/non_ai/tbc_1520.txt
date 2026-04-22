@@ -1,0 +1,6 @@
+Pharmacy Connect è un progetto che ha l'obiettivo di creare una piattaforma software gestionale che adatta il prezzo del prodotto in vendita on line, in base a specifiche variabili in particolare nel settore Farmaceutico che ha codici Ministeriali precisi e ben definiti. 
+
+Il Software si basa su un Algoritmo propri che tiene conto delle strategie aziendali e di una serie di dati di input per generare come output una modifica dei prezzi in tempo reale. 
+
+Il nuovo software sfrutterà le potenzialità della raccolta Big data comportamenta nell¿esperienza d¿acquisto sia dei clienti online (e-commerce) che del retail tradizionale. 
+Ad oggi, infatti, non vi sono ancora strumenti idonei alla ¿modellazione¿ del prezzo in funzione del comportamento dell¿utente (apertura pagine, click sui prodotti, etc.) e alla sua propensione all¿acquisto in un determinato modello. Le uniche esperienze esistenti di Dynamic Pricing attraverso algoritmi proprietari si intravedono nel Booking online (in particolare nell¿acquisto di voli su Ryanair) e nei Marketplace (Amazon).

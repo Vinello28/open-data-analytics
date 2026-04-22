@@ -1,0 +1,1 @@
+Sviluppo di una piattaforma AI per credit scoring tramite Natural Language Processing (NLP) con BERT/GPT applicata al dominio farmaceutico. Il modello viene addestrato su serie temporali storiche di 10+ anni e deployato su monitoring e observability con Prometheus/Grafana. I fondi supportano ricerca, sviluppo e validazione sul campo.

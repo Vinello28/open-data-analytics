@@ -1,0 +1,9 @@
+l progetto proposto prevede lo sviluppo di soluzioni innovative e personalizzate per la gestione dei dati destinate ad efficientare  i processi produttivi dell'Azienda.  
+A tal fine si prevedono queste attività:
+a) un studio preliminare per la definizione dei processi aziendali critici 
+b) la mappatura mediante strumenti di work flow
+c) la classificazione delle attività sulla base del principio del valore
+d) l'individuazione di elementi ridondanti e inutili
+e)  ri-progettazione del flusso di lavoro col fine di snellire le attività
+f) lo studio di standard di trasmissione dei dati incentrato al miglioramento dell'interoperabilità dei vari reparti aziendali 
+g) implementazione di soluzioni idonee a realizzare fattivamente il progetto.

@@ -1,0 +1,1 @@
+Il progetto prevede lo sviluppo di una piattaforma tecnologica di business intelligence modulata secondo le dinamiche aziendali con l¿obiettivo di monitorare in tempo reale le dinamiche produttive ed economiche dell¿azienda. Il nuovo sistema di reportistica avanzata interattiva permetterà l¿interrogazione personalizzata dei big data aziendali provenienti dal programma gestionale.

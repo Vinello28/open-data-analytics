@@ -1,0 +1,1 @@
+Piattaforma di AI per la generazione di sottotitoli e traduzioni per non udenti basata su modelli di NLP e riconoscimento dei gesti via Computer Vision.

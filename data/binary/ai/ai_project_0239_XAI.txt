@@ -1,0 +1,1 @@
+Implementazione di un sistema di intelligenza artificiale per pianificazione percorsi utilizzando Explainable AI (XAI) con SHAP/LIME. Il progetto si rivolge al settore istruzione e processa dati finanziari tick-by-tick ad alta frequenza. L'architettura tecnologica include pipeline MLOps con CI/CD automatizzato con capacità di scaling automatico.

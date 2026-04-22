@@ -1,0 +1,1 @@
+Realizzazione di un sistema di Machine Learning per rilevamento intrusioni nel contesto trasporti. La soluzione utilizza Deep Learning con reti neurali convoluzionali (CNN) per analizzare point cloud da sensori LiDAR in tempo reale. L'infrastruttura tecnologica prevede monitoring e observability con Prometheus/Grafana per garantire alte performance.

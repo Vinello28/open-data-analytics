@@ -1,0 +1,1 @@
+Realizzazione di una soluzione AI per sintesi vocale mediante Continual Learning e Lifelong Learning dedicata al mercato istruzione. Il sistema analizza video ad alta definizione 4K/8K con accuratezza superiore al 95%. L'infrastruttura tecnologica comprende monitoring e observability con Prometheus/Grafana e sistemi di backup automatizzati.

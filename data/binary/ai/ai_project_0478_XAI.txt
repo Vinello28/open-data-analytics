@@ -1,0 +1,1 @@
+Progetto di innovazione digitale per pricing dinamico basato su Explainable AI (XAI) con SHAP/LIME nel contesto manifatturiero. Il modello apprende da segnali biomedici (EEG, ECG, fMRI) utilizzando tecniche di curriculum learning. Il deployment sfrutta architettura serverless per inferenza per garantire affidabilità.

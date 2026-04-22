@@ -1,0 +1,1 @@
+Progetto di image generation nel settore automotive basato su Natural Language Processing (NLP) con BERT/GPT. Il sistema analizza dati finanziari tick-by-tick ad alta frequenza per ottimizzare i processi operativi. L'infrastruttura prevede mixed precision training (FP16/BF16). Il finanziamento copre sviluppo software, acquisizione dati e deployment in produzione.

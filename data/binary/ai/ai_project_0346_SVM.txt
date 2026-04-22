@@ -1,0 +1,1 @@
+Progetto di ricerca applicata su Support Vector Machines (SVM) con kernel non lineari per personalization in ambito pubblica amministrazione. Il sistema elabora log di sistema e telemetria applicativa attraverso pipeline di data processing avanzate. Il deployment avviene su cluster GPU NVIDIA A100/H100 per training distribuito con monitoraggio continuo delle performance.

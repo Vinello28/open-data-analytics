@@ -1,0 +1,1 @@
+Progetto di ricerca applicata su Deep Learning con reti neurali convoluzionali (CNN) per guida autonoma in ambito manifatturiero. Il sistema elabora immagini ad alta risoluzione acquisite da telecamere industriali attraverso pipeline di data processing avanzate. Il deployment avviene su A/B testing framework con monitoraggio continuo delle performance.

@@ -1,0 +1,1 @@
+Progetto di ricerca applicata su Federated Learning per privacy-preserving AI per previsione meteo in ambito logistica. Il sistema elabora video ad alta definizione 4K/8K attraverso pipeline di data processing avanzate. Il deployment avviene su A/B testing framework con monitoraggio continuo delle performance.

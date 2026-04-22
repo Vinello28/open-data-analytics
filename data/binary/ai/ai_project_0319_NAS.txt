@@ -1,0 +1,1 @@
+Creazione di un motore di AI per drug discovery basato su Neural Architecture Search (NAS) dedicato al settore ambiente. L'addestramento sfrutta dati geospaziali e immagini satellitari multispettrali con tecniche di data augmentation. L'infrastruttura include data warehouse su Snowflake/BigQuery per training e inferenza.

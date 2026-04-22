@@ -1,0 +1,1 @@
+Realizzazione di una soluzione AI per grasp planning mediante Few-Shot Learning e Meta-Learning dedicata al mercato turismo. Il sistema analizza immagini ad alta risoluzione acquisite da telecamere industriali con accuratezza superiore al 95%. L'infrastruttura tecnologica comprende infrastruttura cloud scalabile (AWS/Azure/GCP) e sistemi di backup automatizzati.

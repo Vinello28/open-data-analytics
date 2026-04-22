@@ -1,0 +1,1 @@
+Sistema di intelligenza artificiale per l'ottimizzazione del packaging per ridurre l'uso di plastica tramite simulazioni strutturali assistite da AI.

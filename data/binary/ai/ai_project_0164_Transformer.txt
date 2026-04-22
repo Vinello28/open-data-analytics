@@ -1,0 +1,1 @@
+Sviluppo di un sistema intelligente per riconoscimento facciale tramite architetture Transformer e modelli di attenzione applicato al settore manifatturiero. La piattaforma processa dati finanziari tick-by-tick ad alta frequenza con latenza inferiore a 100ms. L'architettura prevede architettura serverless per inferenza con ridondanza geografica.

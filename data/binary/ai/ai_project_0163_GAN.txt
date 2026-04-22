@@ -1,0 +1,1 @@
+Creazione di un motore di AI per SLAM basato su Generative Adversarial Networks (GAN) dedicato al settore istruzione. L'addestramento sfrutta point cloud da sensori LiDAR con tecniche di data augmentation. L'infrastruttura include model compression e quantization per training e inferenza.

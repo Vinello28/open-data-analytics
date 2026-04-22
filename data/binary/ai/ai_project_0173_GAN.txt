@@ -1,0 +1,1 @@
+Progetto di ricerca applicata su Generative Adversarial Networks (GAN) per diagnosi medica automatizzata in ambito aerospace. Il sistema elabora dati multimodali (testo, immagini, audio) attraverso pipeline di data processing avanzate. Il deployment avviene su model compression e quantization con monitoraggio continuo delle performance.

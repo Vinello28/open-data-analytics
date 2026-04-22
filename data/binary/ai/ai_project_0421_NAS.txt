@@ -1,0 +1,1 @@
+Progetto di ricerca applicata su Neural Architecture Search (NAS) per diagnosi medica automatizzata in ambito sicurezza. Il sistema elabora dati geospaziali e immagini satellitari multispettrali attraverso pipeline di data processing avanzate. Il deployment avviene su architettura serverless per inferenza con monitoraggio continuo delle performance.

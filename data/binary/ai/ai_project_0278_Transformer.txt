@@ -1,0 +1,1 @@
+Sviluppo di un sistema intelligente per music generation tramite architetture Transformer e modelli di attenzione applicato al settore aerospace. La piattaforma processa video ad alta definizione 4K/8K con latenza inferiore a 100ms. L'architettura prevede mixed precision training (FP16/BF16) con ridondanza geografica.

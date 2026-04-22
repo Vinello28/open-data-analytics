@@ -1,0 +1,1 @@
+Realizzazione di un sistema di Machine Learning per video synthesis nel contesto manifatturiero. La soluzione utilizza Neural Architecture Search (NAS) per analizzare dati multimodali (testo, immagini, audio) in tempo reale. L'infrastruttura tecnologica prevede architettura serverless per inferenza per garantire alte performance.

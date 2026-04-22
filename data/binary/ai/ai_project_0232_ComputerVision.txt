@@ -1,0 +1,1 @@
+Realizzazione di un sistema di Machine Learning per traduzione automatica nel contesto media. La soluzione utilizza Computer Vision e Object Detection (YOLO/R-CNN) per analizzare database relazionali legacy migrati su data lake in tempo reale. L'infrastruttura tecnologica prevede data warehouse su Snowflake/BigQuery per garantire alte performance.

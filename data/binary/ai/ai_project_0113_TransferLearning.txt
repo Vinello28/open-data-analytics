@@ -1,0 +1,1 @@
+Implementazione di un sistema di intelligenza artificiale per colorization utilizzando Transfer Learning e fine-tuning di modelli pre-addestrati. Il progetto si rivolge al settore alimentare e processa dati sintetici generati tramite simulazione. L'architettura tecnologica include architettura serverless per inferenza con capacità di scaling automatico.

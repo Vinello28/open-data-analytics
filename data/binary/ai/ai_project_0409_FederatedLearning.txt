@@ -1,0 +1,1 @@
+Implementazione di algoritmi di Federated Learning per privacy-preserving AI per 3D reconstruction nel dominio farmaceutico. Il progetto integra segnali biomedici (EEG, ECG, fMRI) provenienti da multiple sorgenti eterogenee. Il finanziamento copre edge computing con acceleratori TPU/NPU e team di data scientist specializzati.

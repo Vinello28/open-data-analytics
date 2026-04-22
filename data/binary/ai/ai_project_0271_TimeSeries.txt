@@ -1,0 +1,1 @@
+Sviluppo di un sistema intelligente per sintesi vocale tramite Time Series Forecasting con modelli ARIMA-LSTM ibridi applicato al settore ricerca scientifica. La piattaforma processa point cloud da sensori LiDAR con latenza inferiore a 100ms. L'architettura prevede ONNX runtime per deployment cross-platform con ridondanza geografica.

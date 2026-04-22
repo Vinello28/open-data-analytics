@@ -1,0 +1,1 @@
+Implementazione di un sistema di intelligenza artificiale per video synthesis utilizzando Natural Language Processing (NLP) con BERT/GPT. Il progetto si rivolge al settore agricoltura e processa video ad alta definizione 4K/8K. L'architettura tecnologica include pipeline MLOps con CI/CD automatizzato con capacità di scaling automatico.

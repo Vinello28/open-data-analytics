@@ -1,0 +1,1 @@
+Creazione di un motore di AI per analisi video sorveglianza basato su Quantum Machine Learning dedicato al settore sicurezza. L'addestramento sfrutta corpus testuali multilingue con tecniche di data augmentation. L'infrastruttura include cluster GPU NVIDIA A100/H100 per training distribuito per training e inferenza.

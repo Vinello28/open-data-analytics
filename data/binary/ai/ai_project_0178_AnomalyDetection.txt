@@ -1,0 +1,1 @@
+Realizzazione di una soluzione AI per energy management mediante algoritmi di Anomaly Detection dedicata al mercato sanità. Il sistema analizza stream di dati in tempo reale con accuratezza superiore al 95%. L'infrastruttura tecnologica comprende model compression e quantization e sistemi di backup automatizzati.

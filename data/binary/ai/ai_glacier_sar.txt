@@ -1,0 +1,1 @@
+Sistema di analisi automatica di immagini radar (SAR) tramite Deep Learning per il monitoraggio dei ghiacciai e del cambiamento climatico.

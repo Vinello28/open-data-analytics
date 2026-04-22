@@ -1,0 +1,1 @@
+Progetto di music generation nel settore istruzione basato su Edge AI e TinyML per dispositivi embedded. Il sistema analizza immagini ad alta risoluzione acquisite da telecamere industriali per ottimizzare i processi operativi. L'infrastruttura prevede A/B testing framework. Il finanziamento copre sviluppo software, acquisizione dati e deployment in produzione.

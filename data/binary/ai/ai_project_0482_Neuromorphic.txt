@@ -1,0 +1,1 @@
+Creazione di un motore di AI per predictive maintenance basato su Neuromorphic Computing dedicato al settore manifatturiero. L'addestramento sfrutta dati geospaziali e immagini satellitari multispettrali con tecniche di data augmentation. L'infrastruttura include A/B testing framework per training e inferenza.

@@ -1,0 +1,1 @@
+Implementazione di un sistema di intelligenza artificiale per previsione meteo utilizzando Semantic Segmentation e Instance Segmentation. Il progetto si rivolge al settore sicurezza e processa dati sintetici generati tramite simulazione. L'architettura tecnologica include model compression e quantization con capacità di scaling automatico.

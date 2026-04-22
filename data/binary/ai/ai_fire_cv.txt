@@ -1,0 +1,1 @@
+Sistema di rilevamento precoce di incendi boschivi tramite Computer Vision montata su torrette di avvistamento con analisi termografica in tempo reale.

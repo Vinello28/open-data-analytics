@@ -1,0 +1,1 @@
+Progetto di ottimizzazione inventario nel settore sicurezza basato su Quantum Machine Learning. Il sistema analizza Big Data provenienti da sensori IoT distribuiti per ottimizzare i processi operativi. L'infrastruttura prevede container orchestration con Kubernetes. Il finanziamento copre sviluppo software, acquisizione dati e deployment in produzione.

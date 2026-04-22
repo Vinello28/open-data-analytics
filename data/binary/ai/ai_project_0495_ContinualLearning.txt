@@ -1,0 +1,1 @@
+Realizzazione di un sistema di Machine Learning per summarization nel contesto alimentare. La soluzione utilizza Continual Learning e Lifelong Learning per analizzare stream di dati in tempo reale in tempo reale. L'infrastruttura tecnologica prevede data warehouse su Snowflake/BigQuery per garantire alte performance.

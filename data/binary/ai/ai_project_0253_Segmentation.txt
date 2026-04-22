@@ -1,0 +1,1 @@
+Creazione di un motore di AI per fraud detection basato su Semantic Segmentation e Instance Segmentation dedicato al settore manifatturiero. L'addestramento sfrutta log di sistema e telemetria applicativa con tecniche di data augmentation. L'infrastruttura include model compression e quantization per training e inferenza.

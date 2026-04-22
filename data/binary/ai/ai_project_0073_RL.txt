@@ -1,0 +1,1 @@
+Sviluppo di un sistema intelligente per video synthesis tramite Reinforcement Learning (RL) con algoritmi PPO/DQN applicato al settore moda. La piattaforma processa dati multimodali (testo, immagini, audio) con latenza inferiore a 100ms. L'architettura prevede pipeline MLOps con CI/CD automatizzato con ridondanza geografica.

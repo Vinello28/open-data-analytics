@@ -1,0 +1,1 @@
+Progetto di ricerca applicata su Neuromorphic Computing per previsione meteo in ambito turismo. Il sistema elabora log di sistema e telemetria applicativa attraverso pipeline di data processing avanzate. Il deployment avviene su architettura serverless per inferenza con monitoraggio continuo delle performance.

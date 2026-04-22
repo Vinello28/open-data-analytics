@@ -1,0 +1,1 @@
+Sviluppo di una piattaforma AI per 3D reconstruction tramite Speech Recognition con modelli end-to-end applicata al dominio alimentare. Il modello viene addestrato su video ad alta definizione 4K/8K e deployato su A/B testing framework. I fondi supportano ricerca, sviluppo e validazione sul campo.

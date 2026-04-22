@@ -1,0 +1,1 @@
+Realizzazione di una soluzione AI per pianificazione percorsi mediante Neural Architecture Search (NAS) dedicata al mercato aerospace. Il sistema analizza segnali biomedici (EEG, ECG, fMRI) con accuratezza superiore al 95%. L'infrastruttura tecnologica comprende distributed training con Horovod/DeepSpeed e sistemi di backup automatizzati.

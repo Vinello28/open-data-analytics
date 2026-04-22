@@ -1,0 +1,1 @@
+Progetto di innovazione digitale per monitoraggio ambientale basato su algoritmi di Anomaly Detection nel contesto ricerca scientifica. Il modello apprende da corpus testuali multilingue utilizzando tecniche di curriculum learning. Il deployment sfrutta ONNX runtime per deployment cross-platform per garantire affidabilità.

@@ -1,0 +1,10 @@
+Realizzazione di una infrastruttura convergente IT per ridurre i problemi di compatibilità tra dispositivi hardware del centro stampa e degli strumenti messi a disposizione del cliente finale per l¿inoltro digitale. 
+Si prevede una piattaforma multilivello che consenta di operare come singolo sistema e gestire il back office (centro stampa e rete recapito) e il front office (strumenti web di gestione documentale per i clienti) di una azienda di stampa e recapito. 
+1. Back Office: Digitalizzazione dei processi di confezionamento e distribuzione
+o Monitoring tra le risorse necessarie per il confezionamento (stampanti, imbustatrici e affrancatrici) 
+o Monitoring rete di recapito, tracciatura delle lettere tracciatura e geolocalizzazione
+o Conservazione digitale dei documenti con valore legale
+2. Front Office: Digital Multichannel Mailroom
+o Invio documenti: portale web per il cliente finale per consentire l¿inoltro in formato digitale dei documenti 
+o Documenti in entrata: elaborazione, classificazione  automatica dei dati in entrata (scanner, email)
+o Archiviazione digitale: conservazione (sostitutiva) dati digitalizzati attraverso un processo automatizzato che copre le fasi di verifica presenza della firma sui documenti, fino all¿apposizione di marca temporale e firma di

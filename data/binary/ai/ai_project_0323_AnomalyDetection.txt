@@ -1,0 +1,1 @@
+Realizzazione di una soluzione AI per pose estimation mediante algoritmi di Anomaly Detection dedicata al mercato moda. Il sistema analizza dati multimodali (testo, immagini, audio) con accuratezza superiore al 95%. L'infrastruttura tecnologica comprende feature store centralizzato e sistemi di backup automatizzati.

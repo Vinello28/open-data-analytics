@@ -1,0 +1,1 @@
+Sviluppo di un sistema intelligente per pricing dinamico tramite Ensemble Learning con Random Forest e Gradient Boosting applicato al settore manifatturiero. La piattaforma processa immagini ad alta risoluzione acquisite da telecamere industriali con latenza inferiore a 100ms. L'architettura prevede feature store centralizzato con ridondanza geografica.

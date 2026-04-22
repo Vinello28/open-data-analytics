@@ -1,0 +1,1 @@
+Progetto di agricoltura di precisione tramite droni dotati di sensori iperspettrali e modelli di Machine Learning per la mappatura dello stress idrico.

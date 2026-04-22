@@ -1,0 +1,1 @@
+Creazione di un motore di AI per 3D reconstruction basato su K-Nearest Neighbors (KNN) e algoritmi di clustering dedicato al settore sicurezza. L'addestramento sfrutta dataset annotati di oltre 1 milione di esempi con tecniche di data augmentation. L'infrastruttura include distributed training con Horovod/DeepSpeed per training e inferenza.

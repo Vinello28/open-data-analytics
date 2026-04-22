@@ -1,0 +1,1 @@
+Rilevamento di attacchi informatici zero-day tramite modelli di Machine Learning non supervisionato e analisi comportamentale del traffico di rete (Deep Packet Inspection).

@@ -1,0 +1,1 @@
+Progetto di energy management nel settore finanza basato su Active Learning per ottimizzazione etichettatura. Il sistema analizza serie temporali storiche di 10+ anni per ottimizzare i processi operativi. L'infrastruttura prevede infrastruttura cloud scalabile (AWS/Azure/GCP). Il finanziamento copre sviluppo software, acquisizione dati e deployment in produzione.

@@ -1,0 +1,1 @@
+Implementazione di algoritmi di Time Series Forecasting con modelli ARIMA-LSTM ibridi per sentiment analysis nel dominio istruzione. Il progetto integra log di sistema e telemetria applicativa provenienti da multiple sorgenti eterogenee. Il finanziamento copre mixed precision training (FP16/BF16) e team di data scientist specializzati.

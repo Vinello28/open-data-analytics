@@ -1,0 +1,1 @@
+Implementazione di algoritmi di Explainable AI (XAI) con SHAP/LIME per riconoscimento vocale nel dominio edilizia. Il progetto integra immagini ad alta risoluzione acquisite da telecamere industriali provenienti da multiple sorgenti eterogenee. Il finanziamento copre model compression e quantization e team di data scientist specializzati.

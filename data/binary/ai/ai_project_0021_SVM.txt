@@ -1,0 +1,1 @@
+Realizzazione di una soluzione AI per riconoscimento facciale mediante Support Vector Machines (SVM) con kernel non lineari dedicata al mercato ambiente. Il sistema analizza database relazionali legacy migrati su data lake con accuratezza superiore al 95%. L'infrastruttura tecnologica comprende model registry e versioning e sistemi di backup automatizzati.

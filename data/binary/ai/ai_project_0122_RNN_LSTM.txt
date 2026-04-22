@@ -1,0 +1,1 @@
+Creazione di un motore di AI per style transfer basato su Recurrent Neural Networks (RNN) e varianti LSTM/GRU dedicato al settore media. L'addestramento sfrutta log di sistema e telemetria applicativa con tecniche di data augmentation. L'infrastruttura include A/B testing framework per training e inferenza.

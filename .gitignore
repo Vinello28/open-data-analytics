@@ -7,3 +7,4 @@ data/raw/
 data/processed/
 src/__pycache__/
 data/training/bert_binary.csv
+data/binary/bert_binary.csv

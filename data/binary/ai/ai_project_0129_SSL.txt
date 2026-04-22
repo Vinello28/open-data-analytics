@@ -1,0 +1,1 @@
+Progetto di ricerca applicata su Self-Supervised Learning (SSL) per sentiment analysis in ambito automotive. Il sistema elabora dati finanziari tick-by-tick ad alta frequenza attraverso pipeline di data processing avanzate. Il deployment avviene su model compression e quantization con monitoraggio continuo delle performance.

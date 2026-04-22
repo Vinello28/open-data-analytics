@@ -1,0 +1,1 @@
+Realizzazione di una soluzione AI per riconoscimento vocale mediante Active Learning per ottimizzazione etichettatura dedicata al mercato aerospace. Il sistema analizza dati multimodali (testo, immagini, audio) con accuratezza superiore al 95%. L'infrastruttura tecnologica comprende architettura serverless per inferenza e sistemi di backup automatizzati.

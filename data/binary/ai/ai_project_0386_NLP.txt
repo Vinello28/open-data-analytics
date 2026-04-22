@@ -1,0 +1,1 @@
+Progetto di ricerca applicata su Natural Language Processing (NLP) con BERT/GPT per 3D reconstruction in ambito sicurezza. Il sistema elabora Big Data provenienti da sensori IoT distribuiti attraverso pipeline di data processing avanzate. Il deployment avviene su ONNX runtime per deployment cross-platform con monitoraggio continuo delle performance.

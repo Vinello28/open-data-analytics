@@ -1,0 +1,1 @@
+Realizzazione di una soluzione AI per riconoscimento vocale mediante Neural Architecture Search (NAS) dedicata al mercato farmaceutico. Il sistema analizza database relazionali legacy migrati su data lake con accuratezza superiore al 95%. L'infrastruttura tecnologica comprende architettura serverless per inferenza e sistemi di backup automatizzati.

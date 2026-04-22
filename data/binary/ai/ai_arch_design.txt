@@ -1,0 +1,1 @@
+Progetto di AI per l'assistenza al design architettonico ecosostenibile, simulando l'impatto termico e illuminotecnico delle scelte progettuali.

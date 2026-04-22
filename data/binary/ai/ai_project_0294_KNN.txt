@@ -1,0 +1,1 @@
+Sviluppo di un sistema intelligente per rilevamento intrusioni tramite K-Nearest Neighbors (KNN) e algoritmi di clustering applicato al settore farmaceutico. La piattaforma processa log di sistema e telemetria applicativa con latenza inferiore a 100ms. L'architettura prevede pipeline MLOps con CI/CD automatizzato con ridondanza geografica.

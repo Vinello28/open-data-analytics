@@ -1,0 +1,1 @@
+Piattaforma di analisi video per lo sport (Sport Analytics) che utilizza Computer Vision per estrarre statistiche avanzate dalle partite di calcio.

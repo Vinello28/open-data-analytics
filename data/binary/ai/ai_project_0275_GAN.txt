@@ -1,0 +1,1 @@
+Realizzazione di un sistema di Machine Learning per colorization nel contesto manifatturiero. La soluzione utilizza Generative Adversarial Networks (GAN) per analizzare dataset annotati di oltre 1 milione di esempi in tempo reale. L'infrastruttura tecnologica prevede model compression e quantization per garantire alte performance.

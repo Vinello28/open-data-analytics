@@ -1,0 +1,1 @@
+nuovi n. 2 server per gestione macchine virtuali dell'intera infrastruttura aziendale,  n. 1 server per gestione Backup, n. 1 Stampante per la gestione  delle stampe in rete , n.1 Software vmware vsphere  versione 6, n.1 software per gestione videosorveglianza  aziendale n.2 software per gestione analisi video.

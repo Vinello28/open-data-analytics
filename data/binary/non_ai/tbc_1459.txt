@@ -1,0 +1,7 @@
+Admove.com è una piattaforma di e-commerce adv che permette alle micro, piccole e medie imprese di creare e gestire completamente le proprie campagne pubblicitarie di mobile adv. I tre punti essenziali che qualificano il progetto sono: la semplicità di utilizzo, l'analisi di big data volta all'ottimizzazione della scelta di acquisto e un software per la creazione automatica delle grafiche. ) 
+a) Consulenza specialistica per l¿internazionalizzazione della piattaforma 
+- architettura applicativa del sito di e-commerce aziendale (www.admove.com). Evoluzione in termini di modifiche alle interfacce utente e delle componenti di backend (servizi di semantica, algoritmo di product recommendation, logiche di categorizzazione dei contenuti offerti e di gestione dei nuovi listini)
+
+Realizzazione di nuovi contenuti (componenti grafiche e di testo) per un totale di almeno 200 nuovi oggetti
+
+c) Sviluppo di componenti software per l¿Introduzione di ulteriori modalità di pagamento per il sito di e-commerce aziendale (www.admove.com), nello specifico attraverso l¿utilizzo delle piattaforme esterne satispay e webank

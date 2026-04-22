@@ -1,0 +1,8 @@
+La società intende dotarsi di un sistema di pianificazione e controllo di gestione al fine di orientare le decisioni aziendali in una prospettiva di crescita equilibrata, avvalendosi di una piattaforma di analisi di Big Data per l¿analisi dei dati economico finanziari, di vendita/acquisto e magazzino.
+La piattaforma consentirà:
+1)	La predisposizione di budget annuali
+2)	L'elaborazione di conti economici periodici con analisi degli scostamenti rispetto al budget;
+3)	L'elaborazione di situazioni patrimoniali e finanziarie periodiche;
+4)     L'analisi della redditività aziendale per settore/cliente/mercato/ecc..
+5)	L'elaborazione periodica degli indici di allerta.
+La consulenza sarà anche orientata ad una semplificazione e digitalizzazione dei processi interni per una migliore efficienza dell'assetto organizzativo.

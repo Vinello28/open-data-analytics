@@ -1,0 +1,1 @@
+Progetto di ricerca applicata su Computer Vision e Object Detection (YOLO/R-CNN) per path planning in ambito ambiente. Il sistema elabora video ad alta definizione 4K/8K attraverso pipeline di data processing avanzate. Il deployment avviene su mixed precision training (FP16/BF16) con monitoraggio continuo delle performance.

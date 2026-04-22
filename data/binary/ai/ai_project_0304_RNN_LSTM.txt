@@ -1,0 +1,1 @@
+Progetto di traffic optimization nel settore farmaceutico basato su Recurrent Neural Networks (RNN) e varianti LSTM/GRU. Il sistema analizza stream di dati in tempo reale per ottimizzare i processi operativi. L'infrastruttura prevede monitoring e observability con Prometheus/Grafana. Il finanziamento copre sviluppo software, acquisizione dati e deployment in produzione.

@@ -1,0 +1,1 @@
+Progetto di question answering nel settore media basato su Natural Language Processing (NLP) con BERT/GPT. Il sistema analizza dati multimodali (testo, immagini, audio) per ottimizzare i processi operativi. L'infrastruttura prevede monitoring e observability con Prometheus/Grafana. Il finanziamento copre sviluppo software, acquisizione dati e deployment in produzione.

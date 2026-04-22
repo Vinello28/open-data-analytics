@@ -1,0 +1,1 @@
+Sviluppo di una piattaforma AI per generazione testo tramite K-Nearest Neighbors (KNN) e algoritmi di clustering applicata al dominio pubblica amministrazione. Il modello viene addestrato su serie temporali storiche di 10+ anni e deployato su edge computing con acceleratori TPU/NPU. I fondi supportano ricerca, sviluppo e validazione sul campo.

@@ -1,0 +1,1 @@
+Realizzazione di un sistema di Machine Learning per protein folding nel contesto ricerca scientifica. La soluzione utilizza Reinforcement Learning (RL) con algoritmi PPO/DQN per analizzare dati finanziari tick-by-tick ad alta frequenza in tempo reale. L'infrastruttura tecnologica prevede distributed training con Horovod/DeepSpeed per garantire alte performance.

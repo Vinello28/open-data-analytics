@@ -1,0 +1,1 @@
+Implementazione di algoritmi di Time Series Forecasting con modelli ARIMA-LSTM ibridi per content recommendation nel dominio moda. Il progetto integra corpus testuali multilingue provenienti da multiple sorgenti eterogenee. Il finanziamento copre infrastruttura cloud scalabile (AWS/Azure/GCP) e team di data scientist specializzati.

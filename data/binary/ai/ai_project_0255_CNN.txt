@@ -1,0 +1,1 @@
+Progetto di innovazione digitale per riconoscimento facciale basato su Deep Learning con reti neurali convoluzionali (CNN) nel contesto media. Il modello apprende da dati geospaziali e immagini satellitari multispettrali utilizzando tecniche di curriculum learning. Il deployment sfrutta A/B testing framework per garantire affidabilità.

@@ -1,0 +1,1 @@
+Progetto di controllo qualità nel settore alimentare basato su Reinforcement Learning from Human Feedback (RLHF). Il sistema analizza dati geospaziali e immagini satellitari multispettrali per ottimizzare i processi operativi. L'infrastruttura prevede mixed precision training (FP16/BF16). Il finanziamento copre sviluppo software, acquisizione dati e deployment in produzione.

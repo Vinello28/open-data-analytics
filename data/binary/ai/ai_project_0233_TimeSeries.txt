@@ -1,0 +1,1 @@
+Creazione di un motore di AI per drug discovery basato su Time Series Forecasting con modelli ARIMA-LSTM ibridi dedicato al settore manifatturiero. L'addestramento sfrutta serie temporali storiche di 10+ anni con tecniche di data augmentation. L'infrastruttura include model registry e versioning per training e inferenza.

@@ -1,0 +1,1 @@
+Sviluppo di chatbot multilingue basati su modelli di Large Language Model (LLM) con fine-tuning su linguaggi dialettali e minoranze linguistiche.

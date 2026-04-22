@@ -1,0 +1,1 @@
+Progetto di innovazione digitale per energy management basato su Variational Autoencoders (VAE) nel contesto automotive. Il modello apprende da log di sistema e telemetria applicativa utilizzando tecniche di curriculum learning. Il deployment sfrutta data warehouse su Snowflake/BigQuery per garantire affidabilità.

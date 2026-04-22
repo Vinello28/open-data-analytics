@@ -1,0 +1,1 @@
+Realizzazione di una soluzione AI per SLAM mediante Natural Language Processing (NLP) con BERT/GPT dedicata al mercato sicurezza. Il sistema analizza video ad alta definizione 4K/8K con accuratezza superiore al 95%. L'infrastruttura tecnologica comprende pipeline MLOps con CI/CD automatizzato e sistemi di backup automatizzati.

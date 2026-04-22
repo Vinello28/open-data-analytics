@@ -1,0 +1,9 @@
+Massimo Di Menna è un ingegnere, con due MBA, due anni di PhD e un Master giuridico.
+E’ attualmente professore a contratto  presso l’Università di Bologna, consulente tecnico civile e penale del Tribunale.
+
+Con la partecipazione al presente Bando, l’ingegnere si vuole dotare di tecnologie altamente innovative per poter offrire un servizio sempre più preciso in grado di rispondere a tutte le esigenze della clientela e posizionare meglio l’attività.
+Nello specifico, il progetto prevede l'implementazione di un pacchetto software costituito da:
+.. software relativo all’analisi predittiva del comportamento che consiste nell'applicazione di tecniche statistiche e matematiche ai dati per individuare modelli o tendenze.
+.. software di ricostruzione forense al fine di poter ottenere rappresentazioni accurate dei dettagli fisici dell’evento al fine di ottenere risposte scientificamente corrette
+.. a supporto del software un sistema esperto fondato sull’IA in grado di mettere in atto autonomamente procedure di inferenza adeguate alla risoluzione di problemi particolarmente complessi.
+..  Si rivela infine necessaria l'implementazione di un sistema SSD capace di supportare l’imprenditore nella scelta di strategie di business e di ritorno dell’investimento.

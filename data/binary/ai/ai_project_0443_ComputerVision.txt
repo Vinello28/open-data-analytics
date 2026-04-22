@@ -1,0 +1,1 @@
+Sviluppo di una piattaforma AI per denoising tramite Computer Vision e Object Detection (YOLO/R-CNN) applicata al dominio ricerca scientifica. Il modello viene addestrato su serie temporali storiche di 10+ anni e deployato su architettura serverless per inferenza. I fondi supportano ricerca, sviluppo e validazione sul campo.

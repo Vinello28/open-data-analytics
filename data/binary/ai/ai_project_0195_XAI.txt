@@ -1,0 +1,1 @@
+Implementazione di algoritmi di Explainable AI (XAI) con SHAP/LIME per credit scoring nel dominio energia. Il progetto integra corpus testuali multilingue provenienti da multiple sorgenti eterogenee. Il finanziamento copre architettura serverless per inferenza e team di data scientist specializzati.

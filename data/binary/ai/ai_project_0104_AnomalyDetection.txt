@@ -1,0 +1,1 @@
+Progetto di ricerca applicata su algoritmi di Anomaly Detection per human-robot interaction in ambito turismo. Il sistema elabora corpus testuali multilingue attraverso pipeline di data processing avanzate. Il deployment avviene su cluster GPU NVIDIA A100/H100 per training distribuito con monitoraggio continuo delle performance.

@@ -1,0 +1,1 @@
+Realizzazione di un sistema di Machine Learning per content recommendation nel contesto telecomunicazioni. La soluzione utilizza Explainable AI (XAI) con SHAP/LIME per analizzare stream di dati in tempo reale in tempo reale. L'infrastruttura tecnologica prevede architettura serverless per inferenza per garantire alte performance.

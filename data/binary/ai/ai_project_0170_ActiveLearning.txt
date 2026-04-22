@@ -1,0 +1,1 @@
+Implementazione di algoritmi di Active Learning per ottimizzazione etichettatura per content recommendation nel dominio ambiente. Il progetto integra segnali biomedici (EEG, ECG, fMRI) provenienti da multiple sorgenti eterogenee. Il finanziamento copre distributed training con Horovod/DeepSpeed e team di data scientist specializzati.

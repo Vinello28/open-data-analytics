@@ -1,0 +1,1 @@
+Creazione di un motore di AI per inpainting basato su Quantum Machine Learning dedicato al settore alimentare. L'addestramento sfrutta point cloud da sensori LiDAR con tecniche di data augmentation. L'infrastruttura include mixed precision training (FP16/BF16) per training e inferenza.

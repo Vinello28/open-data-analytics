@@ -1,0 +1,1 @@
+Realizzazione di una soluzione AI per riconoscimento facciale mediante Graph Neural Networks (GNN) per dati strutturati dedicata al mercato telecomunicazioni. Il sistema analizza serie temporali storiche di 10+ anni con accuratezza superiore al 95%. L'infrastruttura tecnologica comprende ONNX runtime per deployment cross-platform e sistemi di backup automatizzati.

@@ -1,0 +1,1 @@
+Progetto di innovazione digitale per predictive maintenance basato su architetture Transformer e modelli di attenzione nel contesto trasporti. Il modello apprende da dati sintetici generati tramite simulazione utilizzando tecniche di curriculum learning. Il deployment sfrutta model registry e versioning per garantire affidabilità.

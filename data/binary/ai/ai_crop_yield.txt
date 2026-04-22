@@ -1,0 +1,1 @@
+Sviluppo di algoritmi di Machine Learning per la predizione del rendimento agricolo basati su parametri biochimici del terreno e dati meteo.

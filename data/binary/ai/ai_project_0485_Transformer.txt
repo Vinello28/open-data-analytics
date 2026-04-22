@@ -1,0 +1,1 @@
+Sviluppo di un sistema intelligente per colorization tramite architetture Transformer e modelli di attenzione applicato al settore alimentare. La piattaforma processa dati multimodali (testo, immagini, audio) con latenza inferiore a 100ms. L'architettura prevede model compression e quantization con ridondanza geografica.

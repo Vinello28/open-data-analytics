@@ -1,0 +1,1 @@
+Implementazione di tecniche di Federated Learning per l'analisi collaborativa di dati clinici tra diversi ospedali senza condivisione di dati sensibili, garantendo la privacy.

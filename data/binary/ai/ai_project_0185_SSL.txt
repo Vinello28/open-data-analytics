@@ -1,0 +1,1 @@
+Realizzazione di una soluzione AI per A/B testing optimization mediante Self-Supervised Learning (SSL) dedicata al mercato aerospace. Il sistema analizza corpus testuali multilingue con accuratezza superiore al 95%. L'infrastruttura tecnologica comprende distributed training con Horovod/DeepSpeed e sistemi di backup automatizzati.

@@ -1,0 +1,1 @@
+Implementazione di un sistema di intelligenza artificiale per riconoscimento facciale utilizzando Recommendation Systems con Collaborative Filtering. Il progetto si rivolge al settore edilizia e processa dati sintetici generati tramite simulazione. L'architettura tecnologica include container orchestration con Kubernetes con capacità di scaling automatico.

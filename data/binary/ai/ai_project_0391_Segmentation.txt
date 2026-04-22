@@ -1,0 +1,1 @@
+Sviluppo di un sistema intelligente per object tracking tramite Semantic Segmentation e Instance Segmentation applicato al settore ambiente. La piattaforma processa Big Data provenienti da sensori IoT distribuiti con latenza inferiore a 100ms. L'architettura prevede feature store centralizzato con ridondanza geografica.

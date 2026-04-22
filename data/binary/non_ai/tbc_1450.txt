@@ -1,0 +1,4 @@
+Il progetto prevede l¿introduzione in azienda di un nuovo sistema di archiviazione e classificazione dei documenti in formato digitale. La piattaforma informatica consentirà di razionalizzare i processi di creazione, gestione e riusabilità dei documenti ed è pensata come un portale web collaborativo utile a semplificare l¿organizzazione delle procedure aziendali.
+
+La gestione documentale e la digitalizzazione dei processi consentirò di apportare benefici in azienda in termini di aumento della produttività e di semplificazione dei processi di modifica, inoltro, condivisione in sicurezza e approvazione dei documenti. 
+Mediante interfaccia web, in modo semplice e intuitivo sarà possibile verificare l¿avanzamento dei processi aziendali, ricevere in automatico una notifica nell¿istante in cui un documento viene approvato, controllare l¿intero processo di conservazione digitale.

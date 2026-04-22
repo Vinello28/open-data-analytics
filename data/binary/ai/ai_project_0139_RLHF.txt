@@ -1,0 +1,1 @@
+Realizzazione di un sistema di Machine Learning per grasp planning nel contesto aerospace. La soluzione utilizza Reinforcement Learning from Human Feedback (RLHF) per analizzare segnali biomedici (EEG, ECG, fMRI) in tempo reale. L'infrastruttura tecnologica prevede architettura serverless per inferenza per garantire alte performance.

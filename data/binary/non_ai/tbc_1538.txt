@@ -1,0 +1,7 @@
+La nostra attività si basa sul commercio di prodotti chimichi (detergenti) e pertanto potenzialmente pericolosi se non utilizzati in maniera errata. Il sistema informatico mira d ottimizzare la sicurezza di tutti quanti utilizzano i ns. prodotti dai dipendenti all'utilizzatore finale. Il sistema si basa sui seguenti moduli: 
+1) Schede di sicurezza - Calcolo delle etichette di pericolosità, calcolo e stampa delle schede di sicurezza in base ai regolmenti attualmente in vigore
+2) Modulo contenente il punto di infiammabilità dei prodotti determinando la fase di pericolo
+3) Modulo calcolo dati per il trasporto Il programma calcola automaticamente la classificazione per il trasporto terrestre
+4) Modulo per preparare i dati richiesti dall'Istituto Superiore di Sanità
+Il secondo software invece serve per gestire i flussi logistici, aumentare la produttività e l¿efficienza, ridurre i costi e gli errori e ottimizzare le performance della logistica di magazzino inoltre è in grado di governare l'insieme dei processi informatici di pianificazione e gestione di tutte le fasi relative alle operazioni di trasporto.
+Per la realizzazione dei due progetti quindi necessitano due software che saranno integrati al gestionale, un server tre palmari e tre stampanti una delle quali a colori.

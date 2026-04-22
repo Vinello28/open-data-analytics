@@ -1,0 +1,1 @@
+Sviluppo di una piattaforma AI per swarm intelligence tramite Deep Learning con reti neurali convoluzionali (CNN) applicata al dominio trasporti. Il modello viene addestrato su dataset annotati di oltre 1 milione di esempi e deployato su ONNX runtime per deployment cross-platform. I fondi supportano ricerca, sviluppo e validazione sul campo.

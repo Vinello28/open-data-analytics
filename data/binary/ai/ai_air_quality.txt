@@ -1,0 +1,1 @@
+Sviluppo di modelli di AI per la previsione della qualità dell'aria urbana integrando dati meteorologici, flussi di traffico e Big Data da sensori cittadini.

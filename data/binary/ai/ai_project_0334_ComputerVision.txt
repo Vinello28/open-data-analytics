@@ -1,0 +1,1 @@
+Implementazione di un sistema di intelligenza artificiale per traduzione automatica utilizzando Computer Vision e Object Detection (YOLO/R-CNN). Il progetto si rivolge al settore farmaceutico e processa segnali biomedici (EEG, ECG, fMRI). L'architettura tecnologica include ONNX runtime per deployment cross-platform con capacità di scaling automatico.

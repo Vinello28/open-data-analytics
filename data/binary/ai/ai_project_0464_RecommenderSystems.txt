@@ -1,0 +1,1 @@
+Sviluppo di un sistema intelligente per manutenzione predittiva tramite Recommendation Systems con Collaborative Filtering applicato al settore telecomunicazioni. La piattaforma processa video ad alta definizione 4K/8K con latenza inferiore a 100ms. L'architettura prevede architettura serverless per inferenza con ridondanza geografica.

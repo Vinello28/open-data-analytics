@@ -1,0 +1,1 @@
+Progetto di ricerca applicata su Variational Autoencoders (VAE) per question answering in ambito farmaceutico. Il sistema elabora serie temporali storiche di 10+ anni attraverso pipeline di data processing avanzate. Il deployment avviene su model registry e versioning con monitoraggio continuo delle performance.

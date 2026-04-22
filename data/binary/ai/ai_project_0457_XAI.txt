@@ -1,0 +1,1 @@
+Realizzazione di un sistema di Machine Learning per riconoscimento vocale nel contesto media. La soluzione utilizza Explainable AI (XAI) con SHAP/LIME per analizzare dati geospaziali e immagini satellitari multispettrali in tempo reale. L'infrastruttura tecnologica prevede infrastruttura cloud scalabile (AWS/Azure/GCP) per garantire alte performance.

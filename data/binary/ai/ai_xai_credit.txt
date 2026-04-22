@@ -1,0 +1,1 @@
+Implementazione di sistemi di Explainable AI (XAI) per rendere trasparenti e interpretabili le decisioni dei modelli di credit scoring basati su Gradient Boosting.

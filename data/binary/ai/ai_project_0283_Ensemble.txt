@@ -1,0 +1,1 @@
+Implementazione di un sistema di intelligenza artificiale per pose estimation utilizzando Ensemble Learning con Random Forest e Gradient Boosting. Il progetto si rivolge al settore farmaceutico e processa immagini ad alta risoluzione acquisite da telecamere industriali. L'architettura tecnologica include architettura serverless per inferenza con capacità di scaling automatico.

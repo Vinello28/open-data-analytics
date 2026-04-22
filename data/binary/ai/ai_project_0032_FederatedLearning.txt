@@ -1,0 +1,1 @@
+Realizzazione di una soluzione AI per lead scoring mediante Federated Learning per privacy-preserving AI dedicata al mercato sport. Il sistema analizza dati finanziari tick-by-tick ad alta frequenza con accuratezza superiore al 95%. L'infrastruttura tecnologica comprende architettura serverless per inferenza e sistemi di backup automatizzati.

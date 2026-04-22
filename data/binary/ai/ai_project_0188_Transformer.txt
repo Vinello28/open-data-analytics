@@ -1,0 +1,1 @@
+Implementazione di algoritmi di architetture Transformer e modelli di attenzione per previsione domanda nel dominio turismo. Il progetto integra corpus testuali multilingue provenienti da multiple sorgenti eterogenee. Il finanziamento copre distributed training con Horovod/DeepSpeed e team di data scientist specializzati.

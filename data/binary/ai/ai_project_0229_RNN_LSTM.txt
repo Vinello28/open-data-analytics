@@ -1,0 +1,1 @@
+Sviluppo di un sistema intelligente per previsione meteo tramite Recurrent Neural Networks (RNN) e varianti LSTM/GRU applicato al settore pubblica amministrazione. La piattaforma processa video ad alta definizione 4K/8K con latenza inferiore a 100ms. L'architettura prevede distributed training con Horovod/DeepSpeed con ridondanza geografica.

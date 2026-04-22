@@ -1,0 +1,1 @@
+Creazione di un motore di AI per chatbot e assistenti virtuali basato su Few-Shot Learning e Meta-Learning dedicato al settore automotive. L'addestramento sfrutta dati geospaziali e immagini satellitari multispettrali con tecniche di data augmentation. L'infrastruttura include edge computing con acceleratori TPU/NPU per training e inferenza.

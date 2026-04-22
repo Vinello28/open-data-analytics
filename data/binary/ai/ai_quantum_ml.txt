@@ -1,0 +1,1 @@
+Progetto di ricerca su Quantum Machine Learning per accelerare l'addestramento di reti neurali profonde in ambito farmaceutico. Finanziamento per hardware quantistico.

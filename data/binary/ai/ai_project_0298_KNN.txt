@@ -1,0 +1,1 @@
+Implementazione di algoritmi di K-Nearest Neighbors (KNN) e algoritmi di clustering per energy management nel dominio manifatturiero. Il progetto integra point cloud da sensori LiDAR provenienti da multiple sorgenti eterogenee. Il finanziamento copre data warehouse su Snowflake/BigQuery e team di data scientist specializzati.

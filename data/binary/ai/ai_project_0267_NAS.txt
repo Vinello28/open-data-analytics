@@ -1,0 +1,1 @@
+Implementazione di un sistema di intelligenza artificiale per customer segmentation utilizzando Neural Architecture Search (NAS). Il progetto si rivolge al settore retail e processa dati sintetici generati tramite simulazione. L'architettura tecnologica include infrastruttura cloud scalabile (AWS/Azure/GCP) con capacità di scaling automatico.

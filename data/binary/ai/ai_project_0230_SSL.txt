@@ -1,0 +1,1 @@
+Progetto di pianificazione percorsi nel settore turismo basato su Self-Supervised Learning (SSL). Il sistema analizza immagini ad alta risoluzione acquisite da telecamere industriali per ottimizzare i processi operativi. L'infrastruttura prevede A/B testing framework. Il finanziamento copre sviluppo software, acquisizione dati e deployment in produzione.

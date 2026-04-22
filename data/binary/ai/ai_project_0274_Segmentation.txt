@@ -1,0 +1,1 @@
+Implementazione di un sistema di intelligenza artificiale per controllo qualità utilizzando Semantic Segmentation e Instance Segmentation. Il progetto si rivolge al settore energia e processa corpus testuali multilingue. L'architettura tecnologica include feature store centralizzato con capacità di scaling automatico.

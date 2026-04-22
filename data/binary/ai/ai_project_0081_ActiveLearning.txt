@@ -1,0 +1,1 @@
+Realizzazione di una soluzione AI per churn prediction mediante Active Learning per ottimizzazione etichettatura dedicata al mercato sicurezza. Il sistema analizza segnali biomedici (EEG, ECG, fMRI) con accuratezza superiore al 95%. L'infrastruttura tecnologica comprende infrastruttura cloud scalabile (AWS/Azure/GCP) e sistemi di backup automatizzati.

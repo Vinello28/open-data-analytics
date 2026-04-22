@@ -1,0 +1,1 @@
+Implementazione di algoritmi di Semantic Segmentation e Instance Segmentation per customer segmentation nel dominio istruzione. Il progetto integra corpus testuali multilingue provenienti da multiple sorgenti eterogenee. Il finanziamento copre A/B testing framework e team di data scientist specializzati.

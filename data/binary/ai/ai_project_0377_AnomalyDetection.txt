@@ -1,0 +1,1 @@
+Sviluppo di un sistema intelligente per content recommendation tramite algoritmi di Anomaly Detection applicato al settore chimico. La piattaforma processa dataset annotati di oltre 1 milione di esempi con latenza inferiore a 100ms. L'architettura prevede A/B testing framework con ridondanza geografica.

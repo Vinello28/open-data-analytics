@@ -1,0 +1,1 @@
+Implementazione di algoritmi di K-Nearest Neighbors (KNN) e algoritmi di clustering per scene understanding nel dominio finanza. Il progetto integra corpus testuali multilingue provenienti da multiple sorgenti eterogenee. Il finanziamento copre distributed training con Horovod/DeepSpeed e team di data scientist specializzati.

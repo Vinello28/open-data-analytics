@@ -1,0 +1,1 @@
+Progetto di ottimizzazione processi produttivi nel settore turismo basato su Variational Autoencoders (VAE). Il sistema analizza segnali biomedici (EEG, ECG, fMRI) per ottimizzare i processi operativi. L'infrastruttura prevede monitoring e observability con Prometheus/Grafana. Il finanziamento copre sviluppo software, acquisizione dati e deployment in produzione.

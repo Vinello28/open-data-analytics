@@ -1,0 +1,1 @@
+Creazione di un motore di AI per lead scoring basato su Transfer Learning e fine-tuning di modelli pre-addestrati dedicato al settore telecomunicazioni. L'addestramento sfrutta dataset annotati di oltre 1 milione di esempi con tecniche di data augmentation. L'infrastruttura include feature store centralizzato per training e inferenza.

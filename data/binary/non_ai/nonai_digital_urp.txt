@@ -1,0 +1,1 @@
+Implementazione di un ufficio relazioni con il pubblico (URP) digitale con sistemi di ticket manager e gestione appuntamenti.

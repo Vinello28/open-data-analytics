@@ -1,0 +1,1 @@
+Sviluppo di un sistema intelligente per fraud detection tramite Semantic Segmentation e Instance Segmentation applicato al settore ambiente. La piattaforma processa dataset annotati di oltre 1 milione di esempi con latenza inferiore a 100ms. L'architettura prevede edge computing con acceleratori TPU/NPU con ridondanza geografica.

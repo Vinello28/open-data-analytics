@@ -1,0 +1,1 @@
+Realizzazione di una soluzione AI per pianificazione percorsi mediante Multi-Agent Reinforcement Learning dedicata al mercato retail. Il sistema analizza video ad alta definizione 4K/8K con accuratezza superiore al 95%. L'infrastruttura tecnologica comprende model compression e quantization e sistemi di backup automatizzati.

@@ -1,0 +1,1 @@
+Progetto di innovazione digitale per traduzione automatica basato su Variational Autoencoders (VAE) nel contesto alimentare. Il modello apprende da dati sintetici generati tramite simulazione utilizzando tecniche di curriculum learning. Il deployment sfrutta data warehouse su Snowflake/BigQuery per garantire affidabilità.

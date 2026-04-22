@@ -1,0 +1,1 @@
+Sviluppo di un sistema intelligente per video synthesis tramite Reinforcement Learning from Human Feedback (RLHF) applicato al settore alimentare. La piattaforma processa dati finanziari tick-by-tick ad alta frequenza con latenza inferiore a 100ms. L'architettura prevede infrastruttura cloud scalabile (AWS/Azure/GCP) con ridondanza geografica.

@@ -1,0 +1,1 @@
+Sviluppo di una piattaforma AI per smart grid tramite Recurrent Neural Networks (RNN) e varianti LSTM/GRU applicata al dominio moda. Il modello viene addestrato su Big Data provenienti da sensori IoT distribuiti e deployato su container orchestration con Kubernetes. I fondi supportano ricerca, sviluppo e validazione sul campo.

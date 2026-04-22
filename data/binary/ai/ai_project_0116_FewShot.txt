@@ -1,0 +1,1 @@
+Implementazione di algoritmi di Few-Shot Learning e Meta-Learning per ottimizzazione processi produttivi nel dominio retail. Il progetto integra dati finanziari tick-by-tick ad alta frequenza provenienti da multiple sorgenti eterogenee. Il finanziamento copre cluster GPU NVIDIA A100/H100 per training distribuito e team di data scientist specializzati.

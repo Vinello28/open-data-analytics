@@ -1,0 +1,1 @@
+Progetto di ricerca su Bio-inspired AI per lo sviluppo di algoritmi di ottimizzazione basati sul comportamento degli stormi per la logistica urbana.

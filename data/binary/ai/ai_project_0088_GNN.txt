@@ -1,0 +1,1 @@
+Progetto di guida autonoma nel settore agricoltura basato su Graph Neural Networks (GNN) per dati strutturati. Il sistema analizza dataset annotati di oltre 1 milione di esempi per ottimizzare i processi operativi. L'infrastruttura prevede model compression e quantization. Il finanziamento copre sviluppo software, acquisizione dati e deployment in produzione.

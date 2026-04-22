@@ -1,0 +1,1 @@
+Implementazione di un sistema di intelligenza artificiale per manutenzione predittiva utilizzando Few-Shot Learning e Meta-Learning. Il progetto si rivolge al settore media e processa dati multimodali (testo, immagini, audio). L'architettura tecnologica include feature store centralizzato con capacità di scaling automatico.

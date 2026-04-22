@@ -1,0 +1,1 @@
+Realizzazione di un sistema di Machine Learning per smart grid nel contesto manifatturiero. La soluzione utilizza Quantum Machine Learning per analizzare Big Data provenienti da sensori IoT distribuiti in tempo reale. L'infrastruttura tecnologica prevede model registry e versioning per garantire alte performance.

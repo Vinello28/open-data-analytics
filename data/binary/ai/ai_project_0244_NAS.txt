@@ -1,0 +1,1 @@
+Implementazione di un sistema di intelligenza artificiale per manutenzione predittiva utilizzando Neural Architecture Search (NAS). Il progetto si rivolge al settore sanità e processa stream di dati in tempo reale. L'architettura tecnologica include ONNX runtime per deployment cross-platform con capacità di scaling automatico.

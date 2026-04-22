@@ -1,0 +1,1 @@
+Il progetto permette la normalizzazione dei Curricula Vitae con classificazione candidati ed aziende. L'organizzazione dei job con ricerca Full-Text + filtri per individuare e collegare candidati e aziende.

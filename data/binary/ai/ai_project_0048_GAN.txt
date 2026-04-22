@@ -1,0 +1,1 @@
+Creazione di un motore di AI per action recognition basato su Generative Adversarial Networks (GAN) dedicato al settore automotive. L'addestramento sfrutta segnali biomedici (EEG, ECG, fMRI) con tecniche di data augmentation. L'infrastruttura include A/B testing framework per training e inferenza.

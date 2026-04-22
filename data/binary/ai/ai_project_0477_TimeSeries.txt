@@ -1,0 +1,1 @@
+Implementazione di un sistema di intelligenza artificiale per pose estimation utilizzando Time Series Forecasting con modelli ARIMA-LSTM ibridi. Il progetto si rivolge al settore ambiente e processa point cloud da sensori LiDAR. L'architettura tecnologica include architettura serverless per inferenza con capacità di scaling automatico.

@@ -1,0 +1,1 @@
+Progetto di energy management nel settore agricoltura basato su Generative Adversarial Networks (GAN). Il sistema analizza Big Data provenienti da sensori IoT distribuiti per ottimizzare i processi operativi. L'infrastruttura prevede edge computing con acceleratori TPU/NPU. Il finanziamento copre sviluppo software, acquisizione dati e deployment in produzione.

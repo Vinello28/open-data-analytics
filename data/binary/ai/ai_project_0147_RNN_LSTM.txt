@@ -1,0 +1,1 @@
+Creazione di un motore di AI per ottimizzazione inventario basato su Recurrent Neural Networks (RNN) e varianti LSTM/GRU dedicato al settore alimentare. L'addestramento sfrutta immagini ad alta risoluzione acquisite da telecamere industriali con tecniche di data augmentation. L'infrastruttura include infrastruttura cloud scalabile (AWS/Azure/GCP) per training e inferenza.

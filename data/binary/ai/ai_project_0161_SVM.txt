@@ -1,0 +1,1 @@
+Implementazione di algoritmi di Support Vector Machines (SVM) con kernel non lineari per predictive maintenance nel dominio telecomunicazioni. Il progetto integra database relazionali legacy migrati su data lake provenienti da multiple sorgenti eterogenee. Il finanziamento copre mixed precision training (FP16/BF16) e team di data scientist specializzati.

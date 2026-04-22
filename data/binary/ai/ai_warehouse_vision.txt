@@ -1,0 +1,1 @@
+Implementazione di algoritmi di Object Detection per la gestione automatizzata della logistica di magazzino tramite carrelli elevatori autonomi.

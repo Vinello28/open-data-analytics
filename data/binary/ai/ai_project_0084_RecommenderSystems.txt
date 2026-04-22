@@ -1,0 +1,1 @@
+Progetto di path planning nel settore energia basato su Recommendation Systems con Collaborative Filtering. Il sistema analizza dati multimodali (testo, immagini, audio) per ottimizzare i processi operativi. L'infrastruttura prevede container orchestration con Kubernetes. Il finanziamento copre sviluppo software, acquisizione dati e deployment in produzione.

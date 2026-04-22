@@ -1,0 +1,1 @@
+Realizzazione di una soluzione AI per genomica personalizzata mediante algoritmi di Anomaly Detection dedicata al mercato turismo. Il sistema analizza dataset annotati di oltre 1 milione di esempi con accuratezza superiore al 95%. L'infrastruttura tecnologica comprende monitoring e observability con Prometheus/Grafana e sistemi di backup automatizzati.

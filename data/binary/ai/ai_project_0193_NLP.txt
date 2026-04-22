@@ -1,0 +1,1 @@
+Creazione di un motore di AI per riconoscimento vocale basato su Natural Language Processing (NLP) con BERT/GPT dedicato al settore energia. L'addestramento sfrutta log di sistema e telemetria applicativa con tecniche di data augmentation. L'infrastruttura include data warehouse su Snowflake/BigQuery per training e inferenza.

@@ -1,0 +1,1 @@
+Implementazione di algoritmi di Semantic Segmentation e Instance Segmentation per guida autonoma nel dominio manifatturiero. Il progetto integra segnali biomedici (EEG, ECG, fMRI) provenienti da multiple sorgenti eterogenee. Il finanziamento copre distributed training con Horovod/DeepSpeed e team di data scientist specializzati.

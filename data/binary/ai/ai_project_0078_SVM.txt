@@ -1,0 +1,1 @@
+Implementazione di un sistema di intelligenza artificiale per riconoscimento facciale utilizzando Support Vector Machines (SVM) con kernel non lineari. Il progetto si rivolge al settore alimentare e processa dati finanziari tick-by-tick ad alta frequenza. L'architettura tecnologica include distributed training con Horovod/DeepSpeed con capacità di scaling automatico.

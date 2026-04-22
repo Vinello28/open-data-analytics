@@ -1,0 +1,1 @@
+Creazione di un motore di AI per pose estimation basato su Transfer Learning e fine-tuning di modelli pre-addestrati dedicato al settore media. L'addestramento sfrutta video ad alta definizione 4K/8K con tecniche di data augmentation. L'infrastruttura include A/B testing framework per training e inferenza.

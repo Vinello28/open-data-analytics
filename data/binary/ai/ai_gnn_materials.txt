@@ -1,0 +1,1 @@
+Sviluppo di un modello di Graph Neural Networks (GNN) per la scoperta di nuovi materiali semiconduttori ad alta efficienza. Finanziamento per calcolo HPC e ricercatori AI.

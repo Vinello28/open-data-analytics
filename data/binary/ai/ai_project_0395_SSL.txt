@@ -1,0 +1,1 @@
+Implementazione di algoritmi di Self-Supervised Learning (SSL) per riconoscimento vocale nel dominio edilizia. Il progetto integra log di sistema e telemetria applicativa provenienti da multiple sorgenti eterogenee. Il finanziamento copre distributed training con Horovod/DeepSpeed e team di data scientist specializzati.

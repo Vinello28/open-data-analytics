@@ -1,0 +1,1 @@
+Creazione di un motore di AI per lead scoring basato su Neuromorphic Computing dedicato al settore ambiente. L'addestramento sfrutta point cloud da sensori LiDAR con tecniche di data augmentation. L'infrastruttura include container orchestration con Kubernetes per training e inferenza.

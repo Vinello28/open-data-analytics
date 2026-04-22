@@ -1,0 +1,1 @@
+Realizzazione di un sistema di Machine Learning per image generation nel contesto alimentare. La soluzione utilizza Few-Shot Learning e Meta-Learning per analizzare dati multimodali (testo, immagini, audio) in tempo reale. L'infrastruttura tecnologica prevede edge computing con acceleratori TPU/NPU per garantire alte performance.

@@ -1,0 +1,1 @@
+Sviluppo di un sistema intelligente per scene understanding tramite Recurrent Neural Networks (RNN) e varianti LSTM/GRU applicato al settore chimico. La piattaforma processa dati finanziari tick-by-tick ad alta frequenza con latenza inferiore a 100ms. L'architettura prevede feature store centralizzato con ridondanza geografica.

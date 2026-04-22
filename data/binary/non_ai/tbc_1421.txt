@@ -1,0 +1,9 @@
+Obiettivo del progetto è quello di migliorare l¿efficienza aziendale ed incrementare le opportunità di vendita attraverso la realizzazione di una piattaforma web di E-Commerce integrata con il nostro sistema gestionale e la banca dati farmaceutica, e di un¿applicazione mobile per la vendita, fidelizzazione dei clienti e la promozione dei nostri prodotti.  
+
+Sulla base dei campi di intervento cui fa riferimento il D.M. 23 settembre 2014, La Farmacia dei Mille intende sviluppare i seguenti ambiti di attività: 
+A.	Miglioramento dell¿efficienza aziendale: Acquisto di 1 postazione aggiuntiva, 1 tablet e 1 smartphone
+B.	Formazione qualificata nel campo ICT del personale: Attività di formazione per l¿addestramento dello Store manager e per lo sviluppo e la redazione dei contenuti web/social.
+C.	Sviluppo di soluzioni e-commerce: Sito Web di E-Commerce
+D.	Sviluppo di soluzioni e-commerce: Applicazione Mobile per gli store android ed Apple
+E.	Sviluppo di soluzioni e-commerce: Attività di consulenza per lo sviluppo ed il design del tema grafico dell¿app e del logo
+F.	Sviluppo di soluzioni e-commerce: Attività di consulenza per la definizione della strategia di promozione della soluzione di e-commerce sviluppata sul social network e per il posizionamento e l¿indicizzazione appropriata.

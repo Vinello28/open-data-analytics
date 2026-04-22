@@ -1,0 +1,1 @@
+Realizzazione di una soluzione AI per lead scoring mediante Speech Recognition con modelli end-to-end dedicata al mercato agricoltura. Il sistema analizza dati sintetici generati tramite simulazione con accuratezza superiore al 95%. L'infrastruttura tecnologica comprende container orchestration con Kubernetes e sistemi di backup automatizzati.

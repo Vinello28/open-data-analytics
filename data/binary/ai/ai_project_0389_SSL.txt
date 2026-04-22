@@ -1,0 +1,1 @@
+Progetto di ricerca applicata su Self-Supervised Learning (SSL) per previsione meteo in ambito pubblica amministrazione. Il sistema elabora dati finanziari tick-by-tick ad alta frequenza attraverso pipeline di data processing avanzate. Il deployment avviene su edge computing con acceleratori TPU/NPU con monitoraggio continuo delle performance.

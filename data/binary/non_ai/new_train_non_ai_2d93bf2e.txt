@@ -1,0 +1,1 @@
+Realizzazione di un portale per il cimitero di Giulianova che permetta la classificazione dei defunti da parte della società e della committente e la ricerca degli stessi tramite il portale On Line . Per la realizzazione del progetto è necessario implementare qr-code e due totem touch screen. Infine è necessario defnire il sistema per la geolocalizzazione delle aree del cimitero.

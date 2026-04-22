@@ -1,0 +1,1 @@
+Progetto di ricerca applicata su Federated Learning per privacy-preserving AI per previsione domanda in ambito sanità. Il sistema elabora Big Data provenienti da sensori IoT distribuiti attraverso pipeline di data processing avanzate. Il deployment avviene su mixed precision training (FP16/BF16) con monitoraggio continuo delle performance.

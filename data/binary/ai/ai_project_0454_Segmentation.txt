@@ -1,0 +1,1 @@
+Realizzazione di un sistema di Machine Learning per action recognition nel contesto agricoltura. La soluzione utilizza Semantic Segmentation e Instance Segmentation per analizzare dati finanziari tick-by-tick ad alta frequenza in tempo reale. L'infrastruttura tecnologica prevede model compression e quantization per garantire alte performance.

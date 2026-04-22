@@ -1,0 +1,1 @@
+Realizzazione di una soluzione AI per lead scoring mediante Continual Learning e Lifelong Learning dedicata al mercato finanza. Il sistema analizza dataset annotati di oltre 1 milione di esempi con accuratezza superiore al 95%. L'infrastruttura tecnologica comprende ONNX runtime per deployment cross-platform e sistemi di backup automatizzati.

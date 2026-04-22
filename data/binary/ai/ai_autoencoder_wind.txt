@@ -1,0 +1,1 @@
+Sistema di manutenzione predittiva per turbine eoliche basato su Anomaly Detection tramite Autoencoder. Il modello identifica scostamenti dai pattern di vibrazione normali.

@@ -1,0 +1,1 @@
+Sviluppo di una piattaforma AI per video synthesis tramite Natural Language Processing (NLP) con BERT/GPT applicata al dominio retail. Il modello viene addestrato su database relazionali legacy migrati su data lake e deployato su distributed training con Horovod/DeepSpeed. I fondi supportano ricerca, sviluppo e validazione sul campo.

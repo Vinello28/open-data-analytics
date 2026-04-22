@@ -1,0 +1,1 @@
+Progetto di innovazione digitale per SLAM basato su Explainable AI (XAI) con SHAP/LIME nel contesto energia. Il modello apprende da log di sistema e telemetria applicativa utilizzando tecniche di curriculum learning. Il deployment sfrutta container orchestration con Kubernetes per garantire affidabilità.

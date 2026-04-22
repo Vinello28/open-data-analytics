@@ -1,0 +1,1 @@
+Progetto di ricerca applicata su Edge AI e TinyML per dispositivi embedded per video synthesis in ambito ambiente. Il sistema elabora Big Data provenienti da sensori IoT distribuiti attraverso pipeline di data processing avanzate. Il deployment avviene su data warehouse su Snowflake/BigQuery con monitoraggio continuo delle performance.

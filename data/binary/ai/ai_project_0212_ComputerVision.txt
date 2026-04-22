@@ -1,0 +1,1 @@
+Progetto di innovazione digitale per pose estimation basato su Computer Vision e Object Detection (YOLO/R-CNN) nel contesto manifatturiero. Il modello apprende da video ad alta definizione 4K/8K utilizzando tecniche di curriculum learning. Il deployment sfrutta architettura serverless per inferenza per garantire affidabilità.

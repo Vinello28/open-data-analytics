@@ -1,0 +1,1 @@
+Creazione di un motore di AI per smart grid basato su Neural Architecture Search (NAS) dedicato al settore ricerca scientifica. L'addestramento sfrutta dati multimodali (testo, immagini, audio) con tecniche di data augmentation. L'infrastruttura include container orchestration con Kubernetes per training e inferenza.

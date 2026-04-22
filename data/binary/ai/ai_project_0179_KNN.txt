@@ -1,0 +1,1 @@
+Sviluppo di una piattaforma AI per diagnosi medica automatizzata tramite K-Nearest Neighbors (KNN) e algoritmi di clustering applicata al dominio telecomunicazioni. Il modello viene addestrato su video ad alta definizione 4K/8K e deployato su mixed precision training (FP16/BF16). I fondi supportano ricerca, sviluppo e validazione sul campo.

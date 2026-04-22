@@ -1,0 +1,1 @@
+Sviluppo di un sistema intelligente per denoising tramite Few-Shot Learning e Meta-Learning applicato al settore sanità. La piattaforma processa dataset annotati di oltre 1 milione di esempi con latenza inferiore a 100ms. L'architettura prevede mixed precision training (FP16/BF16) con ridondanza geografica.

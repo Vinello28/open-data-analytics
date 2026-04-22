@@ -1,0 +1,1 @@
+Sviluppo di un sistema intelligente per sentiment analysis tramite algoritmi di Anomaly Detection applicato al settore sport. La piattaforma processa stream di dati in tempo reale con latenza inferiore a 100ms. L'architettura prevede ONNX runtime per deployment cross-platform con ridondanza geografica.

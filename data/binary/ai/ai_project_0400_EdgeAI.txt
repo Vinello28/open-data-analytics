@@ -1,0 +1,1 @@
+Sviluppo di una piattaforma AI per previsione domanda tramite Edge AI e TinyML per dispositivi embedded applicata al dominio automotive. Il modello viene addestrato su point cloud da sensori LiDAR e deployato su mixed precision training (FP16/BF16). I fondi supportano ricerca, sviluppo e validazione sul campo.

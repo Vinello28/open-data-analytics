@@ -1,0 +1,1 @@
+Sistema di rilevamento di fake news basato su analisi stilometrica e modelli di NLP per la valutazione della credibilità delle fonti informative.

@@ -1,0 +1,1 @@
+sviluppo della piattaforma Cloud per raccolta e gestione dati IoT (Big Data) provenienti da smart wine dispenser. I wine dispenser “albi” si basano su una evoluta tecnologia IoT basata su tecnologia STM32F4 che assicura un sistema di gestione di soluzioni smart home al massimo livello di sicurezza.

@@ -1,0 +1,1 @@
+Progetto di pricing dinamico nel settore pubblica amministrazione basato su Continual Learning e Lifelong Learning. Il sistema analizza dati sintetici generati tramite simulazione per ottimizzare i processi operativi. L'infrastruttura prevede feature store centralizzato. Il finanziamento copre sviluppo software, acquisizione dati e deployment in produzione.

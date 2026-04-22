@@ -1,0 +1,1 @@
+Progetto di ottimizzazione della rete idrica tramite algoritmi di Reinforcement Learning (RL). Il sistema apprende autonomamente la gestione delle valvole per minimizzare le perdite di pressione.

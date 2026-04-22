@@ -1,0 +1,1 @@
+Implementazione di algoritmi di Self-Supervised Learning (SSL) per generazione testo nel dominio moda. Il progetto integra Big Data provenienti da sensori IoT distribuiti provenienti da multiple sorgenti eterogenee. Il finanziamento copre edge computing con acceleratori TPU/NPU e team di data scientist specializzati.

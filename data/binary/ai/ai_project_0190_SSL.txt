@@ -1,0 +1,1 @@
+Progetto di swarm intelligence nel settore sicurezza basato su Self-Supervised Learning (SSL). Il sistema analizza log di sistema e telemetria applicativa per ottimizzare i processi operativi. L'infrastruttura prevede feature store centralizzato. Il finanziamento copre sviluppo software, acquisizione dati e deployment in produzione.

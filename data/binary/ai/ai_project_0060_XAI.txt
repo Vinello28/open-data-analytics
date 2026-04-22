@@ -1,0 +1,1 @@
+Progetto di energy management nel settore automotive basato su Explainable AI (XAI) con SHAP/LIME. Il sistema analizza dati finanziari tick-by-tick ad alta frequenza per ottimizzare i processi operativi. L'infrastruttura prevede edge computing con acceleratori TPU/NPU. Il finanziamento copre sviluppo software, acquisizione dati e deployment in produzione.

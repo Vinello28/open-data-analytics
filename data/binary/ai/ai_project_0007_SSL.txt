@@ -1,0 +1,1 @@
+Realizzazione di una soluzione AI per traffic optimization mediante Self-Supervised Learning (SSL) dedicata al mercato sanità. Il sistema analizza Big Data provenienti da sensori IoT distribuiti con accuratezza superiore al 95%. L'infrastruttura tecnologica comprende infrastruttura cloud scalabile (AWS/Azure/GCP) e sistemi di backup automatizzati.

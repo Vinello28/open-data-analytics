@@ -1,0 +1,1 @@
+Progetto di ricerca applicata su Graph Neural Networks (GNN) per dati strutturati per credit scoring in ambito sicurezza. Il sistema elabora stream di dati in tempo reale attraverso pipeline di data processing avanzate. Il deployment avviene su mixed precision training (FP16/BF16) con monitoraggio continuo delle performance.

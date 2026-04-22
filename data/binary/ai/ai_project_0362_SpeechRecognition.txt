@@ -1,0 +1,1 @@
+Realizzazione di un sistema di Machine Learning per SLAM nel contesto retail. La soluzione utilizza Speech Recognition con modelli end-to-end per analizzare point cloud da sensori LiDAR in tempo reale. L'infrastruttura tecnologica prevede edge computing con acceleratori TPU/NPU per garantire alte performance.

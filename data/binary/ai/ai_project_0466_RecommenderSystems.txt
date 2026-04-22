@@ -1,0 +1,1 @@
+Progetto di innovazione digitale per previsione meteo basato su Recommendation Systems con Collaborative Filtering nel contesto automotive. Il modello apprende da point cloud da sensori LiDAR utilizzando tecniche di curriculum learning. Il deployment sfrutta monitoring e observability con Prometheus/Grafana per garantire affidabilità.

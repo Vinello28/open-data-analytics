@@ -1,0 +1,1 @@
+Progetto di analisi video sorveglianza nel settore moda basato su Variational Autoencoders (VAE). Il sistema analizza dati sintetici generati tramite simulazione per ottimizzare i processi operativi. L'infrastruttura prevede cluster GPU NVIDIA A100/H100 per training distribuito. Il finanziamento copre sviluppo software, acquisizione dati e deployment in produzione.

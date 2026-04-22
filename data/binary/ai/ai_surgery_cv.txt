@@ -1,0 +1,1 @@
+Sviluppo di algoritmi di computer vision per l'assistenza robotica alla chirurgia mininvasiva, garantendo precisione millimetrica e feedback aptico.

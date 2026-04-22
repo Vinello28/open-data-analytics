@@ -1,0 +1,1 @@
+Progetto di innovazione digitale per predictive maintenance basato su Ensemble Learning con Random Forest e Gradient Boosting nel contesto turismo. Il modello apprende da log di sistema e telemetria applicativa utilizzando tecniche di curriculum learning. Il deployment sfrutta model registry e versioning per garantire affidabilità.

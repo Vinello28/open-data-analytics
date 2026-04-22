@@ -1,0 +1,1 @@
+Progetto di chatbot e assistenti virtuali nel settore ricerca scientifica basato su Recurrent Neural Networks (RNN) e varianti LSTM/GRU. Il sistema analizza log di sistema e telemetria applicativa per ottimizzare i processi operativi. L'infrastruttura prevede model compression e quantization. Il finanziamento copre sviluppo software, acquisizione dati e deployment in produzione.

@@ -1,0 +1,1 @@
+Creazione di un motore di AI per personalization basato su Computer Vision e Object Detection (YOLO/R-CNN) dedicato al settore energia. L'addestramento sfrutta dati multimodali (testo, immagini, audio) con tecniche di data augmentation. L'infrastruttura include architettura serverless per inferenza per training e inferenza.

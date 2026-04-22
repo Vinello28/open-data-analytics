@@ -1,0 +1,1 @@
+Creazione di un motore di AI per predictive maintenance basato su K-Nearest Neighbors (KNN) e algoritmi di clustering dedicato al settore sanità. L'addestramento sfrutta serie temporali storiche di 10+ anni con tecniche di data augmentation. L'infrastruttura include infrastruttura cloud scalabile (AWS/Azure/GCP) per training e inferenza.

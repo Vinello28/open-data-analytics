@@ -1,0 +1,10 @@
+Sicurgest consente la gestione informatizzata di tutti i documenti e degli adempimenti tecnico amministrativi in materia di sicurezza e salute negli ambienti di lavoro.
+il software è struttturato in otto SEZIONI interconnessE: tra di loro
+Nella sezione SicurDOC è possibile importare visualizzare, modificare, integrare documenti, diminuendo il numero dei faldoni ed, infine, validaando i documenti caricati con firma digitale e data certa.
+Nella sezione SicurSAN è possibile gestire interamente la sorveglianza sanitaria e la cartella medica dei lavoratori.
+Nella sezione SicurFORM è possibile inserire nuovi corsi di formazione, addestramento o informazione mediante una procedura guidata e intuitiva. 
+Nella sezione SicurMAC è possibile inserire la registrazione di una nuova attrezzatura o macchina, nonché gli interventi di manutenzione.
+Nella sezione SicurLAV è possibile inserire o visualizzare informazioni del profilo di un dipendente. 
+Nella sezione SicurSCAD sono presenti diverse categorie di scadenzario relative alla salute e sicurezza dei lavoratori.
+Nella sezione SicurREG vengono gestite le informazioni sulle Registrazioni Obbligatorie di Sicurezza del Datore di Lavoro, dei Dirigenti o dei Preposti.
+La sezione  SicurNEWS permette l¿accesso a notizie e approfondimenti.

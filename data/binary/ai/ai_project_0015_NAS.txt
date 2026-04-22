@@ -1,0 +1,1 @@
+Realizzazione di un sistema di Machine Learning per churn prediction nel contesto media. La soluzione utilizza Neural Architecture Search (NAS) per analizzare database relazionali legacy migrati su data lake in tempo reale. L'infrastruttura tecnologica prevede model compression e quantization per garantire alte performance.

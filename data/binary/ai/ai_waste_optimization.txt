@@ -1,0 +1,1 @@
+Ottimizzazione dei percorsi di raccolta rifiuti tramite algoritmi genetici e modelli predittivi di riempimento dei cassonetti basati su dati storici e stagionalità.

@@ -1,0 +1,1 @@
+Creazione di un motore di AI per SLAM basato su K-Nearest Neighbors (KNN) e algoritmi di clustering dedicato al settore sicurezza. L'addestramento sfrutta segnali biomedici (EEG, ECG, fMRI) con tecniche di data augmentation. L'infrastruttura include edge computing con acceleratori TPU/NPU per training e inferenza.

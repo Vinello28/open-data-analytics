@@ -1,0 +1,1 @@
+Realizzazione di un sistema di car sharing elettrico comunale con l'installazione di colonnine di ricarica in tutta la città.

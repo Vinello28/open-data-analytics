@@ -1,0 +1,4 @@
+Obiettivo del progetto è l'applicazione di nuovi metodi organizzativi nelle strategie di gestione aziendale.
+Con l¿applicazione delle nuove metodologie di lavoro, l¿organizzazione si pone come principali obiettivi i seguenti:
+-	Introdurre un Modello Organizzativo Interno ai sensi del DLGS 231/2001 al fine di prevenire i reati presupposto in materia amministrativa;
+- Introdurre un Modello Organizzativo Privacy al fine di agevolare l'adeguamento al Regolamento UE 679/2016 ed incrementare il livello di protezione dei dati personali nell'ambito delle attività di sviluppo software e gestione di big data.

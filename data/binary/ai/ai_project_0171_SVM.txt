@@ -1,0 +1,1 @@
+Creazione di un motore di AI per traduzione automatica basato su Support Vector Machines (SVM) con kernel non lineari dedicato al settore finanza. L'addestramento sfrutta Big Data provenienti da sensori IoT distribuiti con tecniche di data augmentation. L'infrastruttura include infrastruttura cloud scalabile (AWS/Azure/GCP) per training e inferenza.

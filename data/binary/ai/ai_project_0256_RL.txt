@@ -1,0 +1,1 @@
+Progetto di innovazione digitale per denoising basato su Reinforcement Learning (RL) con algoritmi PPO/DQN nel contesto telecomunicazioni. Il modello apprende da segnali biomedici (EEG, ECG, fMRI) utilizzando tecniche di curriculum learning. Il deployment sfrutta ONNX runtime per deployment cross-platform per garantire affidabilità.

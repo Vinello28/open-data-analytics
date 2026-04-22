@@ -1,0 +1,1 @@
+Sviluppo di una piattaforma AI per ottimizzazione processi produttivi tramite Variational Autoencoders (VAE) applicata al dominio automotive. Il modello viene addestrato su dati finanziari tick-by-tick ad alta frequenza e deployato su distributed training con Horovod/DeepSpeed. I fondi supportano ricerca, sviluppo e validazione sul campo.

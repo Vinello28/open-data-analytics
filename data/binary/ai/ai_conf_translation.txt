@@ -1,0 +1,1 @@
+Sistema di traduzione simultanea per conferenze basato su architetture Transformer con latenza ridotta e supporto per terminologia tecnica specialistica.

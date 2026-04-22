@@ -1,0 +1,1 @@
+Sviluppo di una piattaforma AI per ottimizzazione processi produttivi tramite Speech Recognition con modelli end-to-end applicata al dominio ambiente. Il modello viene addestrato su segnali biomedici (EEG, ECG, fMRI) e deployato su ONNX runtime per deployment cross-platform. I fondi supportano ricerca, sviluppo e validazione sul campo.

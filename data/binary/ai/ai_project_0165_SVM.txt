@@ -1,0 +1,1 @@
+Realizzazione di una soluzione AI per diagnosi medica automatizzata mediante Support Vector Machines (SVM) con kernel non lineari dedicata al mercato sport. Il sistema analizza dati geospaziali e immagini satellitari multispettrali con accuratezza superiore al 95%. L'infrastruttura tecnologica comprende pipeline MLOps con CI/CD automatizzato e sistemi di backup automatizzati.

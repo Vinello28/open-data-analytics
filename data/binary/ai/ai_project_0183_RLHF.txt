@@ -1,0 +1,1 @@
+Progetto di ricerca applicata su Reinforcement Learning from Human Feedback (RLHF) per video synthesis in ambito sport. Il sistema elabora dati finanziari tick-by-tick ad alta frequenza attraverso pipeline di data processing avanzate. Il deployment avviene su container orchestration con Kubernetes con monitoraggio continuo delle performance.

@@ -1,0 +1,1 @@
+Realizzazione di un sistema di Machine Learning per diagnosi medica automatizzata nel contesto automotive. La soluzione utilizza Edge AI e TinyML per dispositivi embedded per analizzare log di sistema e telemetria applicativa in tempo reale. L'infrastruttura tecnologica prevede mixed precision training (FP16/BF16) per garantire alte performance.

@@ -1,0 +1,1 @@
+Sviluppo di un sistema intelligente per analisi immagini satellitari tramite Reinforcement Learning (RL) con algoritmi PPO/DQN applicato al settore retail. La piattaforma processa point cloud da sensori LiDAR con latenza inferiore a 100ms. L'architettura prevede ONNX runtime per deployment cross-platform con ridondanza geografica.

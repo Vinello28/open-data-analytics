@@ -1,0 +1,1 @@
+Creazione di un motore di AI per generazione testo basato su Generative Adversarial Networks (GAN) dedicato al settore logistica. L'addestramento sfrutta dati geospaziali e immagini satellitari multispettrali con tecniche di data augmentation. L'infrastruttura include pipeline MLOps con CI/CD automatizzato per training e inferenza.

@@ -1,0 +1,7 @@
+a) migliorare l'efficienza aziendale : la cooperativa amplierà i locali dei servizi e dovrà implementare un¿ampliamento della rete fissa e wifi attuale nonché potenziare la connettività offerta anche ai pazienti in nelle sale d¿attesa. Verrà anche implementato un nuovo server interno.
+b) sviluppare soluzioni di e-commerce : realizzazione di un applicativo dedicato alla prenotazione e pagamento online delle prestazioni sanitarie erogate nonché alla raccolta di donazioni del nostro ente noprofit.
+c) realizzare interventi di formazione qualificata del personale nel campo ICT : si rende necessaria la formazione qualificata del personale interno dedicato alla gestione dell¿attuale Sistema Informativo.
+Il piano formativo in forma Blended, si articolerà nel seguente modo:
+a)	Fad realizzata dall¿attuale fornitore di servizi ICT concernente la descrizione delle configurazioni, procedure ed istruzioni operative concernenti la rete aziendale e il sistema cloud attualmente esistente
+b)	L¿addestramento su campo alla realizzazione delle routine di amministrazione e manutenzione dei sistemi sia fisici che cloud.
+c)	La realizzazione finale di un manuale operativo globale e dettagliato.

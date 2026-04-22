@@ -1,0 +1,1 @@
+Sviluppo di una piattaforma AI per summarization tramite algoritmi di Anomaly Detection applicata al dominio ambiente. Il modello viene addestrato su dataset annotati di oltre 1 milione di esempi e deployato su cluster GPU NVIDIA A100/H100 per training distribuito. I fondi supportano ricerca, sviluppo e validazione sul campo.

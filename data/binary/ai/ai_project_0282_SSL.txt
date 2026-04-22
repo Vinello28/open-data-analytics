@@ -1,0 +1,1 @@
+Implementazione di algoritmi di Self-Supervised Learning (SSL) per rilevamento intrusioni nel dominio automotive. Il progetto integra dataset annotati di oltre 1 milione di esempi provenienti da multiple sorgenti eterogenee. Il finanziamento copre container orchestration con Kubernetes e team di data scientist specializzati.

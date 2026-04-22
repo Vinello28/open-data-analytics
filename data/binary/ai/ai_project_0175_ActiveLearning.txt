@@ -1,0 +1,1 @@
+Implementazione di un sistema di intelligenza artificiale per sentiment analysis utilizzando Active Learning per ottimizzazione etichettatura. Il progetto si rivolge al settore sicurezza e processa dati sintetici generati tramite simulazione. L'architettura tecnologica include distributed training con Horovod/DeepSpeed con capacità di scaling automatico.

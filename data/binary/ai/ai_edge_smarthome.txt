@@ -1,0 +1,1 @@
+Sistema di controllo per smart home basato su AI on-edge (Edge AI) in grado di riconoscere pattern di utilizzo e ottimizzare il consumo energetico locale.

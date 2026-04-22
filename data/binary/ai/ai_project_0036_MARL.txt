@@ -1,0 +1,1 @@
+Implementazione di un sistema di intelligenza artificiale per churn prediction utilizzando Multi-Agent Reinforcement Learning. Il progetto si rivolge al settore telecomunicazioni e processa Big Data provenienti da sensori IoT distribuiti. L'architettura tecnologica include pipeline MLOps con CI/CD automatizzato con capacità di scaling automatico.

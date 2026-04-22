@@ -1,0 +1,1 @@
+Progetto di ricerca applicata su Federated Learning per privacy-preserving AI per 3D reconstruction in ambito chimico. Il sistema elabora dati geospaziali e immagini satellitari multispettrali attraverso pipeline di data processing avanzate. Il deployment avviene su distributed training con Horovod/DeepSpeed con monitoraggio continuo delle performance.

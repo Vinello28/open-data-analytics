@@ -1,0 +1,1 @@
+Progetto di intelligenza artificiale per il monitoraggio della biodiversità marina tramite idrofoni e modelli di classificazione audio Deep Learning.

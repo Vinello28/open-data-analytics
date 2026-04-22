@@ -1,0 +1,1 @@
+Realizzazione di una soluzione AI per path planning mediante Reinforcement Learning (RL) con algoritmi PPO/DQN dedicata al mercato telecomunicazioni. Il sistema analizza Big Data provenienti da sensori IoT distribuiti con accuratezza superiore al 95%. L'infrastruttura tecnologica comprende mixed precision training (FP16/BF16) e sistemi di backup automatizzati.

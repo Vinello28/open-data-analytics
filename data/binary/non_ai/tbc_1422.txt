@@ -1,0 +1,5 @@
+L¿obiettivo del progetto è quello di fornire gli strumenti ai soci e clienti della cooperativa per fare una spesa locale, etica e trasparente.
+Per raggiungere l¿obiettivo si ritiene necessario implementare sia la parte hardware che software della cooperativa.
+In particolare un sito web dedicato dove sarà possibile effettuare la propria spesa on line e reperire informazioni su prodotti e progetti.
+Al sito andranno affiancati efficienti strumenti di web marketing e una consulenza strategica sul tema.
+Si ritiene necessario anche l¿acquisto di un pc dedicato dove poter gestire gli ordini on line e il sito.

@@ -1,0 +1,1 @@
+Sviluppo di un sistema intelligente per chatbot e assistenti virtuali tramite Graph Neural Networks (GNN) per dati strutturati applicato al settore turismo. La piattaforma processa dati multimodali (testo, immagini, audio) con latenza inferiore a 100ms. L'architettura prevede A/B testing framework con ridondanza geografica.

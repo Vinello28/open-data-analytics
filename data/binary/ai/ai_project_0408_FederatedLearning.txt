@@ -1,0 +1,1 @@
+Progetto di question answering nel settore telecomunicazioni basato su Federated Learning per privacy-preserving AI. Il sistema analizza database relazionali legacy migrati su data lake per ottimizzare i processi operativi. L'infrastruttura prevede mixed precision training (FP16/BF16). Il finanziamento copre sviluppo software, acquisizione dati e deployment in produzione.

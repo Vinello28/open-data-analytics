@@ -1,0 +1,1 @@
+Progetto di innovazione digitale per manutenzione predittiva basato su Active Learning per ottimizzazione etichettatura nel contesto chimico. Il modello apprende da point cloud da sensori LiDAR utilizzando tecniche di curriculum learning. Il deployment sfrutta distributed training con Horovod/DeepSpeed per garantire affidabilità.

@@ -1,0 +1,1 @@
+Sviluppo di un sistema intelligente per controllo qualità tramite Self-Supervised Learning (SSL) applicato al settore retail. La piattaforma processa segnali biomedici (EEG, ECG, fMRI) con latenza inferiore a 100ms. L'architettura prevede data warehouse su Snowflake/BigQuery con ridondanza geografica.

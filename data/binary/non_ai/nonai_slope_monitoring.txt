@@ -1,0 +1,1 @@
+Progetto di monitoraggio delle frane in area alpina tramite sensori laser distanziometrici tradizionali e pluviometri.

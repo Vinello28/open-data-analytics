@@ -1,0 +1,1 @@
+Sviluppo di un sistema intelligente per A/B testing optimization tramite Variational Autoencoders (VAE) applicato al settore istruzione. La piattaforma processa Big Data provenienti da sensori IoT distribuiti con latenza inferiore a 100ms. L'architettura prevede infrastruttura cloud scalabile (AWS/Azure/GCP) con ridondanza geografica.

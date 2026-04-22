@@ -1,0 +1,1 @@
+Sviluppo di interfacce cervello-computer (BCI) basate su AI per il controllo di protesi arto superiore tramite segnali EEG.

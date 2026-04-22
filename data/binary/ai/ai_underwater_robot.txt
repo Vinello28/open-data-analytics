@@ -1,0 +1,1 @@
+Sistema di navigazione autonoma per robot subaquatici impegnati nella manutenzione di pipeline offshore basato su visione sonar e AI.

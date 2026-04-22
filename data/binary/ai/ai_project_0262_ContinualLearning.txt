@@ -1,0 +1,1 @@
+Progetto di grasp planning nel settore manifatturiero basato su Continual Learning e Lifelong Learning. Il sistema analizza segnali biomedici (EEG, ECG, fMRI) per ottimizzare i processi operativi. L'infrastruttura prevede edge computing con acceleratori TPU/NPU. Il finanziamento copre sviluppo software, acquisizione dati e deployment in produzione.

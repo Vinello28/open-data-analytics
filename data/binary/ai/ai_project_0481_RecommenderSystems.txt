@@ -1,0 +1,1 @@
+Sviluppo di una piattaforma AI per drug discovery tramite Recommendation Systems con Collaborative Filtering applicata al dominio agricoltura. Il modello viene addestrato su immagini ad alta risoluzione acquisite da telecamere industriali e deployato su monitoring e observability con Prometheus/Grafana. I fondi supportano ricerca, sviluppo e validazione sul campo.

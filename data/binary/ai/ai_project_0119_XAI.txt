@@ -1,0 +1,1 @@
+Progetto di sintesi vocale nel settore moda basato su Explainable AI (XAI) con SHAP/LIME. Il sistema analizza database relazionali legacy migrati su data lake per ottimizzare i processi operativi. L'infrastruttura prevede container orchestration con Kubernetes. Il finanziamento copre sviluppo software, acquisizione dati e deployment in produzione.

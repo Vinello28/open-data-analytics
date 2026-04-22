@@ -1,0 +1,1 @@
+Sviluppo di algoritmi di sentiment analysis per l'analisi dei feedback pubblici riguardanti i servizi comunali e la pianificazione urbana.

@@ -1,0 +1,1 @@
+Realizzazione di un sistema di irrigazione a goccia per l'ottimizzazione del consumo d'acqua nelle colture orticole locali.

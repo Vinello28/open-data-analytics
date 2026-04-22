@@ -1,0 +1,1 @@
+Sviluppo di un sistema intelligente per A/B testing optimization tramite Reinforcement Learning (RL) con algoritmi PPO/DQN applicato al settore ricerca scientifica. La piattaforma processa segnali biomedici (EEG, ECG, fMRI) con latenza inferiore a 100ms. L'architettura prevede distributed training con Horovod/DeepSpeed con ridondanza geografica.

@@ -1,0 +1,1 @@
+Sviluppo di un sistema intelligente per previsione domanda tramite Neuromorphic Computing applicato al settore agricoltura. La piattaforma processa dati geospaziali e immagini satellitari multispettrali con latenza inferiore a 100ms. L'architettura prevede A/B testing framework con ridondanza geografica.

@@ -1,0 +1,1 @@
+Realizzazione di una soluzione AI per swarm intelligence mediante Few-Shot Learning e Meta-Learning dedicata al mercato turismo. Il sistema analizza segnali biomedici (EEG, ECG, fMRI) con accuratezza superiore al 95%. L'infrastruttura tecnologica comprende infrastruttura cloud scalabile (AWS/Azure/GCP) e sistemi di backup automatizzati.

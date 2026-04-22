@@ -1,0 +1,1 @@
+Realizzazione di un sistema di Machine Learning per monitoraggio ambientale nel contesto alimentare. La soluzione utilizza Computer Vision e Object Detection (YOLO/R-CNN) per analizzare dati geospaziali e immagini satellitari multispettrali in tempo reale. L'infrastruttura tecnologica prevede pipeline MLOps con CI/CD automatizzato per garantire alte performance.

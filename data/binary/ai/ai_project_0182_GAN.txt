@@ -1,0 +1,1 @@
+Realizzazione di un sistema di Machine Learning per genomica personalizzata nel contesto edilizia. La soluzione utilizza Generative Adversarial Networks (GAN) per analizzare serie temporali storiche di 10+ anni in tempo reale. L'infrastruttura tecnologica prevede distributed training con Horovod/DeepSpeed per garantire alte performance.

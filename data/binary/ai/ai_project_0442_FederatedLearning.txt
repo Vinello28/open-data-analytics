@@ -1,0 +1,1 @@
+Sviluppo di un sistema intelligente per churn prediction tramite Federated Learning per privacy-preserving AI applicato al settore pubblica amministrazione. La piattaforma processa point cloud da sensori LiDAR con latenza inferiore a 100ms. L'architettura prevede model compression e quantization con ridondanza geografica.

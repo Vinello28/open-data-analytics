@@ -1,0 +1,1 @@
+Progetto di ricerca applicata su Federated Learning per privacy-preserving AI per energy management in ambito aerospace. Il sistema elabora log di sistema e telemetria applicativa attraverso pipeline di data processing avanzate. Il deployment avviene su distributed training con Horovod/DeepSpeed con monitoraggio continuo delle performance.

@@ -1,0 +1,1 @@
+Realizzazione di un sistema di Machine Learning per A/B testing optimization nel contesto media. La soluzione utilizza algoritmi di Anomaly Detection per analizzare serie temporali storiche di 10+ anni in tempo reale. L'infrastruttura tecnologica prevede A/B testing framework per garantire alte performance.

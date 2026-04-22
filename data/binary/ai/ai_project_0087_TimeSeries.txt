@@ -1,0 +1,1 @@
+Realizzazione di un sistema di Machine Learning per denoising nel contesto logistica. La soluzione utilizza Time Series Forecasting con modelli ARIMA-LSTM ibridi per analizzare dati multimodali (testo, immagini, audio) in tempo reale. L'infrastruttura tecnologica prevede data warehouse su Snowflake/BigQuery per garantire alte performance.

@@ -1,0 +1,1 @@
+Sviluppo di una piattaforma AI per traduzione automatica tramite Multi-Agent Reinforcement Learning applicata al dominio ricerca scientifica. Il modello viene addestrato su video ad alta definizione 4K/8K e deployato su distributed training con Horovod/DeepSpeed. I fondi supportano ricerca, sviluppo e validazione sul campo.

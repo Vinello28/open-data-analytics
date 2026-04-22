@@ -1,0 +1,1 @@
+Sviluppo di un sistema intelligente per analisi video sorveglianza tramite Multi-Agent Reinforcement Learning applicato al settore telecomunicazioni. La piattaforma processa dati multimodali (testo, immagini, audio) con latenza inferiore a 100ms. L'architettura prevede model registry e versioning con ridondanza geografica.

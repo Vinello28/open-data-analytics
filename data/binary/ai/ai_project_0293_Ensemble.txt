@@ -1,0 +1,1 @@
+Implementazione di algoritmi di Ensemble Learning con Random Forest e Gradient Boosting per monitoraggio ambientale nel dominio energia. Il progetto integra segnali biomedici (EEG, ECG, fMRI) provenienti da multiple sorgenti eterogenee. Il finanziamento copre mixed precision training (FP16/BF16) e team di data scientist specializzati.

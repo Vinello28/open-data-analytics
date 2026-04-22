@@ -1,0 +1,1 @@
+Realizzazione di una soluzione AI per pianificazione percorsi mediante Natural Language Processing (NLP) con BERT/GPT dedicata al mercato automotive. Il sistema analizza corpus testuali multilingue con accuratezza superiore al 95%. L'infrastruttura tecnologica comprende A/B testing framework e sistemi di backup automatizzati.

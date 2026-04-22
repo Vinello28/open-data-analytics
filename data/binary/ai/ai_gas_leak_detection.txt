@@ -1,0 +1,1 @@
+Sistema AI per il rilevamento di perdite gas lungo le condotte tramite analisi acustica e modelli di Deep Learning pre-addestrati.

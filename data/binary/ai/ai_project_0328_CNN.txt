@@ -1,0 +1,1 @@
+Progetto di innovazione digitale per customer segmentation basato su Deep Learning con reti neurali convoluzionali (CNN) nel contesto media. Il modello apprende da point cloud da sensori LiDAR utilizzando tecniche di curriculum learning. Il deployment sfrutta A/B testing framework per garantire affidabilità.

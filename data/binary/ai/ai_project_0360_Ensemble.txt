@@ -1,0 +1,1 @@
+Sviluppo di un sistema intelligente per analisi video sorveglianza tramite Ensemble Learning con Random Forest e Gradient Boosting applicato al settore manifatturiero. La piattaforma processa point cloud da sensori LiDAR con latenza inferiore a 100ms. L'architettura prevede infrastruttura cloud scalabile (AWS/Azure/GCP) con ridondanza geografica.

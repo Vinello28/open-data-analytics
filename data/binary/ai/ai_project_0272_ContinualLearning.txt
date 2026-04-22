@@ -1,0 +1,1 @@
+Sviluppo di una piattaforma AI per question answering tramite Continual Learning e Lifelong Learning applicata al dominio sicurezza. Il modello viene addestrato su point cloud da sensori LiDAR e deployato su ONNX runtime per deployment cross-platform. I fondi supportano ricerca, sviluppo e validazione sul campo.

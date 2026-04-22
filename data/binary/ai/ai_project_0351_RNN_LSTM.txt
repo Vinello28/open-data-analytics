@@ -1,0 +1,1 @@
+Realizzazione di una soluzione AI per pricing dinamico mediante Recurrent Neural Networks (RNN) e varianti LSTM/GRU dedicata al mercato retail. Il sistema analizza dati multimodali (testo, immagini, audio) con accuratezza superiore al 95%. L'infrastruttura tecnologica comprende ONNX runtime per deployment cross-platform e sistemi di backup automatizzati.

@@ -1,0 +1,1 @@
+Implementazione di un sistema di intelligenza artificiale per inpainting utilizzando Graph Neural Networks (GNN) per dati strutturati. Il progetto si rivolge al settore ricerca scientifica e processa segnali biomedici (EEG, ECG, fMRI). L'architettura tecnologica include data warehouse su Snowflake/BigQuery con capacità di scaling automatico.

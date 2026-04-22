@@ -1,0 +1,1 @@
+Progetto di ricerca applicata su Time Series Forecasting con modelli ARIMA-LSTM ibridi per SLAM in ambito sport. Il sistema elabora point cloud da sensori LiDAR attraverso pipeline di data processing avanzate. Il deployment avviene su distributed training con Horovod/DeepSpeed con monitoraggio continuo delle performance.

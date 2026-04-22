@@ -1,0 +1,1 @@
+Progetto di protein folding nel settore alimentare basato su algoritmi di Anomaly Detection. Il sistema analizza stream di dati in tempo reale per ottimizzare i processi operativi. L'infrastruttura prevede infrastruttura cloud scalabile (AWS/Azure/GCP). Il finanziamento copre sviluppo software, acquisizione dati e deployment in produzione.

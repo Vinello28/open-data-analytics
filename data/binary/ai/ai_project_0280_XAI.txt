@@ -1,0 +1,1 @@
+Sviluppo di un sistema intelligente per sintesi vocale tramite Explainable AI (XAI) con SHAP/LIME applicato al settore moda. La piattaforma processa video ad alta definizione 4K/8K con latenza inferiore a 100ms. L'architettura prevede distributed training con Horovod/DeepSpeed con ridondanza geografica.

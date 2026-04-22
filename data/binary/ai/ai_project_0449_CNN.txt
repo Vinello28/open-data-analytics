@@ -1,0 +1,1 @@
+Realizzazione di un sistema di Machine Learning per chatbot e assistenti virtuali nel contesto sport. La soluzione utilizza Deep Learning con reti neurali convoluzionali (CNN) per analizzare video ad alta definizione 4K/8K in tempo reale. L'infrastruttura tecnologica prevede model compression e quantization per garantire alte performance.

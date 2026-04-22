@@ -1,0 +1,1 @@
+Realizzazione di una soluzione AI per SLAM mediante Continual Learning e Lifelong Learning dedicata al mercato manifatturiero. Il sistema analizza immagini ad alta risoluzione acquisite da telecamere industriali con accuratezza superiore al 95%. L'infrastruttura tecnologica comprende architettura serverless per inferenza e sistemi di backup automatizzati.

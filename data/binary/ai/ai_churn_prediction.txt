@@ -1,0 +1,1 @@
+Piattaforma di marketing predittivo che utilizza modelli di Churn Prediction per identificare clienti a rischio abbandono e suggerire azioni di retention.

@@ -1,0 +1,1 @@
+Realizzazione di un sistema di Machine Learning per pianificazione percorsi nel contesto automotive. La soluzione utilizza Explainable AI (XAI) con SHAP/LIME per analizzare serie temporali storiche di 10+ anni in tempo reale. L'infrastruttura tecnologica prevede edge computing con acceleratori TPU/NPU per garantire alte performance.

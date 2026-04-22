@@ -1,0 +1,1 @@
+Sviluppo di un sistema intelligente per object tracking tramite Generative Adversarial Networks (GAN) applicato al settore manifatturiero. La piattaforma processa point cloud da sensori LiDAR con latenza inferiore a 100ms. L'architettura prevede data warehouse su Snowflake/BigQuery con ridondanza geografica.

@@ -1,0 +1,1 @@
+Progetto di Generative AI (GAN) per la creazione automatica di prototipi di design industriale basati su parametri tecnici e vincoli costruttivi. Investimento in GPU cluster.

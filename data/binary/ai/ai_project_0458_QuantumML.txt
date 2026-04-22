@@ -1,0 +1,1 @@
+Creazione di un motore di AI per human-robot interaction basato su Quantum Machine Learning dedicato al settore trasporti. L'addestramento sfrutta stream di dati in tempo reale con tecniche di data augmentation. L'infrastruttura include model registry e versioning per training e inferenza.

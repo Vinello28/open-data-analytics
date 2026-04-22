@@ -1,0 +1,1 @@
+Progetto di ricerca su AI per la fisica delle particelle: classificazione di eventi di collisione in acceleratori tramite Deep Learning.

@@ -1,0 +1,6 @@
+Premessa:
+L'informatizzazione dei processi della gestione dei Temporary Leasing, si rende necessaria per uniformare le procedure attualmente in essere con le varie Proprietà con l'obiettivo di fornire le informazioni utili sia per monitorare l'andamento del business che per orientare in ottica anche strategica le linee di sviluppo dello stesso.
+Informazioni di base:
+La strutturazione della fonte dati sarà costituita essenzialmente dal Database relativo alle anagrafiche degli operatori attualmente esistenti e conterrà tutte le informazioni di contatto e legali utili per la compilazione dei documenti propedeutici agli accordi.
+Per centrare meglio le ricerche degli interlocutori potenziali la classificazione degli operatori dovrà essere effettuata con clusterizzazione territoriale, per tipologia di attività e per commessa .
+Potranno essere caricati anche dei listini di riferimento per commessa alfine di agevolare il venditore nella formulazione delle proposte di affitto.

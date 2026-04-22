@@ -1,0 +1,1 @@
+Implementazione di un sistema di intelligenza artificiale per drug discovery utilizzando architetture Transformer e modelli di attenzione. Il progetto si rivolge al settore sport e processa serie temporali storiche di 10+ anni. L'architettura tecnologica include container orchestration con Kubernetes con capacità di scaling automatico.

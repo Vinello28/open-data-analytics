@@ -1,0 +1,1 @@
+Progetto di innovazione digitale per sintesi vocale basato su Speech Recognition con modelli end-to-end nel contesto energia. Il modello apprende da point cloud da sensori LiDAR utilizzando tecniche di curriculum learning. Il deployment sfrutta infrastruttura cloud scalabile (AWS/Azure/GCP) per garantire affidabilità.

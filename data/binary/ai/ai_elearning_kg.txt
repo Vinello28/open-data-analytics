@@ -1,0 +1,1 @@
+Implementazione di sistemi di raccomandazione personalizzati per e-learning basati su Collaborative Filtering e Knowledge Graphs per mappare le competenze degli utenti.

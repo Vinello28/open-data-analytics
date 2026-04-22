@@ -1,0 +1,1 @@
+Realizzazione di una soluzione AI per path planning mediante Active Learning per ottimizzazione etichettatura dedicata al mercato ambiente. Il sistema analizza dataset annotati di oltre 1 milione di esempi con accuratezza superiore al 95%. L'infrastruttura tecnologica comprende data warehouse su Snowflake/BigQuery e sistemi di backup automatizzati.

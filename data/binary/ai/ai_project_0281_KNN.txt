@@ -1,0 +1,1 @@
+Sviluppo di una piattaforma AI per smart grid tramite K-Nearest Neighbors (KNN) e algoritmi di clustering applicata al dominio aerospace. Il modello viene addestrato su video ad alta definizione 4K/8K e deployato su infrastruttura cloud scalabile (AWS/Azure/GCP). I fondi supportano ricerca, sviluppo e validazione sul campo.

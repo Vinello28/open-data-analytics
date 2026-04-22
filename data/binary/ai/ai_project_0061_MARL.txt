@@ -1,0 +1,1 @@
+Realizzazione di una soluzione AI per chatbot e assistenti virtuali mediante Multi-Agent Reinforcement Learning dedicata al mercato turismo. Il sistema analizza dataset annotati di oltre 1 milione di esempi con accuratezza superiore al 95%. L'infrastruttura tecnologica comprende container orchestration con Kubernetes e sistemi di backup automatizzati.

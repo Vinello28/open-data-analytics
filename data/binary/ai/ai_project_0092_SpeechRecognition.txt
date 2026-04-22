@@ -1,0 +1,1 @@
+Realizzazione di una soluzione AI per previsione meteo mediante Speech Recognition con modelli end-to-end dedicata al mercato sicurezza. Il sistema analizza dati geospaziali e immagini satellitari multispettrali con accuratezza superiore al 95%. L'infrastruttura tecnologica comprende cluster GPU NVIDIA A100/H100 per training distribuito e sistemi di backup automatizzati.

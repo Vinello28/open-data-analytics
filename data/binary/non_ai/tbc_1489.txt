@@ -1,0 +1,9 @@
+BISOGNI Di AMMODERNAMENTO STRUMENTALE ED ORGANIZZATIVO:
+migliorare l¿efficientamento della gestione della sala attraverso in sistema di acquisizione comande al fine della riduzione tempi di consegna ordini nel reparto cucina;
+implementare un efficiente sistema di navigazione aperta per l'utenza;
+integrazione di software gestionale.
+INTERVENTI PREVISTI
+-acquisto e addestramento all¿utilizzo di software per la gestione delle ordinazioni (comande)
+-implementazione di attrezzature informatiche per la gestione corrente e la dematerializzazione dei documenti
+OBIETTIVI DA RAGGIUNGERE
+-efficienza nel servizio di gestione delle comande e degli ordini (abbattimento tempi di trasferimento ordini);

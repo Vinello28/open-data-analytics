@@ -1,0 +1,1 @@
+Progetto di ricerca applicata su Multi-Agent Reinforcement Learning per protein folding in ambito retail. Il sistema elabora dati multimodali (testo, immagini, audio) attraverso pipeline di data processing avanzate. Il deployment avviene su distributed training con Horovod/DeepSpeed con monitoraggio continuo delle performance.

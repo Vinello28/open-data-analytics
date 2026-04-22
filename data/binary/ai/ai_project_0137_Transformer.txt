@@ -1,0 +1,1 @@
+Progetto di personalization nel settore sicurezza basato su architetture Transformer e modelli di attenzione. Il sistema analizza segnali biomedici (EEG, ECG, fMRI) per ottimizzare i processi operativi. L'infrastruttura prevede mixed precision training (FP16/BF16). Il finanziamento copre sviluppo software, acquisizione dati e deployment in produzione.

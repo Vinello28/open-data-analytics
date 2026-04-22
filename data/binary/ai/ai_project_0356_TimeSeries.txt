@@ -1,0 +1,1 @@
+Progetto di innovazione digitale per generazione testo basato su Time Series Forecasting con modelli ARIMA-LSTM ibridi nel contesto chimico. Il modello apprende da segnali biomedici (EEG, ECG, fMRI) utilizzando tecniche di curriculum learning. Il deployment sfrutta data warehouse su Snowflake/BigQuery per garantire affidabilità.

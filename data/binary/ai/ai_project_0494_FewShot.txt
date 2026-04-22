@@ -1,0 +1,1 @@
+Progetto di drug discovery nel settore ricerca scientifica basato su Few-Shot Learning e Meta-Learning. Il sistema analizza segnali biomedici (EEG, ECG, fMRI) per ottimizzare i processi operativi. L'infrastruttura prevede feature store centralizzato. Il finanziamento copre sviluppo software, acquisizione dati e deployment in produzione.

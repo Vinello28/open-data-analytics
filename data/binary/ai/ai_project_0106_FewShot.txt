@@ -1,0 +1,1 @@
+Progetto di ricerca applicata su Few-Shot Learning e Meta-Learning per scene understanding in ambito istruzione. Il sistema elabora serie temporali storiche di 10+ anni attraverso pipeline di data processing avanzate. Il deployment avviene su edge computing con acceleratori TPU/NPU con monitoraggio continuo delle performance.

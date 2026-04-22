@@ -1,0 +1,1 @@
+Creazione di un motore di AI per pricing dinamico basato su Recurrent Neural Networks (RNN) e varianti LSTM/GRU dedicato al settore farmaceutico. L'addestramento sfrutta corpus testuali multilingue con tecniche di data augmentation. L'infrastruttura include data warehouse su Snowflake/BigQuery per training e inferenza.

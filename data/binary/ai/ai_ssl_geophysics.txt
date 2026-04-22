@@ -1,0 +1,1 @@
+Sviluppo di tecniche di Self-Supervised Learning (SSL) per l'analisi di dataset non etichettati in ambito geofisico per la ricerca di idrocarburi o fonti geotermiche.

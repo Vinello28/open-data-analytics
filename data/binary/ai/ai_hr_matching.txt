@@ -1,0 +1,1 @@
+Sistema di AI per l'automazione del processo di selezione del personale tramite analisi semantica dei CV e ranking dei candidati.

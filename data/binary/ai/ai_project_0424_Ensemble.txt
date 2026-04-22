@@ -1,0 +1,1 @@
+Creazione di un motore di AI per previsione meteo basato su Ensemble Learning con Random Forest e Gradient Boosting dedicato al settore moda. L'addestramento sfrutta Big Data provenienti da sensori IoT distribuiti con tecniche di data augmentation. L'infrastruttura include ONNX runtime per deployment cross-platform per training e inferenza.

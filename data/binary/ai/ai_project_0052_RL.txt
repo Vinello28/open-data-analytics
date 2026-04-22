@@ -1,0 +1,1 @@
+Progetto di ricerca applicata su Reinforcement Learning (RL) con algoritmi PPO/DQN per sintesi vocale in ambito agricoltura. Il sistema elabora dati finanziari tick-by-tick ad alta frequenza attraverso pipeline di data processing avanzate. Il deployment avviene su A/B testing framework con monitoraggio continuo delle performance.

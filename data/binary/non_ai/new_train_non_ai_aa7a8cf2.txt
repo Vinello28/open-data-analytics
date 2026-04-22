@@ -1,0 +1,9 @@
+Gruppo Pragma progetta e sviluppa esperienze di apprendimento in contesti digitali. Ultimamente abbiamo creato un nutrito catalogo di ¿oggetti di apprendimento¿ che va dai corsi multimediali in e-learning ai webinar, fruibili in sincrono collegandosi col docente tramite un sistema di videoconferenze, o in asincrono, visualizzando un video. 
+In questo contesto, si ritiene strategico per la propria crescita e sviluppo concentrarsi nella realizzazione di un canale digitale di vendita di propri prodotti e servizi. 
+Una piattaforma di e-commerce diventa il luogo virtuale in cui proporre, vendere e avere un¿interazione costante coi propri clienti. 
+Con questo progetto Gruppo Pragma intende:
+-	Analizzare e definire in dettaglio l¿architettura sistemica e funzionale del sito e-commerce
+-	Implementare il sito di e-commerce, comprensivo della parte dedicata al pagamento
+-	Definire il workflow di pubblicazione degli oggetti da vendere (corsi e webinar) e l¿integrazione coi sistemi informativi interni
+-	Implementare un sistema di Analytics integrato con la strategia di marketing digitale e di advertising utilizzando tecniche innovative (Chatbot e AI)
+-	Sviluppare le competenze del personale per gestire, mantenere e sviluppare il sistema, anche attraverso azioni specifiche di marketing

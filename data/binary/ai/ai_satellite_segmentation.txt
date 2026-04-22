@@ -1,0 +1,1 @@
+Analisi satellitare per il monitoraggio della deforestazione amazzonica tramite Semantic Segmentation e Computer Vision. Utilizzo di modelli di Deep Learning su immagini multispettrali.

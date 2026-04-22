@@ -1,0 +1,1 @@
+Progetto di ricerca applicata su Explainable AI (XAI) con SHAP/LIME per ottimizzazione processi produttivi in ambito manifatturiero. Il sistema elabora dati sintetici generati tramite simulazione attraverso pipeline di data processing avanzate. Il deployment avviene su architettura serverless per inferenza con monitoraggio continuo delle performance.

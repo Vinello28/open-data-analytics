@@ -1,0 +1,19 @@
+Obiettivo del progetto è adottare una piattaforma di monitoraggio software che consenta la normalizzazione della sintassi e della struttura del codice sorgente e la standardizzazione del processo di sviluppo. La normalizzazione della sintassi e della struttura del software sono indispensabili al fine della riduzione dei tempi e dei costi di sviluppo sia in termini di correzione degli errori che di evoluzione e miglioramento delle applicazioni. Obiettivi specifici: 
+Migliorare e facilitare la prevenzione e  la eliminazione degli errori
+Facilitare le modifiche post aggiornamento ambiente/piattaforma
+Verifica e controllo della sintassi e della struttura del codice 
+
+La piattaforma di monitoraggio avrà le seguenti caratteristiche:
+Metrica codice (righe di codice vs commenti vs righe vuote, complessità)
+Parser del file Xref e del Data Format file
+Analizzatore di codice ABL 
+Ricerca e rimozione codici duplicati 
+Creazione di regole e modelli di ricerca del codice 
+Compatibile con Eclipse Public
+
+Acquisizione di servizi e consulenze per:
+Formazione e addestramento all¿uso del software
+Configurazione piattaforma per utilizzo con ambiente di sviluppo
+Produzione di un prototipo 
+Configurazione profili di qualità per OpenEdge
+Configurazione processo di compilazione con il nuovo ambiente

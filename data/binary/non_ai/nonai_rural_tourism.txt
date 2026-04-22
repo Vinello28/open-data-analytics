@@ -1,0 +1,1 @@
+Implementazione di una piattaforma web per il turismo rurale che permette la prenotazione di agriturismi e la vendita di prodotti locali.

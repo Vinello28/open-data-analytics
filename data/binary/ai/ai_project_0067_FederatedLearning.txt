@@ -1,0 +1,1 @@
+Realizzazione di un sistema di Machine Learning per protein folding nel contesto automotive. La soluzione utilizza Federated Learning per privacy-preserving AI per analizzare dati geospaziali e immagini satellitari multispettrali in tempo reale. L'infrastruttura tecnologica prevede container orchestration con Kubernetes per garantire alte performance.

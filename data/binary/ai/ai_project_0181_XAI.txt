@@ -1,0 +1,1 @@
+Implementazione di algoritmi di Explainable AI (XAI) con SHAP/LIME per analisi video sorveglianza nel dominio alimentare. Il progetto integra video ad alta definizione 4K/8K provenienti da multiple sorgenti eterogenee. Il finanziamento copre distributed training con Horovod/DeepSpeed e team di data scientist specializzati.

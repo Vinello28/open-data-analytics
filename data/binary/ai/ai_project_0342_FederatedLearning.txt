@@ -1,0 +1,1 @@
+Realizzazione di un sistema di Machine Learning per pianificazione percorsi nel contesto automotive. La soluzione utilizza Federated Learning per privacy-preserving AI per analizzare Big Data provenienti da sensori IoT distribuiti in tempo reale. L'infrastruttura tecnologica prevede pipeline MLOps con CI/CD automatizzato per garantire alte performance.

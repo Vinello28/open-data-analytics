@@ -1,0 +1,1 @@
+Progetto di ricerca su Neural Architecture Search (NAS) per la creazione automatica di architetture di reti neurali ultra-leggere per dispositivi wearable.

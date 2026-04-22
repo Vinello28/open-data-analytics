@@ -1,0 +1,1 @@
+Sviluppo di un sistema intelligente per personalization tramite architetture Transformer e modelli di attenzione applicato al settore alimentare. La piattaforma processa dati finanziari tick-by-tick ad alta frequenza con latenza inferiore a 100ms. L'architettura prevede monitoring e observability con Prometheus/Grafana con ridondanza geografica.

@@ -1,0 +1,1 @@
+Implementazione di un sistema di intelligenza artificiale per credit scoring utilizzando Neural Architecture Search (NAS). Il progetto si rivolge al settore aerospace e processa segnali biomedici (EEG, ECG, fMRI). L'architettura tecnologica include ONNX runtime per deployment cross-platform con capacità di scaling automatico.

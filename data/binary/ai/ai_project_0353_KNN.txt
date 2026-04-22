@@ -1,0 +1,1 @@
+Implementazione di un sistema di intelligenza artificiale per guida autonoma utilizzando K-Nearest Neighbors (KNN) e algoritmi di clustering. Il progetto si rivolge al settore istruzione e processa dataset annotati di oltre 1 milione di esempi. L'architettura tecnologica include pipeline MLOps con CI/CD automatizzato con capacità di scaling automatico.

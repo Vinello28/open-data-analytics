@@ -1,0 +1,1 @@
+Implementazione di un sistema di intelligenza artificiale per ottimizzazione processi produttivi utilizzando Neuromorphic Computing. Il progetto si rivolge al settore logistica e processa dati geospaziali e immagini satellitari multispettrali. L'architettura tecnologica include architettura serverless per inferenza con capacità di scaling automatico.

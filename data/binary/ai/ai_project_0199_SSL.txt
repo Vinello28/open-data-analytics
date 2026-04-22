@@ -1,0 +1,1 @@
+Sviluppo di una piattaforma AI per video synthesis tramite Self-Supervised Learning (SSL) applicata al dominio chimico. Il modello viene addestrato su dati geospaziali e immagini satellitari multispettrali e deployato su edge computing con acceleratori TPU/NPU. I fondi supportano ricerca, sviluppo e validazione sul campo.

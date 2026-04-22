@@ -1,0 +1,1 @@
+Progetto di ricerca applicata su Edge AI e TinyML per dispositivi embedded per previsione domanda in ambito chimico. Il sistema elabora dati finanziari tick-by-tick ad alta frequenza attraverso pipeline di data processing avanzate. Il deployment avviene su architettura serverless per inferenza con monitoraggio continuo delle performance.

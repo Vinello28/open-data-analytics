@@ -1,0 +1,1 @@
+Progetto di ricerca applicata su Federated Learning per privacy-preserving AI per sentiment analysis in ambito sicurezza. Il sistema elabora dataset annotati di oltre 1 milione di esempi attraverso pipeline di data processing avanzate. Il deployment avviene su mixed precision training (FP16/BF16) con monitoraggio continuo delle performance.

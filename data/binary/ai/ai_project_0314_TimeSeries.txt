@@ -1,0 +1,1 @@
+Sviluppo di una piattaforma AI per ottimizzazione processi produttivi tramite Time Series Forecasting con modelli ARIMA-LSTM ibridi applicata al dominio telecomunicazioni. Il modello viene addestrato su Big Data provenienti da sensori IoT distribuiti e deployato su monitoring e observability con Prometheus/Grafana. I fondi supportano ricerca, sviluppo e validazione sul campo.

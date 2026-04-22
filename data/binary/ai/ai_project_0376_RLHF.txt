@@ -1,0 +1,1 @@
+Creazione di un motore di AI per scene understanding basato su Reinforcement Learning from Human Feedback (RLHF) dedicato al settore energia. L'addestramento sfrutta dati multimodali (testo, immagini, audio) con tecniche di data augmentation. L'infrastruttura include distributed training con Horovod/DeepSpeed per training e inferenza.

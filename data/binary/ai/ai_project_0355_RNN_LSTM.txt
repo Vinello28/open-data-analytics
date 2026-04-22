@@ -1,0 +1,1 @@
+Realizzazione di un sistema di Machine Learning per video synthesis nel contesto ambiente. La soluzione utilizza Recurrent Neural Networks (RNN) e varianti LSTM/GRU per analizzare log di sistema e telemetria applicativa in tempo reale. L'infrastruttura tecnologica prevede infrastruttura cloud scalabile (AWS/Azure/GCP) per garantire alte performance.

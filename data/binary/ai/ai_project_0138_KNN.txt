@@ -1,0 +1,1 @@
+Progetto di ricerca applicata su K-Nearest Neighbors (KNN) e algoritmi di clustering per chatbot e assistenti virtuali in ambito farmaceutico. Il sistema elabora stream di dati in tempo reale attraverso pipeline di data processing avanzate. Il deployment avviene su ONNX runtime per deployment cross-platform con monitoraggio continuo delle performance.

@@ -1,0 +1,1 @@
+Implementazione di algoritmi di Support Vector Machines (SVM) con kernel non lineari per SLAM nel dominio agricoltura. Il progetto integra dati sintetici generati tramite simulazione provenienti da multiple sorgenti eterogenee. Il finanziamento copre edge computing con acceleratori TPU/NPU e team di data scientist specializzati.

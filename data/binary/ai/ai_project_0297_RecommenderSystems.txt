@@ -1,0 +1,1 @@
+Realizzazione di un sistema di Machine Learning per guida autonoma nel contesto ricerca scientifica. La soluzione utilizza Recommendation Systems con Collaborative Filtering per analizzare stream di dati in tempo reale in tempo reale. L'infrastruttura tecnologica prevede A/B testing framework per garantire alte performance.

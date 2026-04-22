@@ -1,0 +1,1 @@
+Progetto di intelligenza artificiale per l'analisi dei flussi turistici tramite Reinforcement Learning per la gestione dinamica degli accessi ai siti museali.

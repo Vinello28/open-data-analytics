@@ -1,0 +1,1 @@
+Sviluppo di un sistema intelligente per path planning tramite K-Nearest Neighbors (KNN) e algoritmi di clustering applicato al settore finanza. La piattaforma processa serie temporali storiche di 10+ anni con latenza inferiore a 100ms. L'architettura prevede feature store centralizzato con ridondanza geografica.

@@ -1,0 +1,1 @@
+Sviluppo di una piattaforma AI per controllo qualità tramite Natural Language Processing (NLP) con BERT/GPT applicata al dominio trasporti. Il modello viene addestrato su segnali biomedici (EEG, ECG, fMRI) e deployato su model compression e quantization. I fondi supportano ricerca, sviluppo e validazione sul campo.

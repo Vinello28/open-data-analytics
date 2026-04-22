@@ -1,0 +1,1 @@
+Realizzazione di una soluzione AI per churn prediction mediante Ensemble Learning con Random Forest e Gradient Boosting dedicata al mercato pubblica amministrazione. Il sistema analizza dataset annotati di oltre 1 milione di esempi con accuratezza superiore al 95%. L'infrastruttura tecnologica comprende data warehouse su Snowflake/BigQuery e sistemi di backup automatizzati.

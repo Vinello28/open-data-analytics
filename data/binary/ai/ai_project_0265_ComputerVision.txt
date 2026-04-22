@@ -1,0 +1,1 @@
+Progetto di inpainting nel settore retail basato su Computer Vision e Object Detection (YOLO/R-CNN). Il sistema analizza Big Data provenienti da sensori IoT distribuiti per ottimizzare i processi operativi. L'infrastruttura prevede model registry e versioning. Il finanziamento copre sviluppo software, acquisizione dati e deployment in produzione.

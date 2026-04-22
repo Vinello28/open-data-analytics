@@ -1,0 +1,1 @@
+Progetto di innovazione digitale per ottimizzazione processi produttivi basato su Recurrent Neural Networks (RNN) e varianti LSTM/GRU nel contesto manifatturiero. Il modello apprende da corpus testuali multilingue utilizzando tecniche di curriculum learning. Il deployment sfrutta data warehouse su Snowflake/BigQuery per garantire affidabilità.

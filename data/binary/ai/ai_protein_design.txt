@@ -1,0 +1,1 @@
+Sviluppo di algoritmi di Generative AI per la sintesi di nuove proteine con proprietà farmacologiche mirate (Protein Design AI).

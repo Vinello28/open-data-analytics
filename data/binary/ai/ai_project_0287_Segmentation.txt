@@ -1,0 +1,1 @@
+Implementazione di un sistema di intelligenza artificiale per guida autonoma utilizzando Semantic Segmentation e Instance Segmentation. Il progetto si rivolge al settore retail e processa database relazionali legacy migrati su data lake. L'architettura tecnologica include edge computing con acceleratori TPU/NPU con capacità di scaling automatico.

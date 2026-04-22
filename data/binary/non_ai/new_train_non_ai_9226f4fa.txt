@@ -1,0 +1,3 @@
+Sviluppo di un app su sistemi operativi IOS e Android che consentirà ai clienti di avere un virtual assistant durante tutto il viaggio. Le principali funzionalità includeranno: visualizzazione dei documenti di viaggio; visualizzazione degli itinerari giornalieri; utilizzo di servizi di geolocalizzazione collegati alle mappe interattive, consultabili off-line.
+Miglioramento del sito internet www.blueberrytravel.it con sviluppo modulo inserimento anagrafica online direttamente da parte del cliente. Miglioramento della user-experience rendendo più semplice l'accesso alle informazioni ricercate.
+Acquisto hardware (nuovi terminali per addetto booking e upgrade del server) per rendere più efficiente il workflow del personale e migliorare la sicurezza dei dati.

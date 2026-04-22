@@ -1,0 +1,1 @@
+Sviluppo di una piattaforma AI per lead scoring tramite algoritmi di Anomaly Detection applicata al dominio telecomunicazioni. Il modello viene addestrato su dati finanziari tick-by-tick ad alta frequenza e deployato su pipeline MLOps con CI/CD automatizzato. I fondi supportano ricerca, sviluppo e validazione sul campo.

@@ -1,0 +1,1 @@
+Implementazione di un sistema di intelligenza artificiale per pricing dinamico utilizzando Neuromorphic Computing. Il progetto si rivolge al settore aerospace e processa immagini ad alta risoluzione acquisite da telecamere industriali. L'architettura tecnologica include A/B testing framework con capacità di scaling automatico.

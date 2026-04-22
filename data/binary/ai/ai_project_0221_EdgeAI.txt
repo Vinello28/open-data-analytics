@@ -1,0 +1,1 @@
+Sviluppo di una piattaforma AI per personalization tramite Edge AI e TinyML per dispositivi embedded applicata al dominio media. Il modello viene addestrato su serie temporali storiche di 10+ anni e deployato su feature store centralizzato. I fondi supportano ricerca, sviluppo e validazione sul campo.

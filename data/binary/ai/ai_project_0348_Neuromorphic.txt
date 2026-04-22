@@ -1,0 +1,1 @@
+Realizzazione di un sistema di Machine Learning per drug discovery nel contesto finanza. La soluzione utilizza Neuromorphic Computing per analizzare database relazionali legacy migrati su data lake in tempo reale. L'infrastruttura tecnologica prevede data warehouse su Snowflake/BigQuery per garantire alte performance.

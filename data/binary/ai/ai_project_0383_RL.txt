@@ -1,0 +1,1 @@
+Realizzazione di un sistema di Machine Learning per pianificazione percorsi nel contesto manifatturiero. La soluzione utilizza Reinforcement Learning (RL) con algoritmi PPO/DQN per analizzare dataset annotati di oltre 1 milione di esempi in tempo reale. L'infrastruttura tecnologica prevede architettura serverless per inferenza per garantire alte performance.

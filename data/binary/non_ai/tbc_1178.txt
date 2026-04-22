@@ -1,0 +1,6 @@
+VE.S.T.A. SRL si occupa di monitoraggio delle prestazioni dei sistemi, a prescindere dalla loro natura(in via esemplificativa e non esaustiva: di generazione di energia, produttivo/manifatturieri, logistici etc)nel settore privato e pubblico.Tali sistemi consistono nella prototipazione, ottimizzazione, produzione ed installazione di set di sensori,concentratori e datalogger presso utenze/oggetti/soggetti da monitorare.Il consulente Zanini Leopoldo si occuperà di:
+1.analizzare gli attuali processi aziendali 
+2.proporre ottimizzazioni di processo mediane l¿introduzione di metodologie organizzative, strumenti tecnologici e piattaforme digitali 
+3.a seguito delle decisioni di investimento di VE.S.T.A. SRL, effettuare lo scouting delle tecnologie più opportune a livello sensoristico in modalità IoT ed individuare i fornitori 
+4.a seguito della messa a disposizione degli investimenti, implementare operativamente le metodologie, gli strumenti digitali e le piattaforme digitali, con particolare attenzione alle buone prassi relative alla cyber sicurezza 
+5.collaudare i sistemi implementati

@@ -1,0 +1,1 @@
+Progetto di ricerca applicata su architetture Transformer e modelli di attenzione per rilevamento intrusioni in ambito sport. Il sistema elabora immagini ad alta risoluzione acquisite da telecamere industriali attraverso pipeline di data processing avanzate. Il deployment avviene su ONNX runtime per deployment cross-platform con monitoraggio continuo delle performance.

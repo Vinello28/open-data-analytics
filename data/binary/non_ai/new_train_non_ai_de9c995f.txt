@@ -1,0 +1,5 @@
+"Per 3DEverywhere è cruciale la realizzazione di piattaforme web innovative per la configurazione e la fruizione in modo semplice di metadati di analisi da flussi video e flussi di dati 3D generati da prodotti sviluppati da 3DEverywhere. 
+Il fornitore realizzerà una piattaforma web da usare in cloud che consenta all’utente di:
+a) accedere al portale, vedere la lista delle camere disponibili e configurare l#-#analisi video e l#-#analisi 3D;
+b) monitorare da remoto lo stato delle videocamere o camere 3D e ricevere i metadati prodotti aggregandoli su tutte le camere;
+c) garantire a 3DEverywhere per i propri prodotti la possibilità di assistenza e interventi di aggiornamento/manutenzione da remoto"

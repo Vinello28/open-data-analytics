@@ -1,0 +1,1 @@
+Sviluppo di un sistema di rilevamento frodi assicurative basato su algoritmi di Anomaly Detection e analisi dei Big Data delle polizze.

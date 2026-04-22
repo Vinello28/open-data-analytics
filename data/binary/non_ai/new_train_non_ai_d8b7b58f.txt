@@ -1,0 +1,7 @@
+Il progetto consiste nella realizzazione di una piattaforma e-commerce adatta a presentare i nostri prodotti attraverso la rete internet. Il sito web e-commerce, un sito per la vendita on-line e la fornitura del programma gestionale collegato avente le seguenti caratteristiche:
+- Programma gestionale T-Shop Azienda (clienti, fornitori, magazzino, acquisti, vendite, contabilità, produzione, ecc.)
+- Sito e-commerce collegato (T-Shop E-Commerce).
+- N.3 Marketplace tra quelli realizzati.
+- N.3 Cataloghi.
+- CRM personalizzato per customer service.
+Corso di addestramento professionale on sie di 80 ore

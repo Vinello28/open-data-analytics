@@ -1,0 +1,1 @@
+Realizzazione di un sistema di Machine Learning per diagnosi medica automatizzata nel contesto ambiente. La soluzione utilizza Generative Adversarial Networks (GAN) per analizzare dati finanziari tick-by-tick ad alta frequenza in tempo reale. L'infrastruttura tecnologica prevede infrastruttura cloud scalabile (AWS/Azure/GCP) per garantire alte performance.

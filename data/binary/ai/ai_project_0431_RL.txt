@@ -1,0 +1,1 @@
+Sviluppo di una piattaforma AI per ottimizzazione processi produttivi tramite Reinforcement Learning (RL) con algoritmi PPO/DQN applicata al dominio trasporti. Il modello viene addestrato su video ad alta definizione 4K/8K e deployato su container orchestration con Kubernetes. I fondi supportano ricerca, sviluppo e validazione sul campo.

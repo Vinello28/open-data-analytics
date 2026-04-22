@@ -1,0 +1,1 @@
+Sviluppo di una piattaforma AI per protein folding tramite Graph Neural Networks (GNN) per dati strutturati applicata al dominio automotive. Il modello viene addestrato su point cloud da sensori LiDAR e deployato su A/B testing framework. I fondi supportano ricerca, sviluppo e validazione sul campo.

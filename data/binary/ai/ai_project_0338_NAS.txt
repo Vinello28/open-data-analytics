@@ -1,0 +1,1 @@
+Realizzazione di una soluzione AI per chatbot e assistenti virtuali mediante Neural Architecture Search (NAS) dedicata al mercato finanza. Il sistema analizza serie temporali storiche di 10+ anni con accuratezza superiore al 95%. L'infrastruttura tecnologica comprende model compression e quantization e sistemi di backup automatizzati.

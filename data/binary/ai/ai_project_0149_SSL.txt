@@ -1,0 +1,1 @@
+Implementazione di un sistema di intelligenza artificiale per credit scoring utilizzando Self-Supervised Learning (SSL). Il progetto si rivolge al settore alimentare e processa immagini ad alta risoluzione acquisite da telecamere industriali. L'architettura tecnologica include edge computing con acceleratori TPU/NPU con capacità di scaling automatico.

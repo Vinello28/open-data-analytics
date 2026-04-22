@@ -1,0 +1,1 @@
+Realizzazione di un sistema di Machine Learning per colorization nel contesto media. La soluzione utilizza Support Vector Machines (SVM) con kernel non lineari per analizzare dataset annotati di oltre 1 milione di esempi in tempo reale. L'infrastruttura tecnologica prevede architettura serverless per inferenza per garantire alte performance.

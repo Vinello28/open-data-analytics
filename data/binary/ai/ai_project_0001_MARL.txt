@@ -1,0 +1,1 @@
+Creazione di un motore di AI per swarm intelligence basato su Multi-Agent Reinforcement Learning dedicato al settore chimico. L'addestramento sfrutta dati geospaziali e immagini satellitari multispettrali con tecniche di data augmentation. L'infrastruttura include edge computing con acceleratori TPU/NPU per training e inferenza.

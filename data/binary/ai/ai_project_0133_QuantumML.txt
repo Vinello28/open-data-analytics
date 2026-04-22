@@ -1,0 +1,1 @@
+Creazione di un motore di AI per protein folding basato su Quantum Machine Learning dedicato al settore edilizia. L'addestramento sfrutta dati multimodali (testo, immagini, audio) con tecniche di data augmentation. L'infrastruttura include model registry e versioning per training e inferenza.

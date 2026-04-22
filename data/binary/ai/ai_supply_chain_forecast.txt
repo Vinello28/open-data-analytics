@@ -1,0 +1,1 @@
+Ottimizzazione della supply chain tramite modelli di Demand Forecasting basati su reti neurali Deep Learning e variabili macroeconomiche.

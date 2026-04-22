@@ -1,0 +1,1 @@
+Progetto di innovazione digitale per previsione domanda basato su algoritmi di Anomaly Detection nel contesto retail. Il modello apprende da dati finanziari tick-by-tick ad alta frequenza utilizzando tecniche di curriculum learning. Il deployment sfrutta architettura serverless per inferenza per garantire affidabilità.

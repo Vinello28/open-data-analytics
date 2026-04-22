@@ -1,0 +1,1 @@
+Sviluppo di una piattaforma AI per sentiment analysis tramite architetture Transformer e modelli di attenzione applicata al dominio farmaceutico. Il modello viene addestrato su log di sistema e telemetria applicativa e deployato su model compression e quantization. I fondi supportano ricerca, sviluppo e validazione sul campo.

@@ -1,0 +1,1 @@
+Sviluppo di assistenti virtuali per anziani basati su Personal Assistant AI con capacità di monitoraggio dei parametri vitali e interazione vocale naturale.

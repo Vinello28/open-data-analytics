@@ -1,0 +1,1 @@
+Realizzazione di una soluzione AI per object tracking mediante Recommendation Systems con Collaborative Filtering dedicata al mercato logistica. Il sistema analizza segnali biomedici (EEG, ECG, fMRI) con accuratezza superiore al 95%. L'infrastruttura tecnologica comprende A/B testing framework e sistemi di backup automatizzati.

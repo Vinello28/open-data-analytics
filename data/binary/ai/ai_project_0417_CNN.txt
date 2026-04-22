@@ -1,0 +1,1 @@
+Realizzazione di una soluzione AI per object tracking mediante Deep Learning con reti neurali convoluzionali (CNN) dedicata al mercato sport. Il sistema analizza Big Data provenienti da sensori IoT distribuiti con accuratezza superiore al 95%. L'infrastruttura tecnologica comprende pipeline MLOps con CI/CD automatizzato e sistemi di backup automatizzati.

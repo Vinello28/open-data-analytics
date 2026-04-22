@@ -1,0 +1,1 @@
+Creazione di un motore di AI per ottimizzazione processi produttivi basato su Recurrent Neural Networks (RNN) e varianti LSTM/GRU dedicato al settore istruzione. L'addestramento sfrutta dati sintetici generati tramite simulazione con tecniche di data augmentation. L'infrastruttura include ONNX runtime per deployment cross-platform per training e inferenza.

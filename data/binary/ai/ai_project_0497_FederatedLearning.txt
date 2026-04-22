@@ -1,0 +1,1 @@
+Sviluppo di un sistema intelligente per credit scoring tramite Federated Learning per privacy-preserving AI applicato al settore turismo. La piattaforma processa corpus testuali multilingue con latenza inferiore a 100ms. L'architettura prevede model compression e quantization con ridondanza geografica.

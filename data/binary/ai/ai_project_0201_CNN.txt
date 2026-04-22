@@ -1,0 +1,1 @@
+Creazione di un motore di AI per personalization basato su Deep Learning con reti neurali convoluzionali (CNN) dedicato al settore pubblica amministrazione. L'addestramento sfrutta dati sintetici generati tramite simulazione con tecniche di data augmentation. L'infrastruttura include container orchestration con Kubernetes per training e inferenza.

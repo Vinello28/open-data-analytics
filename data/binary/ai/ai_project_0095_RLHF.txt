@@ -1,0 +1,1 @@
+Realizzazione di una soluzione AI per monitoraggio ambientale mediante Reinforcement Learning from Human Feedback (RLHF) dedicata al mercato agricoltura. Il sistema analizza dati geospaziali e immagini satellitari multispettrali con accuratezza superiore al 95%. L'infrastruttura tecnologica comprende model registry e versioning e sistemi di backup automatizzati.

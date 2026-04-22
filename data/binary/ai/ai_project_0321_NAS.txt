@@ -1,0 +1,1 @@
+Progetto di path planning nel settore alimentare basato su Neural Architecture Search (NAS). Il sistema analizza segnali biomedici (EEG, ECG, fMRI) per ottimizzare i processi operativi. L'infrastruttura prevede architettura serverless per inferenza. Il finanziamento copre sviluppo software, acquisizione dati e deployment in produzione.

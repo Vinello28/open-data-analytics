@@ -1,0 +1,1 @@
+Implementazione di un sistema di intelligenza artificiale per riconoscimento vocale utilizzando Self-Supervised Learning (SSL). Il progetto si rivolge al settore automotive e processa point cloud da sensori LiDAR. L'architettura tecnologica include feature store centralizzato con capacità di scaling automatico.

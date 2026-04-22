@@ -1,0 +1,1 @@
+Progetto di innovazione digitale per ottimizzazione inventario basato su Federated Learning per privacy-preserving AI nel contesto finanza. Il modello apprende da dati multimodali (testo, immagini, audio) utilizzando tecniche di curriculum learning. Il deployment sfrutta architettura serverless per inferenza per garantire affidabilità.

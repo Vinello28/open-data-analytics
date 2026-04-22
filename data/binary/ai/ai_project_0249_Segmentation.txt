@@ -1,0 +1,1 @@
+Progetto di ricerca applicata su Semantic Segmentation e Instance Segmentation per predictive maintenance in ambito alimentare. Il sistema elabora dati finanziari tick-by-tick ad alta frequenza attraverso pipeline di data processing avanzate. Il deployment avviene su model registry e versioning con monitoraggio continuo delle performance.

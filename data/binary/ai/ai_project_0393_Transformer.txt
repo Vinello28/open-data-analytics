@@ -1,0 +1,1 @@
+Realizzazione di un sistema di Machine Learning per traduzione automatica nel contesto trasporti. La soluzione utilizza architetture Transformer e modelli di attenzione per analizzare video ad alta definizione 4K/8K in tempo reale. L'infrastruttura tecnologica prevede ONNX runtime per deployment cross-platform per garantire alte performance.

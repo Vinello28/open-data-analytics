@@ -1,0 +1,1 @@
+Implementazione di algoritmi di Support Vector Machines (SVM) con kernel non lineari per energy management nel dominio alimentare. Il progetto integra dati finanziari tick-by-tick ad alta frequenza provenienti da multiple sorgenti eterogenee. Il finanziamento copre feature store centralizzato e team di data scientist specializzati.

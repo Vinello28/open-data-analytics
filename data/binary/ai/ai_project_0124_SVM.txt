@@ -1,0 +1,1 @@
+Progetto di monitoraggio ambientale nel settore alimentare basato su Support Vector Machines (SVM) con kernel non lineari. Il sistema analizza video ad alta definizione 4K/8K per ottimizzare i processi operativi. L'infrastruttura prevede architettura serverless per inferenza. Il finanziamento copre sviluppo software, acquisizione dati e deployment in produzione.

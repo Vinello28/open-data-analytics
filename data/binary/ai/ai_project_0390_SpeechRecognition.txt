@@ -1,0 +1,1 @@
+Sviluppo di una piattaforma AI per sentiment analysis tramite Speech Recognition con modelli end-to-end applicata al dominio alimentare. Il modello viene addestrato su dati sintetici generati tramite simulazione e deployato su model compression e quantization. I fondi supportano ricerca, sviluppo e validazione sul campo.

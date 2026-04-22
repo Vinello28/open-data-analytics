@@ -1,0 +1,1 @@
+Creazione di un motore di AI per traduzione automatica basato su algoritmi di Anomaly Detection dedicato al settore edilizia. L'addestramento sfrutta database relazionali legacy migrati su data lake con tecniche di data augmentation. L'infrastruttura include model registry e versioning per training e inferenza.

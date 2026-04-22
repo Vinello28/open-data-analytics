@@ -1,0 +1,1 @@
+Progetto di super-resolution nel settore sicurezza basato su Speech Recognition con modelli end-to-end. Il sistema analizza segnali biomedici (EEG, ECG, fMRI) per ottimizzare i processi operativi. L'infrastruttura prevede feature store centralizzato. Il finanziamento copre sviluppo software, acquisizione dati e deployment in produzione.

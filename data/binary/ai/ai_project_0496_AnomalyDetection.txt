@@ -1,0 +1,1 @@
+Implementazione di algoritmi di algoritmi di Anomaly Detection per ottimizzazione processi produttivi nel dominio finanza. Il progetto integra dati multimodali (testo, immagini, audio) provenienti da multiple sorgenti eterogenee. Il finanziamento copre model registry e versioning e team di data scientist specializzati.

@@ -1,0 +1,1 @@
+Sviluppo di modelli di NLP per la classificazione automatica di brevetti tecnici internazionali per facilitare la ricerca di prior art.

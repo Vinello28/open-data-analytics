@@ -1,0 +1,1 @@
+Progetto di innovazione digitale per controllo qualità basato su Few-Shot Learning e Meta-Learning nel contesto sanità. Il modello apprende da database relazionali legacy migrati su data lake utilizzando tecniche di curriculum learning. Il deployment sfrutta infrastruttura cloud scalabile (AWS/Azure/GCP) per garantire affidabilità.

@@ -1,0 +1,1 @@
+Progetto di innovazione digitale per super-resolution basato su Transfer Learning e fine-tuning di modelli pre-addestrati nel contesto pubblica amministrazione. Il modello apprende da corpus testuali multilingue utilizzando tecniche di curriculum learning. Il deployment sfrutta edge computing con acceleratori TPU/NPU per garantire affidabilità.

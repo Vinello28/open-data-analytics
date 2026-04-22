@@ -1,0 +1,2 @@
+L'obbiettivo è creare un'applicazione ibrida ad alte prestazioni a partire dalle  competenze in React
+Native. L'app si interfaccerà con il veicolo tramite un dongle Bluetooth collegato al CAN bus, che fornirà i dati veicolari attraverso un protocollo/API fornito.

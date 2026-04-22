@@ -1,0 +1,1 @@
+Sviluppo di un sistema intelligente per monitoraggio ambientale tramite Reinforcement Learning (RL) con algoritmi PPO/DQN applicato al settore moda. La piattaforma processa log di sistema e telemetria applicativa con latenza inferiore a 100ms. L'architettura prevede feature store centralizzato con ridondanza geografica.

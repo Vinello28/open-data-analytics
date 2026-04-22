@@ -1,0 +1,1 @@
+Progetto di pianificazione percorsi nel settore agricoltura basato su Neuromorphic Computing. Il sistema analizza immagini ad alta risoluzione acquisite da telecamere industriali per ottimizzare i processi operativi. L'infrastruttura prevede monitoring e observability con Prometheus/Grafana. Il finanziamento copre sviluppo software, acquisizione dati e deployment in produzione.

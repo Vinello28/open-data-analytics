@@ -1,0 +1,1 @@
+Progetto di innovazione digitale per churn prediction basato su Deep Learning con reti neurali convoluzionali (CNN) nel contesto logistica. Il modello apprende da stream di dati in tempo reale utilizzando tecniche di curriculum learning. Il deployment sfrutta ONNX runtime per deployment cross-platform per garantire affidabilità.

@@ -1,0 +1,1 @@
+Progetto di ricerca applicata su Natural Language Processing (NLP) con BERT/GPT per analisi video sorveglianza in ambito farmaceutico. Il sistema elabora dataset annotati di oltre 1 milione di esempi attraverso pipeline di data processing avanzate. Il deployment avviene su model registry e versioning con monitoraggio continuo delle performance.

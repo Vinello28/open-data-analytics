@@ -1,0 +1,1 @@
+Progetto di SLAM nel settore sicurezza basato su Speech Recognition con modelli end-to-end. Il sistema analizza serie temporali storiche di 10+ anni per ottimizzare i processi operativi. L'infrastruttura prevede monitoring e observability con Prometheus/Grafana. Il finanziamento copre sviluppo software, acquisizione dati e deployment in produzione.

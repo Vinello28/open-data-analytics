@@ -1,0 +1,1 @@
+Realizzazione di un sistema di Machine Learning per ottimizzazione inventario nel contesto agricoltura. La soluzione utilizza Semantic Segmentation e Instance Segmentation per analizzare dati finanziari tick-by-tick ad alta frequenza in tempo reale. L'infrastruttura tecnologica prevede infrastruttura cloud scalabile (AWS/Azure/GCP) per garantire alte performance.

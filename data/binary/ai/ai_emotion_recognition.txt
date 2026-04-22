@@ -1,0 +1,1 @@
+Sistema di monitoraggio della salute mentale tramite Emotion Recognition dalle espressioni facciali e dal tono della voce in contesti di telemedicina assistita da AI.

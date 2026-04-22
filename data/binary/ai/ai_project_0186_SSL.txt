@@ -1,0 +1,1 @@
+Progetto di innovazione digitale per energy management basato su Self-Supervised Learning (SSL) nel contesto aerospace. Il modello apprende da video ad alta definizione 4K/8K utilizzando tecniche di curriculum learning. Il deployment sfrutta infrastruttura cloud scalabile (AWS/Azure/GCP) per garantire affidabilità.

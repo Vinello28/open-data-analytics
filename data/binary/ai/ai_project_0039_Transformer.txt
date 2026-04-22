@@ -1,0 +1,1 @@
+Realizzazione di una soluzione AI per image generation mediante architetture Transformer e modelli di attenzione dedicata al mercato chimico. Il sistema analizza serie temporali storiche di 10+ anni con accuratezza superiore al 95%. L'infrastruttura tecnologica comprende model registry e versioning e sistemi di backup automatizzati.

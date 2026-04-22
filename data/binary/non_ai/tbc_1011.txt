@@ -1,0 +1,27 @@
+Ho la necessità di informatizzare la mia attività di vendita on-line tramite un sito e-commerce.
+
+	Il sito è solo la punta dell' iceberg in quanto visibile, ma dietro dovrà esserci un sistema informativo di back-office adeguato alla gestione del flusso dati.
+
+	Dovendo essere autonomo nella gestione attuale e futura richiedo che venga fornito anche il SORGENTE e un adeguato ADDESTRAMENTO all'uso.
+
+	Prevedendo di ampliare ulteriormente il sito, chiedo anche un corso nel linguaggio di sviluppo.
+
+	Le scelte tecniche le lascio al nostro fornitore.
+
+	Richiedo quindi un offerta per i seguenti servizi:
+
+	- Sito e-commerce (incluso sorgente)
+
+	- Software di back-office (incluso sorgente)
+
+	- Software gestionale di magazzino (incluso sorgente)
+
+	- Software gestionale di contabilità (incluso sorgente)
+
+	- Corso del linguaggio utilizzato per lo sviluppo del sito
+
+	- Corso per l'uso dei database di supporto
+
+	- Corso del linguaggio utilizzato per lo sviluppo software
+
+	- SORGENTI e DOCUMENTAZIONE DETTAGLIATA di tutto il software sviluppato

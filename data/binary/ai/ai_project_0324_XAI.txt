@@ -1,0 +1,1 @@
+Progetto di ricerca applicata su Explainable AI (XAI) con SHAP/LIME per previsione domanda in ambito pubblica amministrazione. Il sistema elabora dataset annotati di oltre 1 milione di esempi attraverso pipeline di data processing avanzate. Il deployment avviene su A/B testing framework con monitoraggio continuo delle performance.

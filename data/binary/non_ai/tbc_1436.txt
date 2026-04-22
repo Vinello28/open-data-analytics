@@ -1,0 +1,6 @@
+Gli interventi di miglioramento e rinnovo programmati riguardano:
+1)	acquisto di un server interno e di un nuovo sistema di rete per l¿archiviazione, la sicurezza dei dati, e lo sfruttamento delle potenzialità del lavoro condiviso;
+2)	acquisto di una stampante dipartimentale di rete A.D.F. per l¿archiviazione automatica dei documenti.
+L¿intervento prevede la disposizione di componenti hardware (server e relativi dischi, controller, gruppo di continuità, switch 24 porte, access point, stampante dipartimentale) e software (windows server 2012), finalizzati ad una completa riorganizzazione dei sistemi di operatività di rete e di gestione dei dati, nel segno della dematerializzazione  e della razionalizzazione dei processi connessi all¿erogazione dei servizi aziendali.
+A ciò si associa una consulenza in tema di layout delle apparecchiature, revisione e modellazione dei processi correlati alla digitalizzazione, di creazione dell¿ambiente informatico di lavoro. 
+È infine prevista un¿attività formativa per datore di lavoro e dipendenti, volta ad acquisire le basi logico-tecniche delle suddette tecnologie, per l¿apprendimento delle funzionalità dei dispositivi e per l¿addestramento operativo allo sviluppo di procedure e pratiche operative connesse al nuovo ambiente.

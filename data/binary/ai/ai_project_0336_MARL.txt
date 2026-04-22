@@ -1,0 +1,1 @@
+Implementazione di un sistema di intelligenza artificiale per sintesi vocale utilizzando Multi-Agent Reinforcement Learning. Il progetto si rivolge al settore retail e processa corpus testuali multilingue. L'architettura tecnologica include model compression e quantization con capacità di scaling automatico.

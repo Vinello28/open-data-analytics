@@ -1,0 +1,6 @@
+Studio e sviluppo di soluzioni tecniche innovative per consentire ad un produttore di caldaie di proporre al mercato una nuova caldaia Smart connessa e nuovi modelli di business, che lo rendano capace di offrire valore aggiunto alla sola fornitura dell'hardware. 
+L'obiettivo finale è supportare le necessità di due diverse tipologie di soggetti: 
+1. Produttore di caldaie (End User del progetto): 
+* Offrire alla clientela un monitoraggio continuo del grado di salute della caldaia per un servizio di assistenza post vendita proattivo, ovvero ingaggiare un intervento tecnico ancora prima che il problema bloccante si sia palesato. 
+* Monitoraggio continuo delle prestazioni e delle necessità di produzione termica, anche utilizzando i dati provenienti da dispositivi domotici installati nell' abitazione o servizi meteo esterni, rivolto alla massimizzazione della resa energetica della caldaia. 
+* Analisi qualitativa dei dati relativi al parco installato in modo da fornire a R&S della società di produzione delle caldaie le indicazioni necessarie al miglioramento del prodotto.

@@ -1,0 +1,1 @@
+Realizzazione di un sistema di Machine Learning per smart grid nel contesto moda. La soluzione utilizza Semantic Segmentation e Instance Segmentation per analizzare corpus testuali multilingue in tempo reale. L'infrastruttura tecnologica prevede monitoring e observability con Prometheus/Grafana per garantire alte performance.

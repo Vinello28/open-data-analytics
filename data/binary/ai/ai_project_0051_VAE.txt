@@ -1,0 +1,1 @@
+Realizzazione di un sistema di Machine Learning per generazione testo nel contesto automotive. La soluzione utilizza Variational Autoencoders (VAE) per analizzare segnali biomedici (EEG, ECG, fMRI) in tempo reale. L'infrastruttura tecnologica prevede infrastruttura cloud scalabile (AWS/Azure/GCP) per garantire alte performance.

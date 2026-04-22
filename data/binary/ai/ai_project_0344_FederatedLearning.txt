@@ -1,0 +1,1 @@
+Sviluppo di una piattaforma AI per traffic optimization tramite Federated Learning per privacy-preserving AI applicata al dominio turismo. Il modello viene addestrato su stream di dati in tempo reale e deployato su model registry e versioning. I fondi supportano ricerca, sviluppo e validazione sul campo.

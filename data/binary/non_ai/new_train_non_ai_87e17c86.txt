@@ -1,0 +1,7 @@
+In generale, durante tutto il progetto IEFLUIDS verificherà che le attività di ricerca e di sviluppo del partenariato siano indirizzate al fine di ottenere a fine progetto uno strumento
+operativo che possa soddisfare le esigenze di ogni attore del progetto.
+In particolare, durante la creazione ex-novo di algoritmi di calcolo, IEFLUIDS, come responsabile di azione o a supporto, opererà nelle fasi di implementazione, ricerca errori, test.
+Verificherà inoltre, apportando eventualmente le modifiche necessarie, che la nuova
+modellistica introdotta nei codici sorgenti, soddisfi quei requisiti di ottimizzazione necessari a
+garantire tempi rapidi di esecuzione.
+A strumento ultimato, IEFLUIDS ne verificherà l’applicazione ai casi pratici, definiti col partenariato, apportando eventuali modifiche e correzioni a quanto implementato.

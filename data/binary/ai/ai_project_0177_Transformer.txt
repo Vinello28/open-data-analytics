@@ -1,0 +1,1 @@
+Sviluppo di un sistema intelligente per 3D reconstruction tramite architetture Transformer e modelli di attenzione applicato al settore alimentare. La piattaforma processa log di sistema e telemetria applicativa con latenza inferiore a 100ms. L'architettura prevede model compression e quantization con ridondanza geografica.

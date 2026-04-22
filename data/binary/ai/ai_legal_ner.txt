@@ -1,0 +1,1 @@
+Sviluppo di modelli di NLP per l'analisi automatica di contratti legali (Legal Tech) utilizzando Named Entity Recognition (NER) per estrarre clausole e scadenze critiche.

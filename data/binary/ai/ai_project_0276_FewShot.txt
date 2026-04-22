@@ -1,0 +1,1 @@
+Sviluppo di un sistema intelligente per music generation tramite Few-Shot Learning e Meta-Learning applicato al settore agricoltura. La piattaforma processa immagini ad alta risoluzione acquisite da telecamere industriali con latenza inferiore a 100ms. L'architettura prevede mixed precision training (FP16/BF16) con ridondanza geografica.

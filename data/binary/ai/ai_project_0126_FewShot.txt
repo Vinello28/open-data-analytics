@@ -1,0 +1,1 @@
+Progetto di ricerca applicata su Few-Shot Learning e Meta-Learning per analisi video sorveglianza in ambito moda. Il sistema elabora corpus testuali multilingue attraverso pipeline di data processing avanzate. Il deployment avviene su monitoring e observability con Prometheus/Grafana con monitoraggio continuo delle performance.

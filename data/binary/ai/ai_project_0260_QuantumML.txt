@@ -1,0 +1,1 @@
+Realizzazione di una soluzione AI per riconoscimento facciale mediante Quantum Machine Learning dedicata al mercato finanza. Il sistema analizza log di sistema e telemetria applicativa con accuratezza superiore al 95%. L'infrastruttura tecnologica comprende infrastruttura cloud scalabile (AWS/Azure/GCP) e sistemi di backup automatizzati.

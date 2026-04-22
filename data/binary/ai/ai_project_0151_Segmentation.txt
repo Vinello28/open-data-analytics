@@ -1,0 +1,1 @@
+Sviluppo di una piattaforma AI per colorization tramite Semantic Segmentation e Instance Segmentation applicata al dominio trasporti. Il modello viene addestrato su dati multimodali (testo, immagini, audio) e deployato su data warehouse su Snowflake/BigQuery. I fondi supportano ricerca, sviluppo e validazione sul campo.

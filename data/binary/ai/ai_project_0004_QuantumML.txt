@@ -1,0 +1,1 @@
+Realizzazione di un sistema di Machine Learning per protein folding nel contesto energia. La soluzione utilizza Quantum Machine Learning per analizzare immagini ad alta risoluzione acquisite da telecamere industriali in tempo reale. L'infrastruttura tecnologica prevede mixed precision training (FP16/BF16) per garantire alte performance.

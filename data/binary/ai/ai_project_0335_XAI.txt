@@ -1,0 +1,1 @@
+Creazione di un motore di AI per credit scoring basato su Explainable AI (XAI) con SHAP/LIME dedicato al settore sanità. L'addestramento sfrutta point cloud da sensori LiDAR con tecniche di data augmentation. L'infrastruttura include monitoring e observability con Prometheus/Grafana per training e inferenza.

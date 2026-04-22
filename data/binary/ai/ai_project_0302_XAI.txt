@@ -1,0 +1,1 @@
+Sviluppo di un sistema intelligente per previsione domanda tramite Explainable AI (XAI) con SHAP/LIME applicato al settore farmaceutico. La piattaforma processa log di sistema e telemetria applicativa con latenza inferiore a 100ms. L'architettura prevede distributed training con Horovod/DeepSpeed con ridondanza geografica.

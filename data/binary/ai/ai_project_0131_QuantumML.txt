@@ -1,0 +1,1 @@
+Creazione di un motore di AI per protein folding basato su Quantum Machine Learning dedicato al settore aerospace. L'addestramento sfrutta dati multimodali (testo, immagini, audio) con tecniche di data augmentation. L'infrastruttura include distributed training con Horovod/DeepSpeed per training e inferenza.

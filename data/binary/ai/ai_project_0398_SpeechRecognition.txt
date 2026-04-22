@@ -1,0 +1,1 @@
+Implementazione di algoritmi di Speech Recognition con modelli end-to-end per pricing dinamico nel dominio pubblica amministrazione. Il progetto integra stream di dati in tempo reale provenienti da multiple sorgenti eterogenee. Il finanziamento copre distributed training con Horovod/DeepSpeed e team di data scientist specializzati.

@@ -1,0 +1,1 @@
+Sviluppo di un sistema intelligente per personalization tramite Speech Recognition con modelli end-to-end applicato al settore moda. La piattaforma processa video ad alta definizione 4K/8K con latenza inferiore a 100ms. L'architettura prevede pipeline MLOps con CI/CD automatizzato con ridondanza geografica.

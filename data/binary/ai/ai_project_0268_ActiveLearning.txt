@@ -1,0 +1,1 @@
+Realizzazione di un sistema di Machine Learning per pianificazione percorsi nel contesto aerospace. La soluzione utilizza Active Learning per ottimizzazione etichettatura per analizzare dati multimodali (testo, immagini, audio) in tempo reale. L'infrastruttura tecnologica prevede container orchestration con Kubernetes per garantire alte performance.

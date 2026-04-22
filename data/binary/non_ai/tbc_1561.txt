@@ -1,0 +1,11 @@
+L'azienda EB Bugaro srl si occupa del montaggio, manutenzione e commercializzazione di
+parti di ricambio di apparecchiature industriali per Ristorazione e Comunità per clientela nazionale ed estera.
+Al fine di incrementare il commercio estero e nazionale, è intenzione dell'Azienda di dotarsi di un sistema di ecommerce
+per mettere a disposizione dei clienti già acquisiti un catalogo di prodotti sempre aggiornato. Il
+progetto prevede la meccanizzazione delle manutenzioni straordinarie e programmate gestite da apposito sw
+tramite PC o tablet. Inoltre, è previsto un sw gestionale. Sarà implementata inoltre la gestione contabile e di
+magazzino con le relative scritture contabili ed emissione di documenti fiscali. Per far fronte al rinnovamento
+globale del sistema informativo aziendale, sarà necessario un server di rete ed ulteriori posti di lavoro in grado
+di supportare tutte le attività gestionali e di commercio elettronico. Per la produzione dei progetti grafici delle
+cucine proposte, è previsto un plotter di grande formato. Sono previste fasi di addestramento e consulenza sia
+per la parte gestionale-contabile che per lorganizzazione e luso del e-commerce.

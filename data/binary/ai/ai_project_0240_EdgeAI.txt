@@ -1,0 +1,1 @@
+Progetto di ricerca applicata su Edge AI e TinyML per dispositivi embedded per action recognition in ambito sport. Il sistema elabora stream di dati in tempo reale attraverso pipeline di data processing avanzate. Il deployment avviene su edge computing con acceleratori TPU/NPU con monitoraggio continuo delle performance.

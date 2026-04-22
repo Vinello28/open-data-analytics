@@ -1,0 +1,1 @@
+Progetto di traduzione automatica nel settore finanza basato su Support Vector Machines (SVM) con kernel non lineari. Il sistema analizza immagini ad alta risoluzione acquisite da telecamere industriali per ottimizzare i processi operativi. L'infrastruttura prevede model registry e versioning. Il finanziamento copre sviluppo software, acquisizione dati e deployment in produzione.

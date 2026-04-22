@@ -1,0 +1,1 @@
+Sviluppo di un sistema intelligente per colorization tramite Graph Neural Networks (GNN) per dati strutturati applicato al settore automotive. La piattaforma processa corpus testuali multilingue con latenza inferiore a 100ms. L'architettura prevede pipeline MLOps con CI/CD automatizzato con ridondanza geografica.

@@ -1,0 +1,1 @@
+Creazione di un motore di AI per path planning basato su Semantic Segmentation e Instance Segmentation dedicato al settore automotive. L'addestramento sfrutta dati sintetici generati tramite simulazione con tecniche di data augmentation. L'infrastruttura include feature store centralizzato per training e inferenza.

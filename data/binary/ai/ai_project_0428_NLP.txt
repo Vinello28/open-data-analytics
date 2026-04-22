@@ -1,0 +1,1 @@
+Progetto di ricerca applicata su Natural Language Processing (NLP) con BERT/GPT per chatbot e assistenti virtuali in ambito aerospace. Il sistema elabora dati sintetici generati tramite simulazione attraverso pipeline di data processing avanzate. Il deployment avviene su model compression e quantization con monitoraggio continuo delle performance.

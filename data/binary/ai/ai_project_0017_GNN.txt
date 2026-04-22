@@ -1,0 +1,1 @@
+Progetto di fraud detection nel settore farmaceutico basato su Graph Neural Networks (GNN) per dati strutturati. Il sistema analizza Big Data provenienti da sensori IoT distribuiti per ottimizzare i processi operativi. L'infrastruttura prevede monitoring e observability con Prometheus/Grafana. Il finanziamento copre sviluppo software, acquisizione dati e deployment in produzione.

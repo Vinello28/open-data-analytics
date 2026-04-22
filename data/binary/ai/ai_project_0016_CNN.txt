@@ -1,0 +1,1 @@
+Realizzazione di un sistema di Machine Learning per monitoraggio ambientale nel contesto agricoltura. La soluzione utilizza Deep Learning con reti neurali convoluzionali (CNN) per analizzare dataset annotati di oltre 1 milione di esempi in tempo reale. L'infrastruttura tecnologica prevede mixed precision training (FP16/BF16) per garantire alte performance.

@@ -1,0 +1,1 @@
+Realizzazione di un sistema di Machine Learning per pose estimation nel contesto aerospace. La soluzione utilizza Time Series Forecasting con modelli ARIMA-LSTM ibridi per analizzare video ad alta definizione 4K/8K in tempo reale. L'infrastruttura tecnologica prevede ONNX runtime per deployment cross-platform per garantire alte performance.

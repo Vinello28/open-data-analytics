@@ -1,0 +1,1 @@
+Sviluppo di una piattaforma AI per churn prediction tramite Self-Supervised Learning (SSL) applicata al dominio turismo. Il modello viene addestrato su dati geospaziali e immagini satellitari multispettrali e deployato su distributed training con Horovod/DeepSpeed. I fondi supportano ricerca, sviluppo e validazione sul campo.

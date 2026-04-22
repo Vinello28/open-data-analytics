@@ -1,0 +1,1 @@
+Realizzazione di un sistema di Machine Learning per protein folding nel contesto ambiente. La soluzione utilizza Self-Supervised Learning (SSL) per analizzare video ad alta definizione 4K/8K in tempo reale. L'infrastruttura tecnologica prevede pipeline MLOps con CI/CD automatizzato per garantire alte performance.

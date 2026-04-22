@@ -1,0 +1,1 @@
+Implementazione di algoritmi di Multi-Agent Reinforcement Learning per grasp planning nel dominio trasporti. Il progetto integra dati sintetici generati tramite simulazione provenienti da multiple sorgenti eterogenee. Il finanziamento copre feature store centralizzato e team di data scientist specializzati.

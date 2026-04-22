@@ -1,0 +1,1 @@
+Progetto di image generation nel settore agricoltura basato su Reinforcement Learning from Human Feedback (RLHF). Il sistema analizza log di sistema e telemetria applicativa per ottimizzare i processi operativi. L'infrastruttura prevede feature store centralizzato. Il finanziamento copre sviluppo software, acquisizione dati e deployment in produzione.

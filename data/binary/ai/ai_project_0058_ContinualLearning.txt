@@ -1,0 +1,1 @@
+Realizzazione di un sistema di Machine Learning per generazione testo nel contesto moda. La soluzione utilizza Continual Learning e Lifelong Learning per analizzare dataset annotati di oltre 1 milione di esempi in tempo reale. L'infrastruttura tecnologica prevede container orchestration con Kubernetes per garantire alte performance.

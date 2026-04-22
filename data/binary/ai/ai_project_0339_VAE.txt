@@ -1,0 +1,1 @@
+Progetto di guida autonoma nel settore moda basato su Variational Autoencoders (VAE). Il sistema analizza database relazionali legacy migrati su data lake per ottimizzare i processi operativi. L'infrastruttura prevede architettura serverless per inferenza. Il finanziamento copre sviluppo software, acquisizione dati e deployment in produzione.

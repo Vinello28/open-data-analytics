@@ -1,0 +1,1 @@
+Creazione di un motore di AI per path planning basato su Ensemble Learning con Random Forest e Gradient Boosting dedicato al settore ambiente. L'addestramento sfrutta immagini ad alta risoluzione acquisite da telecamere industriali con tecniche di data augmentation. L'infrastruttura include feature store centralizzato per training e inferenza.

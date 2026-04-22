@@ -1,0 +1,1 @@
+Implementazione di un sistema di intelligenza artificiale per human-robot interaction utilizzando Neural Architecture Search (NAS). Il progetto si rivolge al settore ricerca scientifica e processa serie temporali storiche di 10+ anni. L'architettura tecnologica include ONNX runtime per deployment cross-platform con capacità di scaling automatico.

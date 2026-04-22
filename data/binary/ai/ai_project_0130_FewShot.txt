@@ -1,0 +1,1 @@
+Realizzazione di una soluzione AI per summarization mediante Few-Shot Learning e Meta-Learning dedicata al mercato telecomunicazioni. Il sistema analizza corpus testuali multilingue con accuratezza superiore al 95%. L'infrastruttura tecnologica comprende A/B testing framework e sistemi di backup automatizzati.

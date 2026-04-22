@@ -1,0 +1,1 @@
+Realizzazione di un sistema di Machine Learning per traffic optimization nel contesto turismo. La soluzione utilizza Natural Language Processing (NLP) con BERT/GPT per analizzare corpus testuali multilingue in tempo reale. L'infrastruttura tecnologica prevede cluster GPU NVIDIA A100/H100 per training distribuito per garantire alte performance.

@@ -1,0 +1,1 @@
+Implementazione di un sistema di intelligenza artificiale per generazione testo utilizzando Federated Learning per privacy-preserving AI. Il progetto si rivolge al settore aerospace e processa segnali biomedici (EEG, ECG, fMRI). L'architettura tecnologica include data warehouse su Snowflake/BigQuery con capacità di scaling automatico.

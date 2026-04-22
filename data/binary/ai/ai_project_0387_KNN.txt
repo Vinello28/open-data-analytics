@@ -1,0 +1,1 @@
+Progetto di innovazione digitale per predictive maintenance basato su K-Nearest Neighbors (KNN) e algoritmi di clustering nel contesto sicurezza. Il modello apprende da log di sistema e telemetria applicativa utilizzando tecniche di curriculum learning. Il deployment sfrutta cluster GPU NVIDIA A100/H100 per training distribuito per garantire affidabilità.

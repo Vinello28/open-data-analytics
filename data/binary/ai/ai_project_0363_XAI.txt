@@ -1,0 +1,1 @@
+Progetto di ricerca applicata su Explainable AI (XAI) con SHAP/LIME per riconoscimento vocale in ambito sanità. Il sistema elabora log di sistema e telemetria applicativa attraverso pipeline di data processing avanzate. Il deployment avviene su data warehouse su Snowflake/BigQuery con monitoraggio continuo delle performance.

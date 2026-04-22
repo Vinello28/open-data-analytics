@@ -1,0 +1,1 @@
+Implementazione di algoritmi di Reinforcement Learning (RL) con algoritmi PPO/DQN per generazione testo nel dominio media. Il progetto integra dataset annotati di oltre 1 milione di esempi provenienti da multiple sorgenti eterogenee. Il finanziamento copre pipeline MLOps con CI/CD automatizzato e team di data scientist specializzati.

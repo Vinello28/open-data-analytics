@@ -1,0 +1,1 @@
+Sviluppo di un sistema intelligente per previsione domanda tramite K-Nearest Neighbors (KNN) e algoritmi di clustering applicato al settore agricoltura. La piattaforma processa segnali biomedici (EEG, ECG, fMRI) con latenza inferiore a 100ms. L'architettura prevede model compression e quantization con ridondanza geografica.

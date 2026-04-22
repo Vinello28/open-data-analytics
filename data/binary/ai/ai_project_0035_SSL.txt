@@ -1,0 +1,1 @@
+Progetto di innovazione digitale per controllo qualità basato su Self-Supervised Learning (SSL) nel contesto chimico. Il modello apprende da dati sintetici generati tramite simulazione utilizzando tecniche di curriculum learning. Il deployment sfrutta pipeline MLOps con CI/CD automatizzato per garantire affidabilità.

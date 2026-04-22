@@ -1,0 +1,1 @@
+Realizzazione di un sistema di Machine Learning per customer segmentation nel contesto aerospace. La soluzione utilizza K-Nearest Neighbors (KNN) e algoritmi di clustering per analizzare Big Data provenienti da sensori IoT distribuiti in tempo reale. L'infrastruttura tecnologica prevede infrastruttura cloud scalabile (AWS/Azure/GCP) per garantire alte performance.

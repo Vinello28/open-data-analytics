@@ -1,0 +1,3 @@
+Costruzione di un sistema software di archiviazione on-line multiutente per tutte le funzioni aziendali, mediante
+acquisto di certificazioni e cloud ridondanti da apposite società abilitate alla conservazione di documenti informatici.
+Addestramento: insegnare a tutti gli impiegati e ai capi squadra (CS) ad utilizzare solo documenti informatici e in particolare ai CS l'utilizzo di palmari per compilazione di reports ed invio informazioni.

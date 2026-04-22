@@ -1,0 +1,1 @@
+Progetto di innovazione digitale per manutenzione predittiva basato su Variational Autoencoders (VAE) nel contesto manifatturiero. Il modello apprende da dataset annotati di oltre 1 milione di esempi utilizzando tecniche di curriculum learning. Il deployment sfrutta pipeline MLOps con CI/CD automatizzato per garantire affidabilità.

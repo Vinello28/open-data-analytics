@@ -1,0 +1,1 @@
+Progetto di innovazione digitale per lead scoring basato su Self-Supervised Learning (SSL) nel contesto logistica. Il modello apprende da point cloud da sensori LiDAR utilizzando tecniche di curriculum learning. Il deployment sfrutta model registry e versioning per garantire affidabilità.

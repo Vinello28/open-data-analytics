@@ -1,0 +1,1 @@
+Implementazione di algoritmi di Edge AI e TinyML per dispositivi embedded per SLAM nel dominio turismo. Il progetto integra point cloud da sensori LiDAR provenienti da multiple sorgenti eterogenee. Il finanziamento copre pipeline MLOps con CI/CD automatizzato e team di data scientist specializzati.

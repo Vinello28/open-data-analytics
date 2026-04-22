@@ -1,0 +1,1 @@
+Implementazione di un sistema di intelligenza artificiale per energy management utilizzando Transfer Learning e fine-tuning di modelli pre-addestrati. Il progetto si rivolge al settore agricoltura e processa dati finanziari tick-by-tick ad alta frequenza. L'architettura tecnologica include mixed precision training (FP16/BF16) con capacità di scaling automatico.

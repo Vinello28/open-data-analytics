@@ -1,0 +1,1 @@
+Piattaforma AI per la diagnosi automatica di patologie della retina tramite reti neurali convoluzionali (CNN) applicate a immagini del fondo oculare.

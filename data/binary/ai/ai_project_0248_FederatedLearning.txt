@@ -1,0 +1,1 @@
+Sviluppo di una piattaforma AI per pose estimation tramite Federated Learning per privacy-preserving AI applicata al dominio moda. Il modello viene addestrato su dati sintetici generati tramite simulazione e deployato su monitoring e observability con Prometheus/Grafana. I fondi supportano ricerca, sviluppo e validazione sul campo.

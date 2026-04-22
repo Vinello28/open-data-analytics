@@ -1,0 +1,1 @@
+Sviluppo di una piattaforma AI per 3D reconstruction tramite Neural Architecture Search (NAS) applicata al dominio finanza. Il modello viene addestrato su dati multimodali (testo, immagini, audio) e deployato su monitoring e observability con Prometheus/Grafana. I fondi supportano ricerca, sviluppo e validazione sul campo.

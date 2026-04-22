@@ -1,0 +1,1 @@
+Sviluppo di una piattaforma AI per analisi immagini satellitari tramite Federated Learning per privacy-preserving AI applicata al dominio turismo. Il modello viene addestrato su log di sistema e telemetria applicativa e deployato su distributed training con Horovod/DeepSpeed. I fondi supportano ricerca, sviluppo e validazione sul campo.

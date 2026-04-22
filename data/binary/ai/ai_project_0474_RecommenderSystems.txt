@@ -1,0 +1,1 @@
+Creazione di un motore di AI per analisi immagini satellitari basato su Recommendation Systems con Collaborative Filtering dedicato al settore aerospace. L'addestramento sfrutta dati finanziari tick-by-tick ad alta frequenza con tecniche di data augmentation. L'infrastruttura include infrastruttura cloud scalabile (AWS/Azure/GCP) per training e inferenza.

@@ -1,0 +1,1 @@
+Progetto di innovazione digitale per genomica personalizzata basato su Few-Shot Learning e Meta-Learning nel contesto sicurezza. Il modello apprende da video ad alta definizione 4K/8K utilizzando tecniche di curriculum learning. Il deployment sfrutta pipeline MLOps con CI/CD automatizzato per garantire affidabilità.

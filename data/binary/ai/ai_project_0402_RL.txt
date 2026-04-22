@@ -1,0 +1,1 @@
+Sviluppo di una piattaforma AI per chatbot e assistenti virtuali tramite Reinforcement Learning (RL) con algoritmi PPO/DQN applicata al dominio telecomunicazioni. Il modello viene addestrato su stream di dati in tempo reale e deployato su edge computing con acceleratori TPU/NPU. I fondi supportano ricerca, sviluppo e validazione sul campo.

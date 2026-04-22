@@ -1,0 +1,1 @@
+Progetto di AI per la guida autonoma di droni cargo in ambienti indoor complessi tramite tecniche di Simultaneous Localization and Mapping (SLAM) e Deep Reinforcement Learning.

@@ -1,0 +1,6 @@
+Fairwind è un¿azienda che opera come fornitore di tecnologie in ambito Wellness, sviluppando sistemi elettronici di controllo ed automazione per i produttori di Saune, Vasche Idromassaggio, Minipiscine, sistemi Hammam e quant¿altro utilizzato per le zone wellness (centri Spa, zone wellness di hotel o palestre ecc).
+L¿introduzione di tecnologie smart e dispositivi interconnessi è una delle richieste del mercato, in particolare per il mercato professionale, dove il manutentore ed il gestore della zona wellness hanno delle esigenze specifiche di conoscere e controllare lo stato di funzionamento dei loro dispositivi, organizzare manutenzioni programmate, fornire servizi di agli utenti e contenere i costi dell¿energia in modo da usarla in modo razionale.
+Tutti questi aspetti portano alla necessità di avvalerci di un Innovation Manager al fine di sviluppare ed approfondire tematiche legate ai seguenti punti:
+¿	Big Data e Cloud Computing orientato alla raccolta dei parametri di lavoro dei prodotti;
+¿	Cyber Security orientata a garantire un adeguato livello di sicurezza dei dispositivi interconnessi;
+¿	Interfacce Uomo-Macchina orientate allo sviluppo di piattaforme e dashboard evolute (mediante utilizzo di tecnologie web) per la visualizzazione dei parametri ed il controllo remoto

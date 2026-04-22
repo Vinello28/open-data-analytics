@@ -1,0 +1,1 @@
+Sviluppo di una piattaforma AI per manutenzione predittiva tramite Self-Supervised Learning (SSL) applicata al dominio istruzione. Il modello viene addestrato su dati geospaziali e immagini satellitari multispettrali e deployato su monitoring e observability con Prometheus/Grafana. I fondi supportano ricerca, sviluppo e validazione sul campo.

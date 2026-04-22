@@ -1,0 +1,1 @@
+Sviluppo di una piattaforma AI per protein folding tramite Recurrent Neural Networks (RNN) e varianti LSTM/GRU applicata al dominio automotive. Il modello viene addestrato su segnali biomedici (EEG, ECG, fMRI) e deployato su feature store centralizzato. I fondi supportano ricerca, sviluppo e validazione sul campo.

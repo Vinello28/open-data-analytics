@@ -1,0 +1,1 @@
+Progetto di ricerca applicata su Recurrent Neural Networks (RNN) e varianti LSTM/GRU per guida autonoma in ambito turismo. Il sistema elabora dataset annotati di oltre 1 milione di esempi attraverso pipeline di data processing avanzate. Il deployment avviene su feature store centralizzato con monitoraggio continuo delle performance.

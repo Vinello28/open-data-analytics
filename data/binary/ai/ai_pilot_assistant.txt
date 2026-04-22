@@ -1,0 +1,1 @@
+Sviluppo di assistenti di volo virtuali basati su AI per supportare i piloti nella gestione di checklist e procedure di emergenza.

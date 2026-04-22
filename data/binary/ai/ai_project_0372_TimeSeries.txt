@@ -1,0 +1,1 @@
+Implementazione di un sistema di intelligenza artificiale per SLAM utilizzando Time Series Forecasting con modelli ARIMA-LSTM ibridi. Il progetto si rivolge al settore retail e processa segnali biomedici (EEG, ECG, fMRI). L'architettura tecnologica include edge computing con acceleratori TPU/NPU con capacità di scaling automatico.

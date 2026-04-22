@@ -1,0 +1,1 @@
+Progetto di ricerca applicata su Neuromorphic Computing per previsione domanda in ambito agricoltura. Il sistema elabora serie temporali storiche di 10+ anni attraverso pipeline di data processing avanzate. Il deployment avviene su pipeline MLOps con CI/CD automatizzato con monitoraggio continuo delle performance.

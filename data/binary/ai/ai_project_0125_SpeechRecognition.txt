@@ -1,0 +1,1 @@
+Progetto di innovazione digitale per human-robot interaction basato su Speech Recognition con modelli end-to-end nel contesto ambiente. Il modello apprende da stream di dati in tempo reale utilizzando tecniche di curriculum learning. Il deployment sfrutta distributed training con Horovod/DeepSpeed per garantire affidabilità.

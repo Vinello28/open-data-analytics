@@ -1,0 +1,1 @@
+Implementazione di algoritmi di Recommendation Systems con Collaborative Filtering per monitoraggio ambientale nel dominio alimentare. Il progetto integra dataset annotati di oltre 1 milione di esempi provenienti da multiple sorgenti eterogenee. Il finanziamento copre A/B testing framework e team di data scientist specializzati.

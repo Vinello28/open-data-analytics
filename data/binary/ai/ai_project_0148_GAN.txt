@@ -1,0 +1,1 @@
+Progetto di lead scoring nel settore automotive basato su Generative Adversarial Networks (GAN). Il sistema analizza corpus testuali multilingue per ottimizzare i processi operativi. L'infrastruttura prevede A/B testing framework. Il finanziamento copre sviluppo software, acquisizione dati e deployment in produzione.

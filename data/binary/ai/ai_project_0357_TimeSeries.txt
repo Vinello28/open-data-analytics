@@ -1,0 +1,1 @@
+Realizzazione di un sistema di Machine Learning per denoising nel contesto media. La soluzione utilizza Time Series Forecasting con modelli ARIMA-LSTM ibridi per analizzare corpus testuali multilingue in tempo reale. L'infrastruttura tecnologica prevede A/B testing framework per garantire alte performance.

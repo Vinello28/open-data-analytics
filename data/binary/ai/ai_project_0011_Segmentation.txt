@@ -1,0 +1,1 @@
+Implementazione di algoritmi di Semantic Segmentation e Instance Segmentation per manutenzione predittiva nel dominio chimico. Il progetto integra database relazionali legacy migrati su data lake provenienti da multiple sorgenti eterogenee. Il finanziamento copre pipeline MLOps con CI/CD automatizzato e team di data scientist specializzati.

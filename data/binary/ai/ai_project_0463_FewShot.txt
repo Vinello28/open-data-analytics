@@ -1,0 +1,1 @@
+Implementazione di un sistema di intelligenza artificiale per path planning utilizzando Few-Shot Learning e Meta-Learning. Il progetto si rivolge al settore sport e processa corpus testuali multilingue. L'architettura tecnologica include A/B testing framework con capacità di scaling automatico.

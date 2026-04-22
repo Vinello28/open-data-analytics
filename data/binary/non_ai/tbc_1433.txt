@@ -1,0 +1,6 @@
+Premesso che la società è già in possesso di tecnologia hardware predisposta per il software oggetto della presente istanza, il progetto prevede i seguenti capitoli di spesa i cui investimenti sono in grado di assicurare un miglioramento dell¿efficienza aziendale:
+1)	Acquisto di software finalizzato alla digitalizzazione dei processi aziendali, costo preventivato ¿ 16.100,00 +IVA.  Il Software comprende i seguenti moduli:
+-	POLYEDRO per utenti procedure ALYANTE _ Collaboration e Funzionalità condivise;
+-	KIT Area Amministrativa di Base;
+-	KIT Area Commerciale di Base.
+2)	Servizi di consulenza specialistica finalizzati alla digitalizzazione dei processi aziendali, costo preventivato ¿ 3.700,00 + IVA: Identificazione e analisi (ASIS-TO BE) dei requisiti funzionali e dei flussi di processo, parametrizzazione del sistema e creazione flussi dei dati secondo la gestione tipica, specifiche delle procedure di correlazione e di digitalizzazione dei processi, addestramento del personale.

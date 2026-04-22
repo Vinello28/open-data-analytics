@@ -1,0 +1,1 @@
+Realizzazione di un sistema di Machine Learning per path planning nel contesto manifatturiero. La soluzione utilizza Deep Learning con reti neurali convoluzionali (CNN) per analizzare segnali biomedici (EEG, ECG, fMRI) in tempo reale. L'infrastruttura tecnologica prevede infrastruttura cloud scalabile (AWS/Azure/GCP) per garantire alte performance.

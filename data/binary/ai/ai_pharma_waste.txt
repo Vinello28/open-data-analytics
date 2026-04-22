@@ -1,0 +1,1 @@
+Ottimizzazione della gestione dei magazzini farmaceutici tramite algoritmi di Machine Learning per la riduzione dello spreco di farmaci scaduti.

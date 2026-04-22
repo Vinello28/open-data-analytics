@@ -1,0 +1,1 @@
+Creazione di un motore di AI per smart grid basato su Federated Learning per privacy-preserving AI dedicato al settore farmaceutico. L'addestramento sfrutta serie temporali storiche di 10+ anni con tecniche di data augmentation. L'infrastruttura include cluster GPU NVIDIA A100/H100 per training distribuito per training e inferenza.

@@ -1,0 +1,1 @@
+Sviluppo di una piattaforma AI per riconoscimento facciale tramite Neuromorphic Computing applicata al dominio moda. Il modello viene addestrato su serie temporali storiche di 10+ anni e deployato su edge computing con acceleratori TPU/NPU. I fondi supportano ricerca, sviluppo e validazione sul campo.

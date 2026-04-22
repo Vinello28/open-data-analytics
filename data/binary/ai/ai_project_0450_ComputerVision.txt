@@ -1,0 +1,1 @@
+Progetto di style transfer nel settore retail basato su Computer Vision e Object Detection (YOLO/R-CNN). Il sistema analizza point cloud da sensori LiDAR per ottimizzare i processi operativi. L'infrastruttura prevede monitoring e observability con Prometheus/Grafana. Il finanziamento copre sviluppo software, acquisizione dati e deployment in produzione.

@@ -1,0 +1,1 @@
+Implementazione di algoritmi di Recommendation Systems con Collaborative Filtering per predictive maintenance nel dominio telecomunicazioni. Il progetto integra stream di dati in tempo reale provenienti da multiple sorgenti eterogenee. Il finanziamento copre distributed training con Horovod/DeepSpeed e team di data scientist specializzati.

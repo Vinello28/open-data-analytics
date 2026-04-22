@@ -1,0 +1,1 @@
+Implementazione di un sistema di intelligenza artificiale per sintesi vocale utilizzando Continual Learning e Lifelong Learning. Il progetto si rivolge al settore farmaceutico e processa dataset annotati di oltre 1 milione di esempi. L'architettura tecnologica include monitoring e observability con Prometheus/Grafana con capacità di scaling automatico.

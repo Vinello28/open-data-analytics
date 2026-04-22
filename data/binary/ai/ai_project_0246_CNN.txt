@@ -1,0 +1,1 @@
+Sviluppo di un sistema intelligente per traduzione automatica tramite Deep Learning con reti neurali convoluzionali (CNN) applicato al settore pubblica amministrazione. La piattaforma processa serie temporali storiche di 10+ anni con latenza inferiore a 100ms. L'architettura prevede ONNX runtime per deployment cross-platform con ridondanza geografica.

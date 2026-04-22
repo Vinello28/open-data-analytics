@@ -1,0 +1,1 @@
+Progetto di generazione testo nel settore trasporti basato su Continual Learning e Lifelong Learning. Il sistema analizza immagini ad alta risoluzione acquisite da telecamere industriali per ottimizzare i processi operativi. L'infrastruttura prevede container orchestration con Kubernetes. Il finanziamento copre sviluppo software, acquisizione dati e deployment in produzione.
