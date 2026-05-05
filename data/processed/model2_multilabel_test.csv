@@ -1,6 +1,0 @@
-text,labels
-AI recommending drug dosages and treatment protocols to clinicians,nlp|machine_learning|knowledge_graphs|decision_systems
-Predicting student academic outcomes to determine course placement,machine_learning|predictive_analytics|data_mining
-Biometric verification of travellers at border control,computer_vision|biometrics|deep_learning
-AI assessing mental health severity and routing patients to appropriate care,nlp|deep_learning|sentiment_analysis
-Inferring emotions of employees in workplace settings,computer_vision|deep_learning|sentiment_analysis
