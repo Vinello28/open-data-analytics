@@ -1,0 +1,1 @@
+Sviluppo di modelli che integrano dati GPS, telemetria e variabili ambientali per prevedere rotte migratorie, identificare corridoi ecologici e mitigare conflitti uomo-fauna.

@@ -1,0 +1,1 @@
+Implementazione di un agente conversazionale basato su NLP etico e validato clinicamente che offre tecniche di grounding, monitoraggio dell'umore e triage verso professionisti.

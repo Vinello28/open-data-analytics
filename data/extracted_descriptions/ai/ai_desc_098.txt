@@ -1,0 +1,1 @@
+Sviluppo di modelli multi-agente che replicano contatti sociali, mobilità e compliance misure per prevedere curve epidemiche e testare strategie di contenimento.

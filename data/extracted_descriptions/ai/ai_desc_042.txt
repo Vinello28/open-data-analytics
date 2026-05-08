@@ -1,0 +1,1 @@
+Sviluppo di modelli di riconoscimento caratteri adattivi per manoscritti danneggiati, frammenti epigrafici e testi palinsesti, integrando knowledge graph storici per suggerimenti contestuali.

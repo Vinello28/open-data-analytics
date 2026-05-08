@@ -1,0 +1,1 @@
+Utilizzo di modelli predittivi su dati sonar e storico catture per prevedere biomassa disponibile, supportando quote sostenibili e contrastando pesca illegale.

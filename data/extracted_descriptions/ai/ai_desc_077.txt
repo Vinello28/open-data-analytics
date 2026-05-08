@@ -1,0 +1,1 @@
+Sviluppo di pipeline che integrano dati anagrafici, finanziari e comportamentali per generare decisioni di approvazione/rifiuto e pricing personalizzato in tempo reale.

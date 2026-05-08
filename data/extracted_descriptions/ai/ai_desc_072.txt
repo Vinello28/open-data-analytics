@@ -1,0 +1,1 @@
+Sviluppo di pipeline che scansionano documenti aziendali, email e registri per verificare adempimenti GDPR, antiriciclaggio e standard settoriali, segnalando gap in tempo reale.

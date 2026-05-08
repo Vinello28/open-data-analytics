@@ -1,0 +1,1 @@
+Sviluppo di toolkit di auditing che misurano disparità prestazioni tra gruppi demografici, generano report di fairness e suggeriscono mitigazioni tecniche prima del deploy in produzione.

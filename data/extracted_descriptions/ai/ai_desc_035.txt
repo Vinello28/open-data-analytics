@@ -1,0 +1,1 @@
+Utilizzo di sensori vibrazionali e modelli time-series per prevedere usura freni, cricche rotaie e guasti pantografi, pianificando interventi in finestre di manutenzione notturna.

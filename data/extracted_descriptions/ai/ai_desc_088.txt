@@ -1,0 +1,1 @@
+Utilizzo di reti convoluzionali su radiografie endorali e intraorali per identificare lesioni iniziali, calcoli sottogengivali e raccomandare trattamenti preventivi.

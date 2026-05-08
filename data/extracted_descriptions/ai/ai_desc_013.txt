@@ -1,0 +1,1 @@
+Implementazione di modelli di NLP specializzati in linguaggio giuridico per estrarre clausole critiche, confrontare versioni e segnalare rischi di conformità normativa.

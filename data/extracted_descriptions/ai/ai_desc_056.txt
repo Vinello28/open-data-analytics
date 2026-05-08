@@ -1,0 +1,1 @@
+Sviluppo di modelli multi-agente che replicano comportamenti cittadini in spazi pubblici, testando layout, illuminazione e arredo urbano per massimizzare sicurezza e comfort.

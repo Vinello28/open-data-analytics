@@ -1,0 +1,1 @@
+Deploy di modelli unsupervised learning per identificare pattern di attacco zero-day, traffico cifrato malevolo e comportamenti anomali su infrastrutture IT critiche.

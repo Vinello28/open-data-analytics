@@ -1,0 +1,1 @@
+Sviluppo di sistemi di computer vision edge che distinguono persone, animali, veicoli e eventi normali da movimenti sospetti, riducendo falsi allarmi.

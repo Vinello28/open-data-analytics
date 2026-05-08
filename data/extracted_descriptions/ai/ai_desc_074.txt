@@ -1,0 +1,1 @@
+Utilizzo di algoritmi di asset allocation dinamica che adattano pesi in base a volatilità, correlazioni e scenari macroeconomici, massimizzando rendimento per livello di rischio.

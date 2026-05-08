@@ -1,0 +1,1 @@
+Implementazione di algoritmi che analizzano mappe aberrazioni oculari per personalizzare profili laser o lenti intraoculari, massimizzando acuità visiva post-operatoria.

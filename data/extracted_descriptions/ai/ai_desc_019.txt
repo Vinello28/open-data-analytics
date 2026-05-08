@@ -1,0 +1,1 @@
+Utilizzo di reti generative per simulare interazioni molecolari, prevedere affinità proteiche e accelerare la selezione di candidati promettenti per trial preclinici.

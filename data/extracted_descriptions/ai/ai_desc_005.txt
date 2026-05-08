@@ -1,0 +1,1 @@
+Sviluppo di un agente conversazionale basato su NLP che personalizza percorsi di studio, adatta la difficoltà degli esercizi in base alle performance e genera feedback immediati.

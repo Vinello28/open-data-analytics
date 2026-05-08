@@ -1,0 +1,1 @@
+Addestramento di un sistema di parsing e ranking documenti che evidenzia competenze tecniche, anonimizza dati sensibili e applica correttivi per mitigare discriminazioni inconsce.

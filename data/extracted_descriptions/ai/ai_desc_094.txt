@@ -1,0 +1,1 @@
+Implementazione di algoritmi che integrano umidità suolo, evapotraspirazione e previsioni pioggia per dosare acqua in modo preciso, evitando sprechi e stress vegetale.

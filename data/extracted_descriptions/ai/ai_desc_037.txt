@@ -1,0 +1,1 @@
+Utilizzo di algoritmi di placement e routing guidati da deep learning per ridurre lunghezze interconnessioni, migliorare dissipazione termica e accelerare tempi di progettazione ASIC.

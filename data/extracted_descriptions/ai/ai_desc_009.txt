@@ -1,0 +1,1 @@
+Implementazione di AI embedded su dispositivi di bordo per rilevare distrazioni, sonnolenza o manovre pericolose, attivando alert in tempo reale per la sicurezza stradale.

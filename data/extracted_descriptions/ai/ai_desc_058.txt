@@ -1,0 +1,1 @@
+Integrazione di dati pluviometrici, livelli fiumi e modelli di runoff addestrati con machine learning per prevedere esondazioni con anticipo sufficiente per evacuazioni mirate.

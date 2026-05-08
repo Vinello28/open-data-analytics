@@ -1,0 +1,1 @@
+Sviluppo di un'applicazione web open source per la gestione condivisa di orti urbani, con funzionalità di mappatura, prenotazione turni e calendario delle coltivazioni basato su database relazionale.

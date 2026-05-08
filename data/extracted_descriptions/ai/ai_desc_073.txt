@@ -1,0 +1,1 @@
+Implementazione di modelli predittivi che integrano dati incidenti, near-miss, fattori umani e ambientali per stimare probabilità eventi avversi e prioritizzare mitigazioni.

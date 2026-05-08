@@ -1,0 +1,1 @@
+Implementazione di un modello di machine learning basato su dati alternativi e storici per valutare la probabilità di default dei richiedenti prestiti, migliorando l'accuratezza rispetto ai metodi tradizionali.

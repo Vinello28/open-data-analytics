@@ -1,0 +1,1 @@
+Implementazione di sistemi di rilevamento insetti in volo e su fiori per monitorare densità api, bombi e farfalle, supportando politiche di tutela degli ecosistemi.

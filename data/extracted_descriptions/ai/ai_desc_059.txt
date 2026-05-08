@@ -1,0 +1,1 @@
+Sviluppo di algoritmi che assegnano dinamicamente ambulanze, vigili del fuoco e mezzi di soccorso in base a gravità, distanza e disponibilità, minimizzando tempi di intervento.

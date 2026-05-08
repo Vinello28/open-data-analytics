@@ -1,0 +1,1 @@
+Sviluppo di sistemi di controllo adattivo che regolano temperatura, flusso d'aria e tempo in base a curve di sviluppo aromatico, garantendo consistenza tra lotti.

@@ -1,0 +1,1 @@
+Realizzazione di un sistema di filtraggio collaborativo e content-based che suggerisce prodotti in base a cronologia navigazione, comportamento carrello e recensioni.

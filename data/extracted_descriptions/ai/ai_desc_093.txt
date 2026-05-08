@@ -1,0 +1,1 @@
+Utilizzo di modelli su dati vibrazionali, termici e di consumo per prevedere guasti a compressori, pompe e motori, programmando assistenza prima del blocco.

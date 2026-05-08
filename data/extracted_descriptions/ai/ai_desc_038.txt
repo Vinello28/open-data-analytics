@@ -1,0 +1,1 @@
+Implementazione di modelli di gesture recognition e NLP per convertire movimenti mani, espressioni facciali e postura in testo parlato e viceversa, facilitando comunicazione inclusiva.

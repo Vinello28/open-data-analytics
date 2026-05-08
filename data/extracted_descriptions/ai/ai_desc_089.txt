@@ -1,0 +1,1 @@
+Implementazione di modelli addestrati su dataset veterinari per differenziare neoplasie, infezioni cutanee e allergie, supportando diagnosi rapide in ambulatorio.

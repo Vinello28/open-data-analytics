@@ -1,0 +1,1 @@
+Implementazione di algoritmi di computer vision su dati radar e telescopici per prevedere traiettorie di space debris e ottimizzare manovre evasive di satelliti operativi.

@@ -1,0 +1,1 @@
+Addestramento di modelli che fondono dati radar, satellitari e stazioni a terra per prevedere evoluzione di celle temporalesche nei prossimi 2-6 ore con alta risoluzione.

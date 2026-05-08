@@ -1,0 +1,1 @@
+Implementazione di machine learning su dati comportamentali, utility payments e cronologie digitali per valutare affidabilità di soggetti thin-file o unbanked.

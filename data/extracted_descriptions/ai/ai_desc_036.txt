@@ -1,0 +1,1 @@
+Sviluppo di sistemi di visione e reinforcement learning per navigare in ambienti complessi (torri, ponti, linee elettriche), catturando dati strutturati senza intervento pilota.

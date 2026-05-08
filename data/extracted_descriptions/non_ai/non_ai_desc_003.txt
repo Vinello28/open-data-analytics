@@ -1,0 +1,1 @@
+Sviluppo di un dispositivo meccanico-elettronico a basso costo per la misurazione autonoma della pressione arteriosa, destinato all'uso in ambulatori di zone rurali.

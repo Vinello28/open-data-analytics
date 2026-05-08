@@ -1,0 +1,1 @@
+Implementazione di algoritmi su collari smart che analizzano attività, ruminazione e temperatura per rilevare stress, zoppie o calori, migliorando gestione mandrie.

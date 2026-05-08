@@ -1,0 +1,1 @@
+Utilizzo di algoritmi di ottimizzazione combinatoria e machine learning per pianificare turni, fornitori e attrezzature, minimizzando ritardi e sprechi di materiale.

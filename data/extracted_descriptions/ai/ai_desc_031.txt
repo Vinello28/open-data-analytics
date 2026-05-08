@@ -1,0 +1,1 @@
+Addestramento di modelli NLP su database di massime e decisioni per stimare esiti probabili, identificare precedenti rilevanti e supportare la redazione di atti difensivi.

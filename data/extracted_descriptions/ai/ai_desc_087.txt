@@ -1,0 +1,1 @@
+Sviluppo di sistemi embedded che classificano ambienti sonori in tempo reale e regolano guadagno, direzionalità e soppressione rumore per migliorare intelligibilità.

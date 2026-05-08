@@ -1,0 +1,1 @@
+Sviluppo di una rete neurale convoluzionale per l'analisi automatica di radiografie del torace, con segnalazione di noduli sospetti e riduzione del carico di lavoro per i radiologi.

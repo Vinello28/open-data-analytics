@@ -1,0 +1,1 @@
+Implementazione di sistemi di localizzazione, obstacle avoidance e riconoscimento comandi vocali per robot domestici che supportano mobilità, promemoria farmaci e compagnia.

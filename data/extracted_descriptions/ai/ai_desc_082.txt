@@ -1,0 +1,1 @@
+Sviluppo di modelli di prosodia e sentiment analysis su chiamate o messaggi per identificare segnali di distress acuto, attivando protocolli di intervento umano.

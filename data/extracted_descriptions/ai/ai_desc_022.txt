@@ -1,0 +1,1 @@
+Sviluppo di pipeline di sentiment analysis e computer vision su immagini social per anticipare colori, silhouettes e materiali in voga, supportando decisioni di collezione.

@@ -1,0 +1,1 @@
+Implementazione di fusione sensoriale (radar, AIS, LiDAR) e algoritmi di path planning AI per ottimizzare rotte, evitare collisioni e ridurre consumo carburante in tratte definite.

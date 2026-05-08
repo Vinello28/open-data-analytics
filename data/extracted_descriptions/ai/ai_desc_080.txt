@@ -1,0 +1,1 @@
+Sviluppo di sistemi di supporto decisionale che analizzano genoma, comorbidità e risposta storica a farmaci per suggerire regimi terapeutici ottimali per singolo paziente.

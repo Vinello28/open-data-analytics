@@ -1,0 +1,1 @@
+Sviluppo di sistemi che analizzano pH, cloro, alcalinità e torbidità in tempo reale, calcolando dosaggi ottimali di prodotti chimici e cicli di filtrazione.

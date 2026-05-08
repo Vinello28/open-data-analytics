@@ -1,0 +1,1 @@
+Sviluppo di motori di matching basati su embedding di immagini e preferenze utente per suggerire combinazioni di mobili, tessuti e illuminazione coerenti con lo stile desiderato.

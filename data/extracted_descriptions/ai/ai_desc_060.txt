@@ -1,0 +1,1 @@
+Implementazione di computer vision su feed infrarossi per identificare firme termiche umane in macerie, boschi o acque, guidando squadre di salvataggio con coordinate precise.

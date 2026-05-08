@@ -1,0 +1,1 @@
+Implementazione di chatbot sanitari validati che raccolgono sintomi, classificano urgenza e indirizzano verso video-consulti, prescrizioni digitali o pronto soccorso.

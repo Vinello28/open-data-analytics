@@ -1,0 +1,1 @@
+Utilizzo di modelli di image segmentation per analizzare foto danni veicoli/immobili, stimare costi riparazione e accelerare liquidazione con minor frode.

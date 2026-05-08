@@ -1,0 +1,1 @@
+Sviluppo di sistemi di computer vision e bracci robotici controllati da policy reinforcement learning per riconoscere e separare materiali riciclabili su nastri trasportatori ad alta velocità.

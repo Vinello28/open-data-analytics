@@ -1,0 +1,1 @@
+Utilizzo di algoritmi di reinforcement learning per calcolare percorsi dinamici considerando traffico, meteo e vincoli di consegna, riducendo costi carburante e tempi di percorrenza.

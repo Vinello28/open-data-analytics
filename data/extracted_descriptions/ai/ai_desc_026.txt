@@ -1,0 +1,1 @@
+Creazione di un sistema di supporto decisionale che analizza ecografie e radiografie animali, segnalando anomalie scheletriche, organi o tessuti molli per i clinici.

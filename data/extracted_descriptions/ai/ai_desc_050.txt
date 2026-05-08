@@ -1,0 +1,1 @@
+Utilizzo di microfoni e modelli di classificazione audio per rilevare sciamatura, presenza di varroa o stress termico, inviando alert agli apicoltori prima di perdite critiche.

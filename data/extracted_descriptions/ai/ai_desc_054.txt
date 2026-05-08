@@ -1,0 +1,1 @@
+Implementazione di modelli time-series che analizzano pH, torbidità, cloro residuo e parametri microbiologici per ottimizzare dosaggi e garantire conformità normativa.

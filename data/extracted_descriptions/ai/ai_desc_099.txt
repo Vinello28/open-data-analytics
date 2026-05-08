@@ -1,0 +1,1 @@
+Implementazione di modelli che integrano peso, funzionalità epato-renale, interazioni e genotipo per calcolare regimi posologici personalizzati e minimizzare tossicità.

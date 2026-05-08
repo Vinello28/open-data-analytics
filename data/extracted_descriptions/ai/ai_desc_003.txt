@@ -1,0 +1,1 @@
+Creazione di un algoritmo di visione artificiale che analizza immagini multispettrali per identificare stress idrico, carenze nutrizionali e infestazioni in tempo reale.

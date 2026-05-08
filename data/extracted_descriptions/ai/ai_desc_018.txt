@@ -1,0 +1,1 @@
+Addestramento di classificatori testuali per smistare istanze cittadini, estrarre dati da moduli scansionati e indirizzare pratiche agli uffici competenti, riducendo tempi di evasione.

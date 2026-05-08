@@ -1,0 +1,1 @@
+Integrazione di sensori IoT e modelli di apprendimento automatico per prevedere guasti a cuscinetti e motori, pianificando interventi prima del fermo macchina.

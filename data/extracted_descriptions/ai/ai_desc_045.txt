@@ -1,0 +1,1 @@
+Implementazione di NLP fine-tuned su lessico moda per estrarre giudizi su vestibilità, qualità e stile, aggregando insight per correggere produzioni future.

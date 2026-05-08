@@ -1,0 +1,1 @@
+Implementazione di AI condizionale che produce planimetrie ottimizzate per luce naturale, flussi pedonali e normativa edilizia, supportando progettisti in fase preliminare.

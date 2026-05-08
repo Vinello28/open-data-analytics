@@ -1,0 +1,1 @@
+Utilizzo di algoritmi di classificazione segnale sonar per distinguere tipologia di fondale, rilevare relitti o habitat corallini e generare mappe batimetriche automatizzate.

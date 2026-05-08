@@ -1,0 +1,1 @@
+Utilizzo di algoritmi di interpolazione e deep learning su dati di carotaggio e geofisica per mappare giacimenti, ridurre sprechi e pianificare scavi in sicurezza.

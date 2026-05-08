@@ -1,0 +1,1 @@
+Sviluppo di sistemi speech-to-speech a bassa latenza con adattamento contestuale e dominio-specifico, supportando interpreti professionisti in sessioni multilingue.

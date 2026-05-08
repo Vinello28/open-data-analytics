@@ -1,0 +1,1 @@
+Implementazione di reti neurali convoluzionali su immagini ad alta risoluzione per mappare aree agricole, urbane, boschive e umide, supportando piani di zonizzazione.

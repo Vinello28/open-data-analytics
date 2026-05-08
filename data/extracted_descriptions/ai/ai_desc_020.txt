@@ -1,0 +1,1 @@
+Implementazione di modelli predittivi che analizzano combinazioni di ingredienti, processi di conservazione e dati sensoriali per massimizzare qualità e durata commerciale.

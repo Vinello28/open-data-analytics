@@ -1,0 +1,1 @@
+Utilizzo di algoritmi di apprendimento per rinforzo per gestire dinamicamente larghezza di banda, latenza e interferenze in celle dense, migliorando QoS per utenti IoT.

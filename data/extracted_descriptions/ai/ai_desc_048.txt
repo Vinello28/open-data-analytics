@@ -1,0 +1,1 @@
+Implementazione di algoritmi che analizzano dati di vigneto, fermentazione e affinamento per prevedere profilo sensoriale finale e suggerire correzioni in cantina.

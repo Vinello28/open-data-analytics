@@ -1,0 +1,1 @@
+Sviluppo di reti neurali che decodificano segnali EMG residui per tradurre intenzioni motorie in movimenti articolari fluidi e naturali di arti artificiali.

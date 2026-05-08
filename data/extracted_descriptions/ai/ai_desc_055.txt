@@ -1,0 +1,1 @@
+Utilizzo di reti di microfoni low-cost e algoritmi di source separation per classificare sorgenti sonore (traffico, cantieri, svago) e generare mappe di esposizione.

@@ -1,0 +1,1 @@
+Sviluppo di un assistente vocale multilingue che gestisce prenotazioni, fornisce consigli personalizzati su attrazioni locali e risolve richieste ospiti 24/7.

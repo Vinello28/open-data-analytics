@@ -1,0 +1,1 @@
+Sviluppo di algoritmi su collari smart per distinguere sonno, gioco, alimentazione e segni di malessere, inviando report proprietari e veterinari.

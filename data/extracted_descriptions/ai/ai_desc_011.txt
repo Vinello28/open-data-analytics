@@ -1,0 +1,1 @@
+Sviluppo di pipeline AI per trascrizione audio, traduzione neurale e sintesi vocale multilingue, accelerando la localizzazione di contenuti video per piattaforme streaming.

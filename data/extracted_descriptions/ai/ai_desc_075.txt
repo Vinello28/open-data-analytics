@@ -1,0 +1,1 @@
+Sviluppo di sistemi che frammentano ordini, scelgono venue e timing ottimale basandosi su liquidità, spread e impatto di mercato, riducendo costi di transazione.

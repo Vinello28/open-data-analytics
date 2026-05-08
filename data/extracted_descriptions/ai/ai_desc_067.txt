@@ -1,0 +1,1 @@
+Sviluppo di sistemi di computer vision e reinforcement learning che regolano erogazione mangime in base a comportamento branchi, qualità acqua e crescita, riducendo sprechi.

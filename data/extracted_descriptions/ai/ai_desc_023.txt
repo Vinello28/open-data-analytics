@@ -1,0 +1,1 @@
+Addestramento di modelli inpainting AI per ricostruire digitalmente parti mancanti di affreschi o tele, supportando restauratori con ipotesi scientifiche e documentazione interattiva.

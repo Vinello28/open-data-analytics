@@ -1,0 +1,1 @@
+Utilizzo di reti neurali su immagini fogliari e frutti per riconoscere sintomi virali, fungini o batterici prima della diffusione, ottimizzando trattamenti fitosanitari.

@@ -1,0 +1,1 @@
+Integrazione di reti neurali ricorrenti con dati meteo ad alta risoluzione per prevedere output turbine nelle successive 48 ore, ottimizando immissione in rete.

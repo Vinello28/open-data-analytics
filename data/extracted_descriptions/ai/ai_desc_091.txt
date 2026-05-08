@@ -1,0 +1,1 @@
+Implementazione di controller predittivi che imparano abitudini abitanti, previsioni meteo e tariffe elettriche per gestire climatizzazione, illuminazione e accumulatori.

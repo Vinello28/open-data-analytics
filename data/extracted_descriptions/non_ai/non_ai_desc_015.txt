@@ -1,0 +1,1 @@
+Sostituzione dei cassonetti stradali con contenitori dotati di sensori ultrasonici di riempimento e ottimizzazione dei percorsi dei mezzi di raccolta tramite software di pianificazione logistica a regole fisse.

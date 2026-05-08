@@ -1,0 +1,1 @@
+Implementazione di modelli unsupervised e graph neural networks su dichiarazioni e transazioni per individuare schemi evasivi, fatture false e circuiti riciclaggio.

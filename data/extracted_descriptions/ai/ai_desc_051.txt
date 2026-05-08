@@ -1,0 +1,1 @@
+Implementazione di pipeline di computer vision su immagini SAR e ottiche per identificare tagli non autorizzati, cambiamenti copertura vegetale e allertare autorità competenti.
