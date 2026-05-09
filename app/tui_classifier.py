@@ -1,4 +1,5 @@
 import os
+import re
 import glob
 import time
 import socket
@@ -93,15 +94,31 @@ Description:
                 {"role": "user", "content": prompt}
             ],
             temperature=0.0,
-            max_tokens=20,
-            response_format={ "type": "json_object" }
+            max_tokens=30
         )
-        content = response.choices[0].message.content
-        result = json.loads(content)
-        label = result.get('label', '').lower()
-        if label not in ['ai', 'non_ai']:
-            return "error: invalid_label"
-        return label
+        content = response.choices[0].message.content.strip()
+        if content.startswith("```json"):
+            content = content[7:]
+        elif content.startswith("```"):
+            content = content[3:]
+        if content.endswith("```"):
+            content = content[:-3]
+        content = content.strip()
+        
+        # Try JSON parsing first, but fallback to raw text parsing
+        try:
+            result = json.loads(content)
+            label = str(result.get('label', content)).lower()
+        except json.JSONDecodeError:
+            label = content.lower()
+            
+        # Robust regex extraction
+        if re.search(r'non[-_\s]?ai', label):
+            return 'non_ai'
+        elif 'ai' in label:
+            return 'ai'
+        else:
+            return "error: unknown_label"
     except Exception as e:
         return f"error: {str(e)}"
 
@@ -144,20 +161,20 @@ async def main():
     choices = [f"http://{ip}:1234/v1" for ip in found_servers]
     choices.append("Manual Input")
     
-    server_choice = questionary.select(
+    server_choice = await questionary.select(
         "Select LM Studio server endpoint:",
         choices=choices
-    ).ask()
+    ).ask_async()
     
     if not server_choice:
         console.print("[red]Operation cancelled.[/red]")
         return
         
     if server_choice == "Manual Input":
-        server_choice = questionary.text(
+        server_choice = await questionary.text(
             "Enter server endpoint (e.g., http://192.168.1.100:1234/v1):",
             default="http://localhost:1234/v1"
-        ).ask()
+        ).ask_async()
         
     if not server_choice:
         return
@@ -167,11 +184,11 @@ async def main():
     console.print(f"[green]✓[/green] Server selected: [bold]{server_choice}[/bold]")
     console.print(f"[green]✓[/green] Model selected: [bold]{model_name}[/bold]")
     
-    concurrency_str = questionary.text(
+    concurrency_str = await questionary.text(
         "Enter the number of concurrent requests:",
         default="4",
         validate=lambda text: text.isdigit() and int(text) > 0 or "Please enter a valid positive integer"
-    ).ask()
+    ).ask_async()
     
     if not concurrency_str:
         console.print("[red]Operation cancelled.[/red]")
@@ -180,13 +197,23 @@ async def main():
     concurrency_limit = int(concurrency_str)
     console.print(f"[green]✓[/green] Concurrency limit: [bold]{concurrency_limit}[/bold]")
     
-    confirm = questionary.confirm("Start inference process?").ask()
+    confirm = await questionary.confirm("Start inference process?").ask_async()
     if not confirm:
         console.print("[yellow]Inference cancelled by user.[/yellow]")
         return
         
     client = AsyncOpenAI(base_url=server_choice, api_key="lm-studio")
     
+    # Test connection
+    with console.status("[bold cyan]Testing connection to server..."):
+        try:
+            await client.models.list()
+            console.print("[green]✓[/green] Connection successful.")
+        except Exception as e:
+            console.print(f"[bold red]❌ Connection failed:[/bold red] {e}")
+            console.print("[red]Please ensure LM Studio is running and the local server is started.[/red]")
+            return
+            
     console.print("[cyan]Loading data...[/cyan]")
     data = load_data()
     console.print(f"[green]✓[/green] Loaded [bold]{len(data)}[/bold] descriptions.")
@@ -233,6 +260,9 @@ async def main():
     metrics_table.add_row("Total Processed", str(len(data)))
     metrics_table.add_row("Successful", str(len(valid_preds)))
     metrics_table.add_row("Errors", str(len(errors)))
+    if len(errors) > 0:
+        first_error = errors.iloc[0]['predicted_label']
+        metrics_table.add_row("First Error", str(first_error))
     metrics_table.add_row("Accuracy (vs original)", f"{accuracy:.2f}%")
     metrics_table.add_row("Time Taken", f"{elapsed:.2f} seconds")
     metrics_table.add_row("Speed", f"{items_per_second:.2f} items/sec")
