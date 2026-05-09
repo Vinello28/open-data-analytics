@@ -1,8 +1,12 @@
 import csv
 import os
 
-input_csv = 'data/distilled/merged_descriptions.csv'
-output_base_dir = 'data/extracted_descriptions'
+def get_project_root():
+    return os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
+
+project_root = get_project_root()
+input_csv = os.path.join(project_root, 'data/distilled/merged_descriptions.csv')
+output_base_dir = os.path.join(project_root, 'data/extracted_descriptions')
 
 ai_dir = os.path.join(output_base_dir, 'ai')
 non_ai_dir = os.path.join(output_base_dir, 'non_ai')
