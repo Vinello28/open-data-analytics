@@ -1,0 +1,5 @@
+Il progetto DIGIT - Data Intelligence per la Gestione degli Impatti Turistici si pone l'obiettivo di
+realizzare una piattaforma integrata che sfrutti i dati del territorio, assieme a modelli avanzati e
+strumenti di Intelligenza Artificiale, per supportare gli stakeholders (pubblici e privati) nella
+pianificazione e gestione gli impatti turistici delle destinazioni, valorizzando e salvaguardando il
+patrimonio culturale.

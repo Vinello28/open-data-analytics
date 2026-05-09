@@ -1,0 +1,23 @@
+"Il Percorso, interaziendale, si pone lobiettivo di formare figure professionali capaci di avviare e supportare il cambiamento verso lazienda digitale (Industriy 4.0). Sviluppa competenze approfondite nellambito dellinnovation management, come risposta alla necessita delle imprese di creare e gestire progetti di innovazione in tutti i settori, dai big data al digital marketing, fino a proporre nuovi prodotti e servizi innovativi al mercato.
+
+Il progetto si articola in 3 parti interrelate ed imprescindibili.
+
+BASIC MANAGEMENT
+La prima parte del percorso formativo e focalizzata sullo strutturare competenze manageriali che fungano da base comune di conoscenze e linguaggio tra gli allievi. Si approfondiranno i seguenti temi: 
+  Economia e competitivita delle imprese 
+  Lanalisi strategica del comparto vitivinicolo (trend, competitors, criticita)
+  Le dimensioni economiche e gli strumenti di analisi
+  La gestione delle risorse umane
+  I sistemi produttivi 
+  Le aziende di servizio
+  La logistica distributiva
+  La catena di fornitura
+  Il marketing operativo e strategico
+  Management internazionale e interculturalita
+  Basic di statistica
+  Basic tools dellInformation Technology e b..."
+Realizzazione di un portale per il cimitero di Giulianova che permetta la classificazione dei defunti da parte della società e della committente e la ricerca degli stessi tramite il portale On Line . Per la realizzazione del progetto è necessario implementare qr-code e due totem touch screen. Infine è necessario defnire il sistema per la geolocalizzazione delle aree del cimitero.
+Acquisto e istallazione nuovo sistema operativo server; installazione e configurazione nuovo dominio locale. Acquisto hardware e software per postazione nuovo collaboratore, compresa installazione e addestramento.
+Acquisto e istallazione nuovo sistema operativo server; installazione e configurazione nuovo dominio locale. Acquisto hardware e software per postazione nuovo collaboratore, compresa installazione e addestramento.
+Strumenti digitali e big data per l'analisi di mercato dell'impresa 4.0 - Modelli di integrazione tra Università e Impresa
+"Il Percorso, interaziendale, si pone lobiettivo di formare figure professionali capaci di avviare e supportare il cambiamento verso lazienda digitale (Industriy 4.0). Sviluppa competenze approfondite nellambito dellinnovation management, come risposta alla necessita delle imprese di creare e gestire progetti di innovazione in tutti i settori, dai big data al digital marketing, fino a proporre nuovi prodotti e servizi innovativi al mercato.

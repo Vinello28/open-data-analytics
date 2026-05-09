@@ -1,0 +1,7 @@
+L’azienda presenta un progetto di sviluppo sperimentale, compresa attività di innovazione di processo, con l’obiettivo di realizzare un nuovo ecosistema tecnologico denominato ““TIS” TIMEWARE INTEGRATION SYSTEM” basato su piattaforma Cloud, per il back office, e sotto forma di SDK (software development kit, sviluppati in linguaggio nativo) per le piattaforme Android ed iOS, per essere integrato in APP di terze parti.
+Il progetto si articola in due fasi principali.
+1. Attività di ricerca, sperimentazione e raccolta dati per futuro sviluppo ed analisi Big Data.
+2. Sviluppo CRM proprietario per raccolta di big data (basato su infrastruttura cloud Amazon AWS e Micro-soft Azure).
+La piattaforma di raccolta dati “TIS” si configura come un unicum a livello mondiale.
+Rispetto ai sistemi di analisi di dati ad oggi presenti sul mercato, basati solo su transato alle casse, rilevazioni social ed analytics di siti ed App, la nuova piattaforma “TIS” sarà sviluppata e integrata con una serie di dati digital attualmente impossibili da raccogliere per chiunque non abbia a disposizione tutte le tecnologie che abbiamo sviluppato e che stiamo prevedendo di sviluppare. L’obiettivo finale è quello di realizzare un complesso CRM di analisi comporta-mentale degli utenti, legato a particolari brand.
+Il c

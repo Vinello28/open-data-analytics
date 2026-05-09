@@ -1,0 +1,16 @@
+In cosmologia, la materia oscura è un'ipotetica componente di materia,
+non compresa nel Modello Standard (MS) delle interazioni fondamentali, che,
+diversamente dalla materia conosciuta, non emetterebbe direttamente radiazione
+elettromagnetica: se esistente, i suoi effetti gravitazionali spiegherebbero
+osservazioni astrofisiche non compatibili con la sola presenza di materia visibile.
+L’ipotesi più semplice, l’esistenza di particelle massive debolmente interagenti
+(WIMP), sembra ora in tensione sia con osservazioni a piccola scala dell’Universo
+[28], sia con le numerose ricerche dirette e indirette [1-4, 29]. Una possibile soluzione
+è rappresentata dall’esistenza di un intero nuovo settore di particelle e interazioni, il
+Dark Sector (DS), che comunicherebbe con il MS tramite particelle mediatrici, o
+"portali", caratterizzate da accoppiamenti con entrambi i settori. Ai futuri collisori
+adronici HL-LHC e FCC-hh (FCA), i dark quark (DQ), insieme ad altre particelle del
+DS, potrebbero essere prodotti nel decadimento di questi mediatori pesanti. I prodotti
+di decadimento dei DQ adronizzerebbero poi in particelle del MS, ed i getti così
+originati avrebbero proprietà specifiche legate ai parametri teorici del modello
+sottostante,.

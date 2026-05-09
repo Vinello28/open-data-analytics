@@ -1,0 +1,16 @@
+L'obiettivo di questo progetto è sviluppare un prototipo di braccio robotico antropomorfo scalabile e adattabile a vari casi d'uso, grazie ad un elevato numero di gradi di libertà nel movimento, allo scopo di eseguire compiti complessi e delicati, caratterizzato, nel progetto, come piattaforma per l’addestramento di piloti in ambito navale, aeronautico, automotive.
+
+
+
+
+
+Il sistema di controllo del braccio sarà basato su algoritmi avanzati e tecniche di apprendimento automatico, che gli consentiranno di eseguire compiti complessi in modo autonomo o sotto la supervisione umana.
+
+
+
+
+
+Caratteristiche chiave del braccio saranno il design e le dimensioni compatte, frutto dell’applicazione di nuove tecniche e materiali compositi, Il braccio potrà essere montato su una piattaforma per simulare il movimento di una cabina di pilotaggio, fornendo un ambiente di addestramento realistico per i piloti in applicazioni navali o aerospaziali.
+
+
+Il sistema di controllo verrà integrato con algoritmi di rilevazione dei feedback inviati dal simulatore, per restituire alla piattaforma di addestramento le movenze e le accelerazioni proprie di una situazione reale.

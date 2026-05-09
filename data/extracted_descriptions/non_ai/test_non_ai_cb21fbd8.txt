@@ -1,0 +1,14 @@
+Lazione formativa ha lobiettivo di fornire ai destinatari individuati (impiegati amministrativi), le competenze per utilizzare correttamente la sezione del nuovo software aziendale relative alla gestione degli ordini e delle commesse. 
+Lazione formativa e finalizzata a mettere il personale coinvolto in grado di:
+a)Eseguire le operazioni di classificazione e ricerca dei documenti;
+b)Conoscere le principali funzionalita del software gestionale impiegato in relazione alle aree specifiche di gestione delle commesse;
+c)Gestire le diverse variabili del sistema gestionale.
+
+Nellazione formativa saranno affrontati i seguenti contenuti:
+ Lapertura delle commesse;
+ Immissione e monitoraggio degli ordini;
+ Valorizzazione degli ordini e confronto con costi preventivi;
+ Import export dati;
+ Report riassuntivi delle commesse;
+ Impostazione parametrica delle fonti di consuntivazione per tipologia di commessa;
+ Il processo automatico di consuntivazione, assegnazione, attribuzione e classificazione dei costi a commessa.

@@ -1,0 +1,14 @@
+Lazione formativa ha lobiettivo di fornire ai destinatari individuati (impiegati amministrativi), le competenze necessarie per il corretto utilizzo del software gestionale interno, al fine di migliorare la qualita del loro lavoro e fornire ai clienti un servizio efficace di reperimento della documentazione necessaria. 
+Lazione formativa e finalizzata a mettere il personale coinvolto in grado di:
+a)Conoscere le caratteristiche e lutilizzo del sistema di gestione dei processi interni;
+b)Gestire la documentazione prodotta dal software;
+c)Utilizzare in completa autonomia il supporto digitale a seconda della propria area di competenza.
+
+Contenuti del progetto:
+ Le caratteristiche del software;
+ La classificazione e archiviazione dei documenti;
+ L'archivio delle attivita e le registrazioni automatiche delle prestazioni giornaliere;
+ Il reporting;
+ Gli strumenti per gestire i documenti.
+ I documenti prodotti e acquisiti (fax, mail, etc.);
+ I documenti archiviati e storicizzati.

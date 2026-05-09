@@ -1,0 +1,1 @@
+Implementazione delle dotazioni tecnologiche per ricerche da remoto su fauna e flora in ambiente acquatico e terrestre  e per il riconoscimento e la classificazione degli habitat.
