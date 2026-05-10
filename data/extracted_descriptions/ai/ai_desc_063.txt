@@ -1,1 +1,2 @@
 Implementazione di sistemi di rilevamento insetti in volo e su fiori per monitorare densità api, bombi e farfalle, supportando politiche di tutela degli ecosistemi.
+Per realizzare il sistema saranno necessari server con capacità di calcolo AI on the edge, data la necessità di addestrare modelli di visione articiale.

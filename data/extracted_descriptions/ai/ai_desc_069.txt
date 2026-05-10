@@ -1,1 +1,1 @@
-Implementazione di algoritmi di scheduling e path planning per gru, carrelli e camion, minimizzando tempi di attracco e congestione in terminal intermodali.
+Implementazione di algoritmi di scheduling e path planning di apprendimento automatico per gru, carrelli e camion, minimizzando tempi di attracco e congestione in terminal intermodali.

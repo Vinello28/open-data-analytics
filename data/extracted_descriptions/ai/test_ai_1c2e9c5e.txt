@@ -1,1 +1,1 @@
-Sviluppo di una soluzione integrata basata su tecnologie avanzate per la mitigazione dei rischi derivanti da malfunzionamenti delle macchine.
+Sviluppo di una soluzione basata su tecnologie di manutenzione predittiva data driven per la mitigazione dei rischi derivanti da malfunzionamenti delle macchine.
