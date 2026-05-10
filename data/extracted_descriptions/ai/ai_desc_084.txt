@@ -1,1 +1,1 @@
-Utilizzo di sensori indossabili e modelli di feedback per modificare intensità e tipologia esercizi in base a progressi, dolore e compliance, ottimizzando recupero funzionale.
+Utilizzo di sensori indossabili e modelli deep learning di feedback per modificare intensità e tipologia esercizi in base a progressi, dolore e compliance, ottimizzando recupero funzionale.
