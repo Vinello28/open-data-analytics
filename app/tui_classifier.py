@@ -80,7 +80,7 @@ def load_data():
     return data
 
 async def classify_text(client, text, model_name):
-    prompt = f"""You are an expert classifier. Classify the following project description into one of two categories: 'ai' (if it heavily involves artificial intelligence, machine learning, deep learning, computer vision, agentic ai, llm, ai automation, etc.) or 'non_ai' (if it does not).
+    prompt = f"""You are an expert classifier. Classify the following project description into one of two categories: 'ai' (if it heavily involves artificial intelligence, machine learning, deep learning, computer vision, agentic ai, llm, ai automation, etc.) or 'non_ai' (if it does not, or it has AI but its a film storyline).
 Return only a JSON object with a single key 'label' and value either 'ai' or 'non_ai'.
 
 Description:
