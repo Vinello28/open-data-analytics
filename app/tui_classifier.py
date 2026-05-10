@@ -153,7 +153,7 @@ async def process_batch(client, data, model_name, concurrency_limit):
     return results
 
 async def main():
-    console.print(Panel.fit("[bold magenta]🚀 AI/Non-AI Description Classifier[/bold magenta]\n[dim]Powered by LM Studio & ministral-3-3b[/dim]"))
+    console.print(Panel.fit("[bold magenta]🚀 AI/Non-AI Description Classifier[/bold magenta]\n[dim]Powered by LM Studio[/dim]"))
     
     with console.status("[bold green]🔍 Scanning local network for LM Studio instances (port 1234)..."):
         found_servers = await discover_servers()
@@ -179,7 +179,7 @@ async def main():
     if not server_choice:
         return
 
-    model_name = "mistralai/ministral-3-3b"
+    model_name = "qwen/qwen3-4b-2507" #"mistralai/ministral-3-3b"
     
     console.print(f"[green]✓[/green] Server selected: [bold]{server_choice}[/bold]")
     console.print(f"[green]✓[/green] Model selected: [bold]{model_name}[/bold]")
