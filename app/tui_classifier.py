@@ -80,7 +80,7 @@ def load_data():
     return data
 
 async def classify_text(client, text, model_name):
-    prompt = f"""You are an expert classifier. Classify the following project description into one of two categories: 'ai' (if it heavily involves artificial intelligence, machine learning, deep learning, etc.) or 'non_ai' (if it does not).
+    prompt = f"""You are an expert classifier. Classify the following project description into one of two categories: 'ai' (if it heavily involves artificial intelligence, machine learning, deep learning, computer vision, agentic ai, llm, ai automation, etc.) or 'non_ai' (if it does not).
 Return only a JSON object with a single key 'label' and value either 'ai' or 'non_ai'.
 
 Description:
@@ -179,7 +179,7 @@ async def main():
     if not server_choice:
         return
 
-    model_name = "qwen/qwen3-4b-2507" #"mistralai/ministral-3-3b"
+    model_name = "mistralai/ministral-3-3b" #"qwen/qwen3-4b-2507" #"mistralai/ministral-3-3b"
     
     console.print(f"[green]✓[/green] Server selected: [bold]{server_choice}[/bold]")
     console.print(f"[green]✓[/green] Model selected: [bold]{model_name}[/bold]")
