@@ -1,1 +1,1 @@
-Implementazione di pipeline che estraggono dati da fatture, bollette, report operativi e li strutturano secondo standard GRI/SASB, accelerando disclosure non finanziaria.
+Implementazione di pipeline che estraggono dati da fatture, bollette, report operativi con vision language model e li strutturano secondo standard GRI/SASB, accelerando disclosure non finanziaria.
