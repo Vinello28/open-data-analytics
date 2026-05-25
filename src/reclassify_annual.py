@@ -2,6 +2,7 @@ import os
 import glob
 import pandas as pd
 import re
+import csv
 from concurrent.futures import ProcessPoolExecutor, as_completed
 
 DATA_DIR = '../data'
@@ -47,8 +48,22 @@ def process_reclassification_file(filepath):
             if col in chunk.columns:
                 chunk.loc[~keep_ai_mask, col] = pd.NA
                 
+        # Pulizia per STATA come richiesto dall'utente:
+        # eliminare tutti i doppi apici e sostituire le virgole con spazi
+        # eliminiamo anche '\n' e '\r' perché corrompono file senza quoting
+        for col in chunk.columns:
+            chunk[col] = chunk[col].astype(str)\
+                            .str.replace('"', '', regex=False)\
+                            .str.replace(',', ' ', regex=False)\
+                            .str.replace('\n', ' ', regex=False)\
+                            .str.replace('\r', ' ', regex=False)
+            
+            # Pandas converte NA in stringa '<NA>' o 'nan', li sbianchiamo
+            chunk.loc[chunk[col].isin(['nan', '<NA>', 'None']), col] = ''
+
         mode = 'w' if first_chunk else 'a'
-        chunk.to_csv(out_filepath, index=False, mode=mode, header=first_chunk, quoting=1)
+        import csv
+        chunk.to_csv(out_filepath, index=False, mode=mode, header=first_chunk, quoting=csv.QUOTE_NONE, escapechar='\\')
         first_chunk = False
         
     return f"{filename} -> {new_filename}"
