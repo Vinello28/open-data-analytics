@@ -1,0 +1,6 @@
+Il progetto prevede la realizzazione di una piattaforma per l'analisi e la ricerca dati in ambito BigData mediante tecnologie di IA sviluppata su piattaforma cloud. La soluzione prevede lo sviluppo delle seguente macro-componenti:
+1. Acquisizione dati da fonti eterogenee: I dati possono essere importati da formati strutturati e meno e normalizzati all¿interno del data lake
+2. Pre-analisi ed indicizzazione dati tramite algoritmi di IA e analisi semantica: Il sistema effettua un¿analisi dei termini presenti ed effettua una classificazione dei contenuti mediante sistemi di analisi semantica
+3. Ricerca mediante interpretazione di quesiti scritti in linguaggio naturale mediante algoritmi di NLP: I quesiti di ricerca vengono interpretati tramite algoritmi di NLP (Natural Language Processing). L¿analisi del quesito permette di estrarre termini ed entità da matchare sul set precedentemente analizzato
+4. Fornitura del servizio mediante interfacce API: Le ricerche sul set documentale posso essere effettuate tramite interfaccia API/REST in modo da poter integrare la soluzione ed estendere le funzionalità di sistemi già esistenti.
+SI prevede la realizzazione di tutte le componente mediante l'impiego di tecnologie cloud al fine di consentirne lo scaling in modo agevole e a costi contenu

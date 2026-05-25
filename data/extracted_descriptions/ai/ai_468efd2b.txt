@@ -1,0 +1,5 @@
+Il progetto prevede la creazione di un gestionale e app associata per lo sviluppo della community
+per giochi di carte collezionabili o e-sport. Abbiamo una rete già attiva da 2 anni a questa parte che coinvolge più di 3.000 giocatori ogni anno. Ad oggi non vi è un apparato digitale che appaghi le esigenze dei progetti che vorremmo andare a sviluppare. L’idea è di creare un gestionale che non solo organizzi i tornei ma che sviluppi anche una rete di ranking e punteggi su scala nazionale.
+Questo sistema sarà alla base di tornei locali, regionali e nazionali che al momento stiamo già
+gestendo. Questo gestionale comunicherà con l’ app che fornirà iscrizioni, informative, risultati ed abbinamenti. Nelle fasi successive è previsto l’utilizzo di un sistema di Ai per gli algoritmi nella
+composizione ed analisi dei mazzi dei giocatori nelle varie tipologie di giochi di carte collezionabili. Ed incrementare il tutto con possibilità di realtà aumentata per visualizzare carte in formato animato.

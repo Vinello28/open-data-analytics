@@ -1,0 +1,8 @@
+Il progetto prevede una soluzione integrata di e-commerce per i nostri clienti, che si suddividono in installatori di sistemi di sicurezza (quindi professionisti del settore) e privati.
+Nel primo caso, l'installatore potrà effettuare preventivi, ordini ed acquisti accedendo direttamente al database del nostro gestionale interno.
+Nel caso del privato, esso verrà guidato in un processo di acquisto relativo alla videosorveglianza o all'antifurto.
+Nel sistema è previsto un sistema di chatbot per assistenza pre e post vendita.
+L¿intero progetto necessita di:
+-	Un software e-commerce realizzato con la tecnologia Web App la quale permette l'integrazione tra mondo Web e Mobile sfruttano caratteristiche peculiari della tecnologia Web e Mobile per fornire una User Experience di livello App-like.
+-	 strategie di marketing orientate alla formazione del personale riguardante i metodi e le tecnologie utili ad incrementare le vendite online (Web marketing strategico, Google Adwords. SEO, email marketing)
+-	ammodernamento dei banchi di vendita funzionali al nuovo canale di vendita.

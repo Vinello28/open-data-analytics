@@ -1,0 +1,7 @@
+"L'obiettivo principale del progetto SMART MANUAL consiste nella creazione di una piattaforma innovativa e intelligente per la consultazione on-line e interattiva di procedure operative e check-list per la conduzione e la manutenzione di macchine e impianti industriali. 
+
+
+La piattaforma abbina ad un’organizzazione strutturata delle procedure, dotata di regole per il riconoscimento automatico on-line dell’esecuzione dei diversi passi secondo la sequenza richiesta in termini di consensi e tempistica, tramite segnali acquisiti dal campo, una serie di ""smart agent"" che attivano sessioni immersive di realtà aumentata (AR). Il loro scopo è quello di illustrare in modo approfondito agli operatori sul campo i vari passaggi procedurali presenti nelle procedure, facendo uso di una rappresentazione tridimensionale del contesto di riferimento.
+
+
+In parallelo a questa funzionalità di realtà aumentata, il progetto si propone anche di sviluppare un applicativo ""smart check"" che controlli on-line in tempo reale che ogni passo previsto all'interno di una procedura sia stato eseguito correttamente, rispettando tutti i vincoli ambientali.

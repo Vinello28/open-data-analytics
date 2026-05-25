@@ -1,0 +1,2 @@
+Obiettivo del progetto AVANTI è l’ottimizzazione del controllo, gestione e efficienza delle linee di produzione attraverso l'implementazione di tecnologie di realtà aumentata.
+La soluzione AR che verrà sviluppata permetterà all’utente di avere una chiara percezione delle caratteristiche delle forme e del funzionamento di un oggetto e della relativa contestualizzazione dello stesso nella dimensione reale.

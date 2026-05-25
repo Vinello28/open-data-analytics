@@ -1,0 +1,1 @@
+Applicazione di strumenti di analisi predittiva, basati su un algoritmo proprietario, nel settore fashion retail, per l’ottimizzazione dell’approvvigionamento e dell’allocazione dell'inventario a livello taglia/negozio.

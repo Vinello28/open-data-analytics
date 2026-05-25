@@ -1,0 +1,5 @@
+Il progetto prevede la realizzazione di:
+-un portale web multilingue in cui ricevere le richieste effettuate dai clienti e fornire in risposta un preventivo di spesa, 
+- un software di progettazione automatico che processerà i dati ricevuti, calcolerà la struttura e l’impianto, realizzerà i disegni e la lista dei materiali necessari per la produzione e 
+- un’applicazione di realtà aumentata che utilizzerà i dati inseriti nel portale per produrre una visualizzazione 3D dell’impianto.
+I 3 sotto progetti sono strettamente interconnessi; il portale acquisisce tutti i dati necessari, il software li elabora per arrivare a poter partire con la produzione dell’impianto e l’applicazione AR consente all’utilizzatore finale di visualizzare l’impianto prima dell'acquisto.

@@ -1,0 +1,2 @@
+Sviluppo tecnologico di uno studio di architettura, attraverso l’implementazione di tecnologie avanzate quali
+visori di realtà aumentata e servizi visual.

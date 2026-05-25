@@ -1,0 +1,8 @@
+MAINFRAME prevede la realizzazione di una nuova architettura software che sarà impiegata internamente all¿azienda ma che verrà utilizzata a livello commerciale. La piattaforma sarà in grado di integrare:
+-una applicazione per la gestione dei processi clinici e organizzativi altamente customizzabile secondo i diversi casi d¿uso
+-una applicazione mobile per favorire la comunicazione tra gli utenti della piattaforma
+-un sistema di device wearable (anche secondo un paradigma IoT) in grado di trasmettere alla piattaforma set di (big) data riferiti alle condizioni di salute, misurazioni ambientali e/o agli stili di vita degli utenti
+-un set di servizi intelligenti basati su algoritmi di machine-learning e intelligenza artificiale che,
+partendo dai dati raccolti, siano in grado di realizzare nuove funzioni (es.di tipo predittivo) per supportare i clinici nella gestione del loro lavoro.
+
+All¿interno del progetto si richiede l¿intervento di un esperto per supervisionare e gestire la revisione del back-end della piattaforma e lo sviluppo dei servizi finalizzati alla gestione delle interfacce modulari previste. MAINFRAME dovrà rispondere ai requisiti previsti dal GDPR, prevedendo un approccio basato sulla privacy by design ed in grado di trattare conseguentemente tutti i dati previs

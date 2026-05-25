@@ -1,0 +1,1 @@
+Realizzazione di riproduzioni di monumenti sui biglietti pop up sui quali verra apposto un marker che fara da trigger di una piattaforma web di realta aumentata

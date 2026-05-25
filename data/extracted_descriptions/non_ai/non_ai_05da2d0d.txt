@@ -1,0 +1,5 @@
+EMMA è una piattaforma modulare per la gestione museale a 360°. Il principale scopo di Emma sarà quello di ottimizzare l’esperienza di gestione delle attività museali per mezzo di un unico sistema flessibile e modulare. La piattaforma offre una serie di servizi web based, accessibili da desktop, ed è integrata con un’app mobile che, per mezzo della scannerizzazione e riconoscimento di codici a barre, rende i processi di vendita e catalogazione più semplici e veloci, oltre a permettere un utilizzo dei servizi parallelo e
+dislocato. Le attività previste nell’ambito del progetto sanno: i) il completamento del modulo di vendita, 
+ii) la realizzazione del modulo di analisi dei dati, 
+iii) la strutturazione del modulo di fruizione in realtà aumentata e 
+iv) avvio del piano di localizzazione internazionale del software.

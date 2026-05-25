@@ -1,0 +1,18 @@
+Lo scopo del progetto è quello inserire la tecnologia IOT all¿interno di macchine già
+esistenti e su nuovi prototipi secondo le normative della Industry 4.0.
+L¿innovation manager formerà e guiderà un team di esperti che introdurrà la
+digitalizzazione delle macchine analizzate seguendo un iter come di seguito riassunto:
+FASE 1: Analisi delle macchine ed individuazione della sensoristica più idonea.
+FASE 2: Introduzione di dispositivi intelligenti e/o tecnologie per l¿integrazione della
+connettività.
+FASE 3:Dialogo delle macchine attraverso piattaforme web/cloud in grado di gestire i dati
+raccolti ed elaborarli.
+FASE 4: Gestione software delle macchine con introduzione di nuovi sistemi di
+visualizzazione come realtà aumenta(RA) e realtà virtuale (RV).
+L¿adozione della tecnologia IOT permetterà di gestire volumi di dati importanti derivanti
+dalle macchine e di renderli fruibili agli operatori in qualunque momento e da qualsiasi
+dispositivo grazie alla connessione remota. Questa introduzione innovativa sarà in grado di
+convertire le macchine coinvolte in asset connessi e intelligenti.
+Inoltre il manager guiderà l¿introduzione di tecniche di prototipazione rapida, manifattura
+additiva e stampa 3D che andranno ad aumentare gli asset 4.0 e l¿offerta di servizi per i
+pr

@@ -1,0 +1,1 @@
+progettazione e implementazione di un processo di virtualizzazione della fruibilita del museo attraverso:  un ologramma 3d attraverso il quale il Guerriero di Rigostano etrusco presenterà il museo (nella sala principale); un plastico 3d che racconterà l'evoluzione di Trevignano dall'epoca etrusca in avanti; Qr code e realtà aumentata per i principali reperti

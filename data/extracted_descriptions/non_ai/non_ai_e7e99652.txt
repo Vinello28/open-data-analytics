@@ -1,0 +1,5 @@
+Realizzazione app Android e iOS per il miglioramento dell'efficienza della palestra attraverso l'espansione digitale dei processi interni, in particolare si punta al miglioramento dell'esperienza atleta degli iscritti e a migliorare l'efficienza nelle comunicazione tra socio e palestra attraverso l'implementazione delle seguenti funzionalità mobile : 
+
+1) Gestione accessi atleti 
+2) Gestioni comunicazioni atleti e istruttori mediante apposita sezione nell'app e push notification 
+3) Gestione programma di allenamento mediante "virtual assistant" e ausilio agli istruttori mediante "virtual assistant"

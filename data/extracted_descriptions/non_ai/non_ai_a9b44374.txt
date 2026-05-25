@@ -1,0 +1,17 @@
+SPECTRA GROUP SRL ha la necessità XXXXXXX. L'obiettivo della consulenza è quello di progettare, sviluppare ed installare un sistema che si occupi di
+¿	Automatizzare i processi di controllo qualità
+¿	Riconoscere oggetti tramite Computer Vision per guidare l¿avanzamento dei processi interni
+¿	Interagire con il personale per fornire o richiedere informazioni necessarie ai processi aziendali
+Per lo svolgimento di queste attività sono necessarie competenze di 
+¿	Internet delle cose e delle macchine
+¿	Interfaccia uomo macchina (HMI)
+¿	Integrazione e sviluppo digitale processi aziendali
+Il Committente ritiene che il Manager sia in possesso di tutti i requisiti necessari per raggiungere gli obietti prefissi. A tal proposito vengono definiti i seguenti Deliverables.
+
+Entro il termine della consulenza verranno prodotti:
+¿	Documento Progetto sistema Eagle
+¿	Relazione analisi Test Pilot
+¿	Specifica funzionale sistema Eagle
+¿	Action Plan per Eagle
+ 
+Il lavoro prevede una consulenza con SPECTRA GROUP SRL da svolgersi all'interno dell'azienda stessa. Per il raggiungimento degli obiettivi, il Manager affiancherà il Committente nelle sue attività quotidiane di gestione e produzione in modo da poter operare in sintonia con gli obiettivi aziendali.

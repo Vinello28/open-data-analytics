@@ -1,0 +1,12 @@
+"Obiettivi del progetto
+1  implementare la tecnologia BIM (building information tecnology) all’ interno del workflow con maggiore controllo di qualità, capacità di gestire progetti di grandi dimensioni, e migliorare i tempi di progettazione gestione dei cantieri. 
+2  migliorare gli aspetti della presentazione e comunicazione del progetto con tecnologie immersive come la realtà aumentata e le simulazioni 3d per visulizzare il progetto. 
+3  digitalizzare il processo progettuale e disporre di spazo cloud con connessione a banda ultra-larga. 
+4   Aumentare la sicurezza informatica con backup automatici
+
+Risultati attesi 
+Ottimizzare il processo progettuale e implementare collaborazioni, per essere all’ avanguardia e consentire di concentrare le risorse per lo  sviluppo nuove opportunità.
+Offrire un servizio migliore con nuove tecnologie di realtà virtuali 3d e una migliore presentazione del progetto.
+Migliorare la sicurezza informatica .
+Migliorare la presentazione dei progetti su supporti cartacei se necessario e migliorare la presentazione dei progetti digitali con utilizzo di software  per creare immagini fotorealistiche e di forte impatto visivo.
+Accelerare il processo di calcolo per la realizzazione di immagini 3d e tour virtuali dei progetti su supporti digitali"

@@ -1,0 +1,6 @@
+Mobili Dondi Srl presenta un progetto di trasformazione digitale finalizzato a innovare i processi di vendita, gestione logistica e progettazione del prodotto.
+Il piano prevede l'implementazione di un gestionale verticale customizzato per la digitalizzazione completa dei punti cassa dei punti vendita, con gestione integrata di articoli, pagamenti multicanale, promozioni, programmi di fidelizzazione e invio automatizzato di comunicazioni.
+Parallelamente verrà digitalizzata l'area magazzino, con gestione multi-sede delle giacenze in tempo reale, ordini automatici ai fornitori, sistemi di alert e strumenti di analisi predittiva per l’ottimizzazione delle scorte.
+Il progetto include anche l’introduzione di un configuratore per divani con tecnologie di realtà aumentata, che permetterà la personalizzazione dei prodotti, migliorando l’esperienza cliente e riducendo gli errori progettuali.
+Saranno installati sistemi contapersone evoluti, integrati con intelligenza artificiale per analizzare i flussi di affluenza e supportare decisioni strategiche.
+Completa il progetto la digitalizzazione documentale a supporto della sostenibilità. L'intervento mira a costruire un ecosistema digitale integrato, scalabile e flessibile, aumentando il livello di maturità digitale e la competitività

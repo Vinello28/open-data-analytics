@@ -1,0 +1,4 @@
+Il progetto prevede l¿analisi e l¿implementazione di un servizio di chatbot, da rendere disponibile sul sito della nostra Azienda, al fine di garantire un supporto automatizzato, quindi senza l¿intervanto umano, nell¿ambito delle problematiche legate allo sviluppo di applicazioni mobile in ambiente IOS e Android.
+La Piattaforma quindi sarà configurata sulla base di una serie di flussi di dialogo che permetteranno agli utenti di trovare risposte alle domande più comuni in questo ambito. A tal fine verranno utilizzati servizi in cloud per l¿analisi semantica del testo e l¿utilizzo del linguaggio naturale.
+Inoltre il servizio di chatbot sarà garantito da una piattaforma in cloud di conversation che permetterà di avere un¿interazione tramite dialogo testuale.
+Obiettivo di tale progetto sarà quello di fornire un servizio esclusivo a clienti e potenziali clienti e allo stesso tempo di migliorare l¿efficienza del lavoro.

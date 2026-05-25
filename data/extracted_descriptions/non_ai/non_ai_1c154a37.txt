@@ -1,0 +1,5 @@
+Il progetto IMAGO ha l¶obiettivo di sviluppare e sperimentare una soluzione innovativa basata
+sulla realtà aumentata per la progettazione, la gestione e il controllo dei cantieri edilizi.
+La soluzione consiste nell¶utilizzo di hardware specifico (tablet, occhiali e sensori) che permette
+di creare e visualizzare modelli 3D degli edifici in costruzione o in ristrutturazione,
+sovrapponendoli alla realtà fisica.

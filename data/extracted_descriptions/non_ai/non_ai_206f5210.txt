@@ -1,0 +1,4 @@
+Analisi dei metodi e delle tecniche per la progettazione di un’applicazione software di ausilio all’operatore per attività di manutenzione e ricerca guasti di una macchina per l’ispezione automatica degli pneumatici (Vision Tyre System 3D) con tecniche di realtà aumentata o mista. I principali risultati attesi sono:
+• Analisi del mercato e definizione dei requisiti
+• Individuazione del sistema di sviluppo più adatto al raggiungimento dei requisiti e che tenga conto del flusso del lavoro di progettazione meccanica ed elettrica in TEKNA.
+• Progettazione dell’applicazione con componenti riutilizzabili in modo da poter essere facilmente adattata alle varianti della macchina.

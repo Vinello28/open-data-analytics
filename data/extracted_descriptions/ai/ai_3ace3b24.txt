@@ -1,0 +1,5 @@
+Il progetto ha come obiettivi principale il design di sistemi automatici in alcuni ambiti applicativi quali la robotica collaborativa nelle possibili declinazioni legata ai droni e AGV (Automated Guided Vehicles) attraverso l¿utilizzo di algoritmi avanzati di automazione e di intelligenza artificiale basati sui dati provenienti da sensori presenti nei sistemi di riferimento.
+La progettazione e lo sviluppo in questione si inseriscono sia nell¿ambito privato che pubblico attraverso la partecipazione a bandi di ricerca e sviluppo a livello regionale, nazionale (es. PON) e di caratterizzazione europea (es. ECSEL, Fast Track To Innovation).
+In particolar modo, le finalità del progetto sono volti alla progettazione e sviluppo dei seguenti sistemi sia a livello di ricerca sperimentale, in primis, che di sviluppo applicativo, successivamente:
+¿	Algoritmi di Intelligenza Artificiale (AI) legati al sottogruppo della Computer Vision attraverso l¿analisi di Big Data quali immagini e video declinati nel contesto applicativo di riferimento.
+¿	Sviluppo di un sistema di supervisione e di controllo delle missioni in un ambiente multi-agente robotico.

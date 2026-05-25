@@ -1,0 +1,6 @@
+L'idea è di realizzare un innovativo sistema di marketing e comunicazione comprendente:
+1) la creazione ed implemenetazione di QRcode per ogni retro-etichetta e relativa scheda tecnica di ogni vino;
+2) un sito WEB;
+3) comprensivo di ecommerce;
+4) un'APP con il proprio Brand che permetterà di avvicinare nuovi clienti ai servizi dell'azienda ma anche di fidelizzare quelli già acquisiti, con sistema di realtà aumentata.
+L'app sarà strutturata a finestre con menù di selezione laterale a scomparesae sarà agganciata al proprio sito. In particolare l'APP servirà sia come reader di QRcode che come riconoscimento dell'etichetta del vino.

@@ -1,0 +1,1 @@
+Il progetto prevede la creazione di una galleria in 3D in cui sara possibile effettuare un vero e proprio viaggio nel tempo attraverso la realta virtuale.

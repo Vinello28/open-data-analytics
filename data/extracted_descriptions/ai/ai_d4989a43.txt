@@ -1,0 +1,5 @@
+The PRISMS project, spearheaded by Clearbox AI Solutions SRL, an innovative startup
+specializing in Synthetic Data, aims to advance precision medicine. With expertise in AI, data
+privacy, and bias mitigation, the project targets the development of fair, privacy-compliant
+synthetic datasets for healthcare. The initiative aims at improving synthetic data quality and
+privacy by integrating novel swarm learning techniques to enhance data representativeness.

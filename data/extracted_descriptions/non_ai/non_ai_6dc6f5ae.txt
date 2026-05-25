@@ -1,0 +1,1 @@
+Antifurto per biciclette e piattaforma web based dotata di algoritmo proprietario per la previsione del rischio di furto in relazione all'ambito territoriale di riferimento.

@@ -1,0 +1,9 @@
+Il Progetto “Augmented Reality for Cultural HEritage monitoring and conServation – ARCHES" incardinato nella tematica RT3 “Sistemi per la gestione multirischio dei beni culturali ed il coinvolgimento
+delle comunità”, propone lo sviluppo prototipale di un sistema informativo digitale integrato in una
+piattaforma per il supporto alle decisioni nella gestione di beni o monumenti storici, integrato con tecniche
+di monitoraggio e manutenzione in realtà aumentata (AR).
+Gli obiettivi di ARCHES possono essere così sintetizzati:
+¿ contribuire alla definizione di un sistema gestionale digitale, integrato e aggiornabile;
+¿ informatizzare il sistema con parametri di rischio basati sulle analisi digitali di rilievo;
+¿ sviluppare un protocollo di ispezioni visive basate sull’impiego di Realtà Aumentata (AR) per
+ottimizzare la pianificazione e l’attuazione delle attività di manutenzione e mitigazione del rischio

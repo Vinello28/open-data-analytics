@@ -1,0 +1,1 @@
+Sviluppo di pipeline di analisi bioinformatica per la rilevazione di patogeni e di geni antibiotico-resistenza, e sviluppo di algoritmi per l#-#identificazione del miglior match tra donatore e ricevente in trattamenti di trapianto fecale di microbiota, a partire da dati di sequenziamento di DNA di nuova generazione (NGS).

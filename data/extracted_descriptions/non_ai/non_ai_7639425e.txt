@@ -1,0 +1,6 @@
+The company Salvarani is developing an innovative control computer for sprayers, based on a modular concept and
+optionally equipped with a GPS module, which enables the machines fitted with it to maintain a uniform amount of
+product sprayed per unit of surface area, regardless of the forward speed maintained by the operator.
+The aim is to field-test the system’s functionality using different types and combinations of operational performance
+measurement methodologies, in order to produce an accurate report of the real-world performance of the tested
+solution, highlighting any operational limitations so that improvements can be made before its final market release

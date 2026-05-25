@@ -1,0 +1,8 @@
+L¿evoluzione del mercato ha reso necessario un adeguamento delle dotazioni hardware e software,  oltre alla riprogettazione del sito internet implementato con soluzioni di e-commerce.
+Il progetto di ammodernamento prevede l¿allestimento di due postazioni di lavoro con la seguente dotazione: 
+-	personal computer con processore i7 3,6GHZ -64 bit -RAM 16 GB -512 GB- SSD ¿ grafica Nvidia -GeForce GT730 2048 MB
+-	monitor Led/Oled    - 27¿ 
+-	stampante multifunzione laser a  colori
+-	licenza Microsoft Office Home&Bussines 
+-	licenza per un software di progettazione con rendering fotorealistico  che permetta di visualizzare la realtà virtuale del progetto, dando la possibilità al cliente di  intervenire, proporre modifiche ,  partecipare attivamente al processo di progettazione ,  eliminare i  rischi di incomprensione  , aumentare  il grado di soddisfazione ed incentivare la vendita .  
+Sul fronte esterno dovrà invece essere riprogettato  il sito internet che dovrà diventare il motore di richiamo per la nuova clientela, seguendo le regole del responsive web design ed attivando le relative strategie di visibilità sui social e sui motori di ricerca.Contemporaneamente occorre formare il personale interno che dovrà essere in grado di utilizzare al meglio i nuovi strumenti di lavoro .

@@ -1,0 +1,1 @@
+Il progetto intende realizzare una piattaforma per tour virtuali online e dei tour nel Museo fisico, in cui fruire di contenuti in realta aumentata.

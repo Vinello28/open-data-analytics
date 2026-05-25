@@ -1,0 +1,1 @@
+Il Progetto ha come scopo la manipolazione di oggetti non noti in ambienti non strutturati con mani robotiche adattabili e algoritmi di percezione avanzati; quindi, verrà affrontato il problema della presa autonoma robotica di oggetti in condizioni difficili.

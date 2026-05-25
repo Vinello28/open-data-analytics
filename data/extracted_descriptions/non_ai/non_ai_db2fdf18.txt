@@ -1,0 +1,6 @@
+Il Progetto "PALEOTWIN" mira a creare una piattaforma digitale focalizzata sulla costruzione di un repository 
+centrale per la gestione e il recupero di materiali digitali legati al patrimonio culturale del museo Capellini. 
+Questo archivio centralizzato supporterà vari formati di fruizione digitale (testi, audio, ricostruzioni 3d, 
+ricostruzioni in AR e VR), inclusi percorsi personalizzabili basati su logiche semantiche, per facilitare l'accesso 
+e la fruizione anche agli utenti con disabilità. Il progetto include l'implementazione di una modalità 
+"gamificata" e funzionalità immersive per un'esperienza di realtà aumentata (AR) e virtuale (VR), permettendo interazioni avanzate con reperti archeologici e ambienti 3D.

@@ -1,0 +1,4 @@
+Il progetto ha come obiettivo sviluppare strumenti software innovativi che integrino metodi di apprendimento
+automatico e teoria dei sistemi di controllo per costruire modelli gray-box che combinino conoscenze basate
+sulla fisica con l'apprendimento basato su dati, e procedure (semi)automatiche di calibrazione per sistemi di
+controllo avanzati basati su controllo predittivo (MPC).

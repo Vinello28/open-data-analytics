@@ -1,0 +1,2 @@
+Realizzazione esperienze virtuali multimediali e immersive a 360° basate sulla Realtà Virtuale e applicate all'Economia Circolare a scopo educativo e di sensibilizzazione sui temi riguardanti energia e ambiente.
+Progettazione e realizzazione 360 experiences basata su immagini, video e render a 360°, navigabili intuitivamente e da tutti i dispositivi attraverso tasti direzionali, che permette al visitatore di compiere una visita immersiva e interattiva.

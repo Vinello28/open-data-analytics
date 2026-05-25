@@ -1,0 +1,6 @@
+La presente fornitura ha come obiettivo la stesura del piano di progetto di riorganizzazione dei processi aziendali di al fine di introdurre le seguenti innovazioni tecnologiche volte a potenziare i volumi di lavoro e la conseguente competitività di SELEFOR:
+¿	Digitalizzazione documentale
+¿	Automazione ed integrazione dei processi;
+¿	Implementazione CRM (Customer Relationship Management).
+Le aree tecnologiche che saranno potenzialmente impattate dall¿intervento sono legate alla automazione robotizzata dei processi, alla gestione semantica delle informazioni, alla creazione di interazioni uomo-macchina basati su apprendimento automatico (machine learning).
+Il piano di progetto conterrà informazioni relative agli obiettivi attesi, l¿analisi del livello di maturità digitale ed organizzativa della realtà promotrice e di quella impattata dall¿innovazione, l¿elenco delle tecnologie da implementare, le aree aziendali impattate, la mappatura degli interessi.

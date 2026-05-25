@@ -1,0 +1,3 @@
+The increasing interconnectivity of IT and OT systems, combined with their complexity, makes critical infrastructures and services vulnerable to evolving cyber threats. European regulations such as NIS2, DORA and ACN directives, highlight the need for a systemic and interdisciplinary approach to cyber risk
+management. We propose an innovative project with a Federated Learning Layer for the cyber risk
+management, including aspects of resilience and privacy, by developing an advanced laboratory to support EcoCyber in the validation of theoretical results and in developing Proofs of Concept and Framework useful for the execution of experiments.

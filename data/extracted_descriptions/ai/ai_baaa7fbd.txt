@@ -1,0 +1,1 @@
+Il progetto punta a realizzare un nuovo strumento di supporto decisionale per la valutazione, mediante algoritmi complessi, degli aspetti di esigenza idrica, economici ed ambientali utili al rilascio di concessioni ed alla programmazione dell’irrigazione in un bacino idrografico.

@@ -1,0 +1,4 @@
+Il progetto ha come obiettivo CoLa sviluppa soluzioni e definire metodi per realizzare interventi di recupero
+funzionale e ristruttuazione di impianti industriali. Si prevede il rilievo digitale 3D con condivisione tramite
+Realtà Virtuale. La fabbrica viene segmentata e riorganizzata con approccio digitale, con inserimento di nuovi
+macchinari e rimozione di vecchi

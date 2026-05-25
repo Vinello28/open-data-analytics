@@ -1,0 +1,8 @@
+Il Consorzio Punto Europa offre servizi di consulenza su progettazione locale, nazionale ed europea oltre che di informazione e comunicazione, gestendo l¿antenna ufficiale della Commisisone Eruopea denominata Europe Direct Abruzzo Nord Ovest e rivolgendosi a diversificati target groups di riferimento: istituzioni, professionisti, imprese e cittadinanza.
+Al fine di garantire la più efficiente ed efficace erogazione dei servizi e la più vasta base di utenza, il Consorzio è attualmente nella fase di progettazione e allestimento di un centro innovativo dotato di tecnologia immersiva virtuale ed esperienziale, anche mediante realizzazione di supporti multimediali finalizzati alla fruizione di contenuti multidisciplinari.
+Il progetto prevede, tra gli altri, l¿aquisto e installazione di:
+Schermo Touchwall multitouch ad interazioni simultanee 4x1m 117¿ (2862x1309mm) IR 
+Software Touchviewer per display multitouch con web-browser e mappe interattive
+Server NAS QNap per la gestione dei contenuti multimediali
+2 Virtual Reality System Kit HTC vive + treadmills dedicati
+4 pc desktop + 2 laptop.

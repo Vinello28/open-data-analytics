@@ -1,0 +1,3 @@
+Il progetto prevede la digitalizzazione del processo di realizzazione del fascicolo immobiliare, contenente informazioni e documenti sia di natura tecnica che amministrativa.
+L'acquisizione dei dati tecnici dell'immobile avviene con strumentazioni hw e sw che consentono la rappresentazione dell'edificio in realtà aumentata e la produzione di documenti digitali compatibili con gli standard BIM, per la facilitazione di una successiva gestione tecnica e/o riqualificazione dell'edificio.
+Il fascicolo immobiliare è gestito in cloud per un accesso facilitato e regolato da parte dei diversi utenti interessati (proprietario, progettista, manutentore, amministratore di condominio, ecc.)

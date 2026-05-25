@@ -1,0 +1,11 @@
+Realizzazione Sito e-commerce customizzato, con funzioni avanzate, comprensivo di:
+¿	filtro categorie in maschera di ricerca; Realizzazione di un filtro categorie (con categorie di primo livello per ciascun listino) visualizzato come menu a tendina da accostare al campo testuale di ricerca.
+¿	In caso di selezione di una categoria la successiva ricerca verrà ristretta solo a quest'ultima;
+¿	Box "filtri automatici;
+¿	Realizzazione di un box a funzionamento completamente automatico e visualizzato nella pagina "elenco prodotti".
+Al caricamento delle pagine "elenco prodotti" e "dettaglio prodotti" le immagini remote (provenienti dal fornitore del listino drop-shipping) verranno caricate in maniera asincrona con tecnica AJAX in modo da velocizzare il caricamento e rendering iniziale della pagina.
+Realizzazione di un box a funzionamento completamente automatico e visualizzato nella pagina "dettaglio prodotto". Verranno visualizzati alcuni prodotti appartenenti alla stessa categoria del prodotto selezionato.
+Box "Iscrizione alla newsletter"; Checkout rapito
+Realizzazione di un box a funzionamento completamente automatico e visualizzato in tutte le pagine del sito.
+Sistema live chat di autoapprendimento e intelligenza artificiale
+Realizzazione tema grafico responsive

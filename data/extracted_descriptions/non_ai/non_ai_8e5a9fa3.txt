@@ -1,0 +1,7 @@
+L'obiettivo degli investimenti è quello di evolver l'infrastruttura tecnologica aziendale e le competenze del personale per adeguarli al nuovo scenario competitivo di business. In particolare intendiamo investire per creare una nuova unità di business specializzata in analisi dati (business intelligence) necessari allo sviluppo di nuove tecnologie applicati a e-commerce, chat bot e sviluppo APP..
+L'intervento di ammodernamento di hardware e software della infrastruttura tecnologica è finalizzata a:
+- dotare la nuova unità di business di hardware con adeguata potenza di calcolo  
+- installazione di software per un maggior controllo del flusso dei dati, una maggiore sicurezza nella gestione degli stessi e sistemi di encryption e recovery in caso di danni informatici causati da terzi o accidentalmente.
+- server adeguato per sviluppare le attività di networking e l'accesso dati aziendali in remoto.
+Infine sono previste attività di formazione per i dipendenti per aggiornarsi sui nuovi software e le nuove tecniche di progettazione e sviluppo di applicazioni, sistemi di e-commerce,  analisi di big data e progettazione e sviluppo di chat bot.
+Tali investimenti sono resi necessari dall'alto livello di innovazione e competitività che caratterizza il nostro settore di mercato.

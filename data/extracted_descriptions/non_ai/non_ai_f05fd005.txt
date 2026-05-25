@@ -1,0 +1,5 @@
+L¿azienda 4D Engineering specializzata nella progettazione di sistemi meccanici complessi intende integrare la propria offerta di servizi con sistemi avanzati di simulazione e virtualizzazione: virtual reality. Nello specifico l¿azienda intende introdurre nuove tecnologie AR/VR per il supporto alle fasi di progettazione e co-design di sistemi meccanici e fluidodinamici. La possibilità di avere dei modelli matematici navigabili su piattaforme web-based permette una progettazione collaborativa e simultanea.
+Attraverso la realizzazione di questo progetto l¿azienda intende:
+1. aumentare la propria gamma di servizi includendo nei servizi di progettazione anche quello della simulazione attraverso sistemi di realtà virtuale
+2. sviluppare per i propri clienti un servizio di facile accesso per la gestione dei contenuti progettuali e modelli 3d
+L¿attività di coordinamento, selezione ed implementazione delle tecnologie AR/VR saranno affidate ad un innovation manager con esperienza nel settore.

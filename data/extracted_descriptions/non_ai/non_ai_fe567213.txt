@@ -1,0 +1,8 @@
+Scopo: implementare un sistema sistema informatico di gestione aziendale (ERP/CRM). 
+Obiettivi:
+¿ ottimizzare i flussi di lavoro e ridurre i tempi di esecuzione attraverso l'implementazione di procedure e strumenti più efficienti, anche con l’uso di AI
+¿ proporre un nuovo sistema di vendita/noleggio grazie alla servitizzazione della commercializzazione di Carl the Sleepy Robot
+¿ fornire al personale strumenti per lavorare in modo efficiente da remoto, inclusi i disabili
+¿ implementare sistemi di monitoraggio e valutazione per misurare il successo del progetto e apportare correzioni o miglioramenti quando necessario.
+¿ garantire che i progetti vengano completato entro i tempi ed i budget stabiliti, mantenendo alti standard di qualità e conformità.
+Per tutti i dettagli tecnici si rimanda alla relazione dettagliata allegata.

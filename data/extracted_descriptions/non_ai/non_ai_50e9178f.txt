@@ -1,0 +1,11 @@
+Arboviruses such as Chikungunya virus (CHIKV), dengue virus (DENV), West Nile virus (WNV) and Zika
+virus (ZIKV) pose a global health threat and have spread in Europe due to climate change, immigration and
+trade. Their persistence in human and non-human hosts has an impact on transmission dynamics and
+complicates containment efforts. ZIKV, which is associated with congenital microcephaly, persists in various
+human cells, crosses the blood-placental barrier and lingers in semen, leading to sexual transmission. The
+mosquito-borne CHIKV, DENV and WNV occasionally persist in tissues in the post-acute phase. Tick-borne
+encephalitis virus and Toscana virus also show persistence in humans, associated with chronic and worsening
+disease. The mechanisms of persistence of arboviruses in humans, which are critical for viral evolution,
+disease dynamics and public health, are poorly defined. GENESIS aims to comprehensively investigate the
+molecular mechanisms of arbovirus replication and persistence and their interactions with the host and to
+identify therapeutic targets.

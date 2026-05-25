@@ -1,0 +1,9 @@
+Il progetto di INOVING Studio Associato di Ingegneria, ha l’obiettivo di:
+-	innovare processi tecnici e output progettuali, attraverso investimenti in tecnologia (hardware e software) in grado di rafforzare aggregazione, efficientare gestione di commesse e interventi di riqualificazione energetica 
+-	consolidare posizionamento competitivo dello Studio attraverso la realizzazione di un nuovo sito web che consentirà di veicolare il valore aggiunto del servizio ingegneristico proposto.
+
+In coerenza con gli obiettivi del Bando, il progetto intercetta driver di sviluppo promossi a livello programmatico agendo per:
+-	l’adozione di strumenti digitali integrati (Suite AEC Collection e drone per rilievi 3D) per la progettazione, modellazione, coordinamento di commesse complesse (S3 - Digitalizzazione, intelligenza artificiale, big data - imprese e PA) 
+-	la transizione ecologica, promuovendo adozione di strumenti per la progettazione di interventi costruttivi in chiave green (software Edilclima e Mold Simulator), accogliendo approcci sostenibili promossi dal Patto per il lavoro e per il clima.
+
+Il progetto prevede attività di consulenza volte a garantire l’integrazione digitale della nuova dotazione tecnologica, per assicurare rinnovamento dell’attività professionale.

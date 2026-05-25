@@ -1,0 +1,12 @@
+Creazione e commercializzazione di una piattaforma multicomponente operante nell¿ambito della Safety e Security, in grado di recepire possibili minacce antropiche o ambientali in contesti limitati o all¿aperto, ed elaborare scenari di impatto e percorsi di mitigazione dei rischi tramite l¿impiego innovativo di tecnologie allo stato dell¿arte (ad es: sistemi GIS, sensoristica, IoT, Big Data, Machine Learning, R.A.) definendo, nuovi paradigmi e nuove metodologie in materia di individuazione e mitigazione dei rischi, analisi di scenario e gestione di eventi, innalzando la resilienza dei contesti monitorati 
+-          in tempo reale - gestione dell¿evento o della manifestazione o dell¿emergenza, 
+-          nel medio lungo termine - mitigazione dei rischi e innalzamento della resilienza in tempo di pace.
+Le componenti integrate ed autoconsistenti della piattaforma sono:
+Piani Protezione Civile 
+Piani Manifestazione 
+Centrale di Controllo 
+Riconoscimento
+Sensoristica di Monitoraggio
+Simulazione e Scenari di intervento 
+First Responder (R.A.)
+Resilienza 365 è destinata a tutte le Organizzazioni(comuni, aziende, privati) per monitorare aree interne o esterne, individuare minacce e definire percorsi di mitigazione dei rischi o scenari di gestione delle emergenze

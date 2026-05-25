@@ -1,0 +1,7 @@
+Il progetto è volto alla Digitalizzazione del Processo Ingegneristico MEP & Sviluppo Piattaforma Realtà Virtuale, ciò al fine di migliorare i propri processi aziendali legati all¿erogazione dei servizi ai propri clienti e al miglioramento del reparto amministrativo della stessa. 
+Inoltre, il software per la Realtà Virtuale è un progetto pilota da applicare ai processi di formazione per la sicurezza sul lavoro, mercato di interesse per la easyIT.
+Sono previsti costi per: 
+- miglioramento del processo aziendale MEP (Marketing Engineering Process) con lo scopo di fornire un metodo per la digitalizzazione del processo che viene applicato ai clienti della easyIT
+- miglioramento dell¿organizzazione del lavoro di easyIT e della piattaforma digitale per il processo MEP sulla piattaforma digitale Fluxbit 
+- acquisto software e consulenza per progetto software Realtà Virtuale per progetto con visore digitale HTC VIVE 
+- efficientare i processi di contabilità analitica interni aziendali con l¿utilizzo del software QuickMastro

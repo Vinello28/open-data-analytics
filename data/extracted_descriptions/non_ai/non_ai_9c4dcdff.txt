@@ -1,0 +1,1 @@
+Il progetto prevede la costruzione di un modello di simulazione (Digital Twin) dello stabilimento di ArcelorMittal allo scopo di verificare le performance di processo e valutare in maniera quantitativa l’effetto di possibili investimenti.

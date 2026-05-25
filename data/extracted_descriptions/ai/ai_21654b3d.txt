@@ -1,0 +1,10 @@
+Lo Studio Dentistico Pieroni ha sviluppato un intervento attuativo per digitalizzare i processi diagnostici e operativi, migliorare la sicurezza dei dati e potenziare le competenze del personale, al fine di raggiungere maggiore efficienza e qualità del servizio.
+
+Obiettivi dell’Intervento
+Digitalizzazione del Processo Diagnostico: Implementare lo scanner intraorale TRIOS 5 per eliminare le impronte manuali, con un KPI di riduzione del 50% nei tempi di diagnosi entro il primo anno.
+Produzione Interna di Modelli Dentali: Utilizzare una stampante 3D per ridurre i tempi di consegna dei modelli del 40%.
+Miglioramento della Sicurezza Informatica: Implementare sonde di cybersecurity, con l’obiettivo di zero incidenti di sicurezza nel primo anno.
+Formazione del Personale: Assicurare che tutto il personale completi un programma di formazione per l'uso delle nuove tecnologie.
+Ottimizzazione del CRM: Automatizzare le comunicazioni per migliorare la fidelizzazione dei pazienti del 30% entro il secondo anno.
+Soluzioni Digitali Previste
+Le tecnologie identificate includono lo scanner intraorale TRIOS 5 con intelligenza artificiale, una stampante 3D Anycubic, sonde di cybersecurity, un CRM avanzato (Keap) e Smart TV per la condivisione di immagini con i pazienti. Queste soluzioni sono state sel

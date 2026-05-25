@@ -1,0 +1,5 @@
+CheckSig innovation is a software solution that implements a Covenant. CheckSig customizes the software of a Hardware Secure Module (HSM) improving the standard HSM security. 
+customizing the software of a HSM improves the standard HSM security. The software customization:
+A. constrains destination addresses to be defined in a previously established whitelist inside the HSM;
+B. Enforces a requirement that the transaction must be authorized by a third party before the transaction can be signed using the HSM secret.  The third party cannot spend the bitcoin, but its authorization is required. 
+The innovation reduces the risk of losing the bitcoins to an attacker that gets hold of the HSM, because the attacker cannot send the bitcoins to an address not in the whitelist, i.e. he cannot send the bitcoin to an address under his control.

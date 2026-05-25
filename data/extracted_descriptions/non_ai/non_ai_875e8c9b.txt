@@ -1,0 +1,7 @@
+La soluzione è una spazzola motorizzata autonoma. Tradizionalmente, questa macchina è un veicolo specializzato guidato da una persona
+lungo la corsia di alimentazione delle stalle nei fienili, in modo che il cibo venga mescolato e avvicinato alle mucche, aumentando
+la produttività degli animali.
+Repossi sta sviluppando una versione autonoma della propria macchina e deve valutare le
+prestazioni di vari sensori per effettuare un'analisi costi-benefici informata e decidere quali sensori utilizzare.
+Inoltre, Repossi deve testare e convalidare diversi algoritmi per le funzionalità di localizzazione, navigazione e sicurezza
+della propria macchina. I servizi scelti dall'azienda saranno utilizzati per supportare l'organizzazione del lavoro e fornire assistenza al cliente nell'utilizzo delle informazioni ottenute nei servizi di test e valutazione nel processo di sviluppo del prodotto.

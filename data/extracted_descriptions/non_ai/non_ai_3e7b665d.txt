@@ -1,0 +1,11 @@
+L'IoT è inteso come driver essenziale per l¿innovazione tecnologica per attuare la conversione delle tecnologie industriali (Industry 4.0), di raccogliere e archiviare una grossa mole di dati (Big Data).
+
+La consulenza in ambito IoT è orientata a:
+
+-	Ottimizzazione e automazione dei dati e la loro trasformazione digitale
+-	R&S sull¿utilizzo di nuovi modelli di business e la mappatura dei flussi e dei processi
+-	Industrial Internet of Things (IIoT) per l¿industria pesante, il settore primario e il comparto energetico.
+-	Consumer Internet of Things (CIoT) come i Wearables, le smartwatch e smart home, etc.
+-	Internet of Everything (IoE) nel mondo degli affari intesa come una rete ¿intelligente¿, in grado di ascoltare, apprendere e rispondere per offrire nuovi servizi e funzionalità nei settori più diversi (dal commercio al settore bancario, da quello assicurativo a quello del wellness).
+
+Le aree principali che assorbono gli investimenti in IoT comprendono: i processi di produzione, i trasporti, le tecnologie smart grid, gli edifici ¿smart¿ e la domotica intelligente. In tutti gli ambiti di utilizzo, l¿IoT include tutte le tecnologie correlate come l¿intelligenza artificiale, cloud computing, cybersecurity, Big Data, tecnologie di connettività/comunicazione, blockchain etc

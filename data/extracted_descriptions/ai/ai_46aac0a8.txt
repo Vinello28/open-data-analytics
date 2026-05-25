@@ -1,0 +1,1 @@
+Sistema IoT supportato da modelli di monitoraggio e predittivi dotati di I.A. utili al servizio della telemedicina, del telecontrollo e della teleassistenza nei pazienti cardiopatici (@thena).

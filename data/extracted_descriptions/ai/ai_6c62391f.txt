@@ -1,0 +1,4 @@
+"Il progetto è finalizzato a: 
+- definire un nuovo modello di formazione basato su innovative modalità di interazione tra discente e strumento tecnologico
+- progettare e sviluppare una piattaforma software in grado di implementare la realtà aumentata come paradigma a supporto della formazione
+- innovare il processo di erogazione dei sevizi consulenziali attraverso l'introduzione di soluzioni evolute e in grado di elevare il livello di coinvolgimento da parte dell'utenza"

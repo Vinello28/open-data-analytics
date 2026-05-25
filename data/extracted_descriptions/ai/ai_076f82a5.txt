@@ -1,0 +1,6 @@
+In seguito ad alcune modifiche della compagine sociale, si è posta l'esigenza di una riorganizzazione aziendale che andasse nella direzione di:
+- consentire una semplificazione dei processi interni attraverso l'utilizzo di tecnologie digitali nuove o già esistenti;
+- favorire il riposizionamento strategico dell'attività all'interno del mercato locale del benessere per la persona, attraverso la creazione di una rete di relazioni con soggetti partner inseriti in rete da un punto di vista digitale e in grado di offrire più servizi correlati;
+- decretare l'aumento della competitività sul territorio da parte di Gymh24.
+E' nato così il progetto SISTEMA H24, che ha come punto focale l'utilizzo di vari canali digitali integrati tra loro.
+Elemento centrale del progetto è il rifacimento del sito web https://gymh24.it/ che da semplice vetrina di servizi si trasforma in piattaforma digitale. La piattaforma presenta servizi e opportunità integrate in un unico contenitore. Dialoga e sincronizza novità, informazioni e servizi con le app dedicate all'utenza delle due palestre controllate da Gymh24. Tanto il lavoro del personale interno quanto l'esperienza degli utenti sono poi semplificate e rese più snelle grazie all'utilizzo di un sistema di chatbot interno al sito.

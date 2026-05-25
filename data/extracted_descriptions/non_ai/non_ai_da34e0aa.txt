@@ -1,0 +1,8 @@
+Consulenza avente ad oggetto lo sviluppo tecnico di un applicativo, nel lato architetturale, così
+come nella supervisione degli sviluppatori interni VRZONE. In particolare, con riferimento alla
+versione pilota dell¿applicazione, l¿azienda darà consulenza specifica riguardo:
+&#9679;	Selezione e valutazione del personale/candidati attraverso esperienze che possano permettere anche a più utenti di interagire in un ambiente virtuale ricostruito al fine di valutare le ¿soft skills¿ ovvero competenze comportamentali quali la leadership, la capacità di risolvere problemi, lo spirito di squadra;
+
+&#9679;	Formazione di una rete commerciale mediante simulazioni di situazioni "tipo" in un contesto di relazione cliente-utente con varie dimensioni di interazione secondo alberi decisionali e/o algoritmi di intelligenza artificiale.
+Digital Tales per le finalità del progetto potrebbe utilizzare la propria tecnologia pregressa sviluppata nel corso degli anni, che comprende La piattaforma di Learning Management System (cloud-based), le API di connessione,
+Si precisa che la tecnologia pregressa del Simulatore è di proprietà di Digital Tales e dovrà essere normato lo sfruttamento commerciale della stessa.

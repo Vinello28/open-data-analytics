@@ -1,0 +1,1 @@
+Si intende realizzare un robot, in grado di eseguire autonomamente il cablaggio di quadri e pannelli elettrici, e la manipolazione di elementi quali fili e tubi.

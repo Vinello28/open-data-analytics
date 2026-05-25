@@ -1,0 +1,5 @@
+Il progetto ha come obiettivo la digitalizzazione e innovazione del nostro studio di architettura, mediante un approccio BIM alla progettazione, al coordinamento e alla gestione dei cantieri edili.
+La base del BIM (Building Information Model) è un modello 3D digitale dell’edificio, formato dalle varie parti che lo compongono e le loro caratteristiche, sia dimensionali sia relative a materiali e costi.
+In particolare la scelta ricade sul software Archicad di Graphisoft.
+Il modello tridimensionale integrato dei progetti permette anche una migliore e innovativa comunicazione dei progetti e dei risultati attesi durante i cantieri, grazie all’applicativo BIMx di Archicad, che esporta il modello, con tutte le sue caratteristiche, su tablet per le presentazioni alla committenza e per i sopralluoghi in cantiere.
+La visualizzazione dei progetti è anche resa dal software Twinmotion per creare render immersivi e immagini VR per la realtà virtuale, in modo da creare una vera realtà immersiva e digitale dove poter camminare realmente all’interno dei nostri progetti di architettura.

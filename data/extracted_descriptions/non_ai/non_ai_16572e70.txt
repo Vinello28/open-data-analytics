@@ -1,0 +1,1 @@
+Sviluppo sperimentale di un sistema in grado di correlare eventi di sicurezza fisica e di cybersecurity al fine di incrementare la resilienza a possibili attacchi di sabotaggio e attivitÃ  malevoli

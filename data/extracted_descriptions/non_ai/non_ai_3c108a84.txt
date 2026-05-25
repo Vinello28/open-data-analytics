@@ -1,0 +1,8 @@
+GSNat si sta apprestando a lanciare sul mercato del turismo delle soluzioni di navigazione dei siti archeologici in Realtà Aumentata.
+L¿esperienza di visita di aree archeologiche con realtà aumentata è l¿occasione per raccontare i luoghi più importanti e sorprendenti di Italia attraverso un¿immersione unica nel suo genere che parte da uno storytelling dinamico delle aree ma anche e soprattutto tramite un visore (smartglass) permette all¿utente di vedere delle ricostruizioni 3D ambientate nei luoghi che si stanno visitando.
+L¿esperienza fatta sul campo hanno fatto emergere la necessità di dover gestire anche dei processi analogici critici per il successo di soluzioni altamente scalabili in ogni contesto, in particolare si è manifestata forte l¿esigenza di dover digitalizzare i seguenti processi ad oggi gestiti in maniera analogica (ovvero tramite utenti che effettuano manualmente tali attività):
+- monitoraggio dello stato degli smartglass, in termini di stato di deterioramento
+- valutare proattivamente gli interventi di sostituzione delle device anticipando le rotture (manutenzione predittiva)
+- accesso e controllo remoto
+- processi digitali di raccolta dati e gesione di campagne di co-marketing
+- avere un servizio di customer experience che possa raccogliere i feedback

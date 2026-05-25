@@ -1,0 +1,2 @@
+Valutazione del possibile utilizzo della tecnologia 5G al fine di implementare sistemi con largo impiego dell'internet of thinks finalizzato alla raccolta di dati provenienti da sorgenti diverse che possano essere analizzate con metodologie innovative quali ad esempio il machine learning, nel settore della Sanità Privata. Il ruolo dell¿Internet of Things:
+1.	ID 1. scambio di contenuti informativi come analisi preoperatorie ed esami diagnostici, visibili come hologrammi geo-referenziati, sovrapposti all¿ambiente reale in cui si trovano gli operatori stessi.

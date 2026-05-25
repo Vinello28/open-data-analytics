@@ -1,0 +1,1 @@
+Realizzazione di una piattaforma IT per la gestione di itinerari turistici ciclabili con supporto di testo, immagini, clip audio, clip video, oggetti di realta aumentata.

@@ -1,0 +1,4 @@
+MTM sta realizzando una piattaforma di realtà virtuale per la creazione di mockup di organi umani per le simulazioni chirurgiche da parte di studenti di medicina, chirurghi e ricercatori del settore biomedico. Il software è registrato presso SIAE con il nome ¿MED3D VR LAB¿
+L¿azienda deve ottimizzare i suoi processi produttivi andando ad aumentare la potenza di calcolo e munirsi di due distemi VR nuovi.
+Inoltre vuole farsi far realizzare un sistema di digitalizzazione veloce delle immagini 2D e 3D diagnostiche che gli arrivano da ospedali e centri di ricerca. In questo modo le immagini derivanti saranno tutte standardizzate in formato gestibile dalla piattaforma  MED3D VR LAB.
+Infine deve far realizzare un ERP specifico per la gestione delle commesse e dei dati della clientela.

@@ -1,0 +1,1 @@
+implementazione piattaforma che mediante l'algoritmo Vault esamina immobili, contratto di locazione, situazione economica del proprietario e dell'affittuario per offrire iquidità immediata ai proprietari di immobili affittati, anticipando i canoni di locazione dell’inquilino.

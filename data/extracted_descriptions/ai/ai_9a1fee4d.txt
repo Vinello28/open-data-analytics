@@ -1,0 +1,1 @@
+La realizzazione di un cestino intelligente in grado di riconoscere e differenziare grandi quantità di rifiuti fornendo report analitici.

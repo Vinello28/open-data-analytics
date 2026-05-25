@@ -1,0 +1,2 @@
+Il progetto ha come obiettivo Reattori basati sull’ossidazione catalitica e monitoraggio in tempo reale su cloud
+supportato da Intelligenza Artificiali per il trattamento di PMT nelle acque

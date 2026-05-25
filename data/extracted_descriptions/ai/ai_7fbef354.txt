@@ -1,0 +1,5 @@
+The ARISE project aims to create an open-source swarm learning framework based on blockchain for
+precision medicine applications. The prototype will be built as a distributed architecture made up of three
+peer nodes, each physically installed at one university involved in the project. 
+ARISE will allow the development and training of sophisticated AI and ML algorithms, verticalized for 
+specific use cases in precision medicine.

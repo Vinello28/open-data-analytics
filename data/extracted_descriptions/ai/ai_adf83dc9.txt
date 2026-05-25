@@ -1,0 +1,1 @@
+Realizzazione di una piattaforma che permette la definizione di immagini personalizzate come marker per l’attivazione di contenuti in realta aumentata

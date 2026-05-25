@@ -1,0 +1,13 @@
+La produzione del software prevede numerose fasi dipendenti tra loro; i progetti realizzati per diverse realtà hanno portato a una moltiplicazione degli strumenti per il controllo delle fasi, con ridondanze e dispersione di know-how.
+
+Scopo della società è realizzare una filiera produttiva che permetta, mediante gli strumenti proposti dal cloud Amazon AWS, di
+gestire per intero la produzione di software.
+
+Per la condivisione della pianificazione e il monitoraggio degli avanzamenti è stato individuato lo strumento underControl di Xeel srl, mentre per la compliance verso il GDPR è stato scelto SIEM di Intrusa s.r.l.
+
+La filiera di progettazione e sviluppo del software, prevede strumenti AWS integrati con il repository GitHub, che soddisfino
+ - servizio di verifica di qualità dei sorgenti (es. Sonarqube)
+ - sistemi di deploy automatico nei vari ambienti (sviluppo, test, collaudo, produzione)
+ - sistemi di monitoraggio applicativo della produzione
+ 
+L'inserimento nell'ecosistema Amazon AWS consente anche di poter accedere a servizi ad alto valore aggiunto per arricchire le applicazioni esistenti. A tutte le applicazioni che raccolgono dati possono essere aggiunti servizi di machine learning per definire analisi predittive per la manutenzione o altre funzionalità.

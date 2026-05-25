@@ -1,0 +1,1 @@
+Il progetto IRMAS ha come obiettivo la realizzazione di una soluzione software che distribuisca contenuti di Realtà Virtuale immersiva e 3D relativi al gioco della Pallone col bracciale, storico sport di squadra tra i più antichi in Italia.

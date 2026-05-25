@@ -1,0 +1,1 @@
+Sviluppo e test di un sistema esperto (vision based) per automatizzare le ultime operazioni del processo di FPI (Fluorescent Penetrant Inspection)  che è un metodo di prova non distruttivo utilizzato in produzione per la rilevazione di difetti di pezzi in prova. Il progetto aumenterà la velocità, la ripetibilità e la qualità del processo FPI.

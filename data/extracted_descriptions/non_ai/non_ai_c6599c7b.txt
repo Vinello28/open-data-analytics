@@ -1,0 +1,1 @@
+Utilizzo di robot collaborativo dotato di un sistema rotorbitale per la carteggiatura dei componenti plastici andando a compensare le tolleranze del prodotto plastico mediante un sistema controllo sforzo per compensare le tolleranze tra il percorso programmato e il componente reale.

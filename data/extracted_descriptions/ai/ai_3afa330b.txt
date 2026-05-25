@@ -1,0 +1,4 @@
+Il progetto verte su due aspetti fondamentali.
+Il primo consiste nel digitalizzare in maniera più spinta la produzione, ammodernando il software di progettazione, introducendo un software MES per la tracciabilità della produzione.
+A supporto di questa verranno introdotti smartglass per la gestione dei collaudi in sede e presso i clienti e un nuovo software di assistenza tecnici e clienti in realtà aumentata.
+Il secondo aspetto del progetto riguarda il rifacimento completo del sito internet integrando anche una piattaforma di e-commerce rivolta non solo alla vendita di prodotti standard ma anche di servizi quali consulenza e assistenza tecnica su impianti di automazione e teleassistenza.

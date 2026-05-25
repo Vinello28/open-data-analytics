@@ -1,0 +1,10 @@
+Il progetto ha come obiettivo il rafforzamento della posizione competitiva di Claind attraverso l’implementazione di soluzioni digitali integrate. Gli obiettivi, pianificati in un orizzonte temporale di 12-15 mesi, sono SMART e mirano a migliorare la qualità, l’efficienza operativa e la soddisfazione del cliente. Gli obiettivi specifici includono:
+Ottimizzazione del Controllo Qualità e Gestione delle Non Conformità
+Miglioramento del Customer Service
+Potenziamento del Reparto R&S
+Accessibilità e Diffusione delle Informazioni Strategiche
+
+Le soluzioni tecnologiche selezionate sono focalizzate sull'integrazione dei sistemi aziendali e sull'adozione di strumenti per la gestione della qualità, il customer service, e la ricerca e sviluppo, con attenzione a scalabilità, facilità d’uso e compatibilità con i dispositivi mobili.
+Sistema di Gestione della Qualità (QMS): supporto alla gestione documentale, delle non conformità, audit e fornitori. Il sistema sarà integrato con l’ERP per il monitoraggio dei KPI di qualità.
+Sistema di Ticketing (ST): gestione dei ticket di assistenza tecnica e commerciale, con integrazione verticale e orizzontale con l'ERP in dotazione e strumenti di machine learning per l'automazione della gestione.
+Planning & Management Tool (PMT): strumento per il supporto a

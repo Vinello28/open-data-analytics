@@ -1,0 +1,9 @@
+Le attività che svolgerà l¿innovation manager sono riconducibili alle seguenti attività:
+1.	Analisi dei casi di business e supporto alla ricerca di modelli precedentemente sviluppati per predire il churn.
+2.	Identificazione e test di parametri per l¿identificazione per i vari casi identificati delle soluzioni migliori con valutazione di alternative di feature engineering.
+3.	Scelta degli algoritmi di machine learning e implementazione dei relativi modelli.
+4.	Acquisizione dati da realtà di interesse di Agic Innovation per la realizzazione di casi d¿uso di interesse, con i relativi data mapping.
+5.	Sviluppo di logiche e sistemi di data cleaning and unification per l¿armonizzazione delle informazioni gestite dai modelli.
+6.	Costruzione di esperimenti con test A/B e confronti dei risultati.
+7.	Abilitazione di sistemi predittivi di churn tramite API e web service per la fruizione dei modelli identificati come migliori.
+8.	Costruzione sistemi di analisi dati in grado di rappresentare in termini di business intelligence l¿impatto potenziale dei modelli realizzati.

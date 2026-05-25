@@ -1,0 +1,1 @@
+FITOPTIVIS ha l’obiettivo di definire strategie e metodi per il design e l’integrazione di pipeline per l’elaborazione di immagini e video nei Cyber-Physical Systems (CPS), con particolare enfasi sulla gestione ottimale del consumo di potenza.

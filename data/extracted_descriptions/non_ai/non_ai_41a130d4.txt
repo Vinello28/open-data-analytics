@@ -1,0 +1,1 @@
+Il progetto mira a creare una multipiattaforma digitale per musei, gallerie ed enti culturali, composta da una piattaforma web in cloud per il caricamento di modelli 3D di opere d’arte, la visualizzazione e analisi dei dati raccolti, e un’app in Realtà Virtuale (VR) che consente la visualizzazione immersiva e l’interazione con le opere digitalizzate tramite visori.

@@ -1,0 +1,8 @@
+Con il progetto si intende migliorare l'efficenza aziendale nella promozione dei propri servizi, perfezionando la profilazione degli utenti del sito web e rafforzando la cybersecurity aziendale a protezione dei dati sensibili tramite:
+1) Realizzazione e implementazione all'interno del sito di un software di tracking e monitorizzazione del traffico internet e delle attività dell¿utente.
+2) Motore di gestione e correlazione degli eventi generati dagli strumenti di monitoraggio e-commerce avanzato, con integrazione e arricchimento di dati esterni.
+3) Console di visualizazzione monitoraggio da parte degli utenti utilizzatori.
+4) Acquisizione (o implementazione per perfezionare i preesistenti) di software gestionali per la contabilità e il magazzino. 
+5) Acquisizione di servizi di connessione veloce in banda larga e  servizio stoccaggio dati  e machine learning.
+6) Formazione interna necessaria per l'aggiornamento e per la gestione del software di monitorizzazione.
+7) Acquisto di dispositivi hardware fissi e portatili per l'amministrazione e per la gestione del sito, anche in mobilità.

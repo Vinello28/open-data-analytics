@@ -1,0 +1,1 @@
+Realizzazione di una piattaforma informatica integrata all’architettura della Fortezza Medicea del Girifalco di Cortona che permetta lo sviluppo e la realizzazione di mostre Mixed Reality.

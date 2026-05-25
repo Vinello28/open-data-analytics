@@ -1,0 +1,1 @@
+Il progetto prevede lo studio e la realizzazione di un sistema automatico per diagnostica molecolare sample-to-result, che integra in un unico strumento le funzioni di processazione del campione clinico (preanalitica), preparazione ed esecuzione delle reazioni analitiche, analisi dei dati con software dedicato e interfacciamento con i gestionali dei laboratori di analisi cliniche

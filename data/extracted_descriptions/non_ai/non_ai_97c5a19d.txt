@@ -1,0 +1,3 @@
+Il progetto prevede l¿implementazione di nuove procedure operative che prevedano strumenti di Realtà Aumentata.
+In particolare attraverso nuovi Visori AR le lavorazioni agli armamenti potranno essere seguite, guidate e supervisionate da remoto da un responsabile qualificato che, quindi, potrà gestire più ¿cantieri¿ contemporaneamente.
+Il progetto, inoltre, prevede la possibilità della formazione professionale on the job.

@@ -1,0 +1,9 @@
+Il progetto si articola in due interventi: il primo vede l¿attivazione di percorsi di formazione individuale per potenziare competenze specifiche, il secondo prevede la formazione del personale su competenze generali nell¿ambito dello sviluppo sicuro di software.
+
+La formazione tramite la piattaforma di e-learning ¿Pluralsight¿ sarà focalizzata a fornire corsi relativi al web development, machine learning e project management. Verranno identificati percorsi di formazione adeguati alla crescita individuale, e tesi a raggiungere specifici obiettivi professionalizzanti.
+
+L¿azienda è volta ad ulteriore miglioramento in tali ambiti attraverso l¿acquisizione di competenze generali relative allo sviluppo sicuro, attraverso creazione, gestione e test di codice che segua determinate regole internazionali per la messa in sicurezza delle informazioni in esso contenute. 
+Sotto questo profilo l¿azienda intende eseguire un intervento di formazione del personale interno, diviso in moduli dedicati:
+1)	Regole per lo sviluppo sicuro del codice (OWASP)
+2)	Metodologia di esecuzione di vulnerability assessment interni, di tipo applicativo e infrastrutturale
+La formazione verrà erogata da un personale altamente qualificato, in possesso delle certificazioni necessarie.

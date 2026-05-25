@@ -1,0 +1,1 @@
+“Il progetto proposto è indirizzato al mercato emergente della Realtà Virtuale immersiva basata sul tracciamento a 6 gradi di libertà sia della posizione dell’utente nello spazio, che delle sue mani, attraverso due metodologie di tracciamento. Il nome sarà PROJECT E.G.O. (Extended Global Observer)”

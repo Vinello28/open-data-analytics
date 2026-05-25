@@ -1,0 +1,17 @@
+Di seguito le soluzioni digitali previste che garantiranno il raggiungimento degli obiettivi previsti:
+-Microsoft SharePoint: rappresenta il cuore della collaborazione, consentendo la condivisione
+documentale e la gestione dei contenuti in un’unica piattaforma. Con SharePoint, i team potranno
+accedere alle informazioni aziendali in modo controllato e sicuro, indipendentemente dal luogo e dal
+dispositivo.
+-Microsoft OneDrive: con la sua archiviazione cloud integrata, OneDrive permette al personale di
+accedere ai file aziendali in qualsiasi momento, aumentando la produttività e migliorando la
+comunicazione tra team e collaboratori esterni.
+-Microsoft Teams: con tutte le sue componenti integrate permette a tutto il team di lavoro di poter
+lavorare in maniera congiunta all’interno di una moltitudine di strumenti che sono messi a disposizione
+5
+della piattaforma digitale di condivisione, si tratta dello strumento più completo di lavoro in gruppo oggi
+presente.
+-Microsoft Copilot: sfruttando l'intelligenza artificiale, Copilot si configura come un assistente virtuale
+che supporta il personale nei compiti ripetitivi, offrendo suggerimenti proattivi e automatizzando attività
+di routine per migliorare l’efficienza operativa.
+- Backup e Protezione Dati: il Datacenter Punto Com, con le sue

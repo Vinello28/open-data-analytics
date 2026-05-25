@@ -1,0 +1,1 @@
+Realizzazione di una piattaforma digitale di AI per aziende che vogliono creare automazione intelligente attraverso conversazioni in ogni canale di messaggistica e voice assistant, unificandone la gestione per favorire logiche di business offline.

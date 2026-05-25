@@ -1,0 +1,4 @@
+Il piano di investimento si incentra sulla realizzazione di un impianto per la produzione di conglomerato bituminoso destinato ad essere utilizzato come materiale nelle commesse di lavori stradali e di ripristini stradali all’interno delle commesse di realizzazione e manutenzione di acquedotti, gasdotti e fognature e per la parte eccedente alla vendita a terzi. Al fine di ridurre al massimo l’impatto ambientale saranno attuate le seguenti azioni:
+-	il macchinario sar&#224; realizzato con le migliori tecnologie disponibili, con i sistemi di automazione avanzati e con tutti i requisiti richiesti dal piano Transizione 4.0;
+-	il sito produttivo sar&#224; dotato di un sistema di tecnologie hardware/software per sfruttare al massimo la capacit&#224; produttiva dell’impianto fotovoltaico;
+-	il sistema prevede l’utilizzo di modelli predittivi (modelli intelligenti) per ottimizzare il funzionamento dell’impianto massimizzando l’autoconsumo.

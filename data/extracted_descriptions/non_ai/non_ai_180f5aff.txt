@@ -1,0 +1,5 @@
+Intesa srl è un’azienda specializzata nella progettazione e vendita di centri di lavoro e componentistica. L’azienda con il presente progetto mira, da un lato, ad introdurre nuovi applicativi finalizzati al potenziamento della digitalizzazione dell’impresa in ottica 4.0 tramite l’introduzione di un server in cloud e di software funzionali all’automatizzazione e l’efficientamento dei processi interni e, dall’altro, potenziare i propri servizi di assistenza al cliente attraverso tecnologie di manutenzione preventiva, predittiva e di realtà aumentata oltre ad aprirsi a un nuovo business relativo al ricondizionamento di schede elettroniche usate. 
+Dalla realizzazione di questi investimenti, inseriti all’interno di un programma generale per la transizione digitale dell’impresa, INTESA prevede di ottenere i seguenti benefici:
+-	Riduzione tempi di progettazione attraverso la digitalizzazione e automatizzazione dei processi interni e dei rapportini di intervento
+-	Ampliamento dell’offerta aziendale ed efficientamento dei servizi di assistenza al cliente
+-	Aumento della marginalità e del fatturato, anche grazie al potenziale ingresso dell’azienda su nuovi mercati

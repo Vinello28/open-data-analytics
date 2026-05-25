@@ -1,0 +1,5 @@
+Come da S3 indicate e ambiti art. 4 del bando, il progetto consta di formazione per:
+1-modellazione integrata (digital twin) e gestione di Big Data sul costruito per la sicurezza dei fruitori
+2-condivisione Cloud di progetti e dati
+3-studio di vulnerabilità e potenzialità del costruito mediante processi di simulazione (BIM)
+4-tutela e fruibilità ai fini didattici/turistici con uso di tecnologie di rilievo e stampa 3D (mentoring) e realtà aumentata.

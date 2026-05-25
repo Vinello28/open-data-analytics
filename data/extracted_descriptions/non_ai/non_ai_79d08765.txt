@@ -1,0 +1,4 @@
+Il progetto OASIS fa leva sulle tecnologie di monitoraggio sottomarino Internet of Underwater Things
+sviluppate da WSENSE e si propone di estendere le sue attuali capacità con l’obiettivo di fornire un sistema
+completo per l’osservazione autonoma di ambienti sottomarini, facile da dispiegare, in grado di funzionare
+autonomamente per diversi mesi e di catturare parametri chimico-fisici, video e audio.

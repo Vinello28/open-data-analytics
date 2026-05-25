@@ -1,0 +1,1 @@
+Lo sviluppo di una piattaforma basata su un motore di ricerca per attività di analisi su contratti pubblici e bandi pubblici.

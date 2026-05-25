@@ -1,0 +1,1 @@
+realizzazione di un sistema intelligente di analisi dati provenienti da diverse fonti, tra cui CRM interni e banche dati ministeriali, per consentire interrogazioni semplificate tramite interfacce human learning

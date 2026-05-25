@@ -1,0 +1,8 @@
+L'iniziativa prevede l'acquisizione di un¿applicazione mobile multipiattaforma (iOS/Android) per la visualizzazione di contenuti 2D e 3D con tecniche di realtà aumentata per libri stampati.
+Più in particolare l'applicazione consentirà di:
+1) implementare il riconoscimento dei QR Code presenti nei libri e la visualizzazione dei contenuti
+associati;
+2) implementare il riconoscimento di immagini e illustrazioni (presenti sia in copertina che all'interno del
+libro) con tecniche di ¿natural feature detection¿;
+3) fruire di contenuto aumentato che verrà opportunamente registrato coerentemente alle immagini e ai QR Code riconosciuti in relazione alle seguenti categorie: immagini, video, audio, modelli 3D, animazioni, effetti grafici.
+L'impresa intende altresì procedere con la progettazione e lo sviluppo di un sito di e-commerce nonchè integrarlo con i principali social network.

@@ -1,0 +1,4 @@
+Il progetto ha come obiettivo Migliorare la caratterizazione e reporting dello stato e delle tendenze degli habitat
+e della biodiversità vegetale in Europa utilizzando le serie temporali disponibili. Stabilire una pipeline per la
+raccolta di tali serie temporali in futuro. Migliorare la standardizzazione e l'utilizzabilità pratica per i
+conservation-managers e i decision-makers

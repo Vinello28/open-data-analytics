@@ -1,0 +1,1 @@
+Implementazione di una realta virtuale immersiva che ricrea un paesaggio sonoro, offrendo la possibilita di partecipare a distanza ad un concerto in un sito naturalistico.

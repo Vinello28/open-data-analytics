@@ -1,0 +1,1 @@
+Il progetto si fonda su processi di raccolta di big data sulla temperatura del mare basati sulla citizen science e ha come obiettivo l'elaborazione, la visualizzazione e la condivisione di tali dati attraverso un innovativo e interattivo sistema di data visualization.

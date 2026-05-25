@@ -1,0 +1,4 @@
+Il progetto ha lo scopo di combinare, in un unico ed innovativo dispositivo medico
+portatile, l'approccio strutturale dello screening ecografico per il rilevamento delle alterazioni vascolari con
+l'approccio funzionale basato su modelli matematici per l'analisi della forma d'onda pressoria per una migliore
+valutazione del rischio cardiovascolare

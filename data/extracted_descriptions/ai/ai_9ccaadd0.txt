@@ -1,0 +1,2 @@
+Questo progetto mira a democratizzare la tecnica Image Scanning Microscopy (ISM) mediante la realizzazione di un modulo di scansione completamente ingegnerizzato, economico e di facile utilizzo (PRISM addon).
+Le attività previste includono la progettazione di componenti elettronici e optomeccanici per la scansione del campione e la raccolta del segnale, di un sistema dedicato di acquisizione dati, di algoritmi di ricostruzione dell'immagine e di analisi del dato temporale basati su AI.

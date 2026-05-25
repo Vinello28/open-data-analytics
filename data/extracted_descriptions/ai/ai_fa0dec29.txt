@@ -1,0 +1,4 @@
+Realizzazione di un sistema software per l'analisi delle competenze,
+l'orientamento e job placement dei job seeker. Sviluppo di una
+piattaforma modulare basata su AI e Blockchain. Partner ITLogiX con
+una quota del 87% e MIRIUM con una quota del 13%.

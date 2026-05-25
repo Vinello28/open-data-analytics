@@ -1,0 +1,14 @@
+Per meglio rappresentare la vasta gamma di servizi che la Nostra società propone ai cantieri navali, i cui clienti sono spesso società o persone fisiche straniere, intendiamo realizzare strumenti atti a visualizzare, amplificando la realtà virtuale, le diverse fasi di realizzazione realizzare su yacht di varie tipologie.
+
+L¿obiettivo è poter proporre ai destinatari finali i servizi in realtà virtuale amplificata permettendo loro di essere all¿interno delle lavorazioni da noi eseguite rendendo così vivo e comprensibile ciò che andiamo a proporre.
+
+Il progetto, che comprenderà l¿applicazione di studi e l¿utilizzo di una serie di strumenti che seppur commerciali necessitano di un¿implementazione tecnologica, si svilupperà in tre momenti:
+
+1 - sviluppo del software e acquisizione dell¿hardware, visori tridimensionali compresi:
+a)	Fase architetturale: verranno valutate tutte le possibilità tecniche per rendere la struttura funzionale e semplice, le tipologie di connessione e il metodo lavorativo in fase di utilizzo. 
+
+b)	Fase IT: si studieranno i pacchetti hardware da implementare e le strutture di ricezione da adottare negli spot itineranti.
+
+2 ¿ resa tridimensionale delle immagini di processi lavorativi dei servizi della Ns. società.
+
+3 ¿ applicazione con dimostrazioni ai clienti.

@@ -1,0 +1,11 @@
+Il progetto ha come obiettivo la realizzazione di un sistema di analisi e manutenzione predittiva per impianti industriali, l¿asset mangement è un elemento fondamentale dell¿industria 4.0 
+Il progetto ha come obiettivo la realizzazione di una piattaforma web che consenta di:
+Fare una manutenzione proattiva che porti ad un risparmio sui costi (diminuizione dei pezzi da sostituire) e  all¿efficientamento degli impianti (riduzione dei tempi di fermo macchina)
+Migliori i tempi di servizio nei confronti dei clienti (soprattutto in ambiti B2B quali la componentistica)
+Analizzare il processo logico non solo della singola macchina ma dell¿intera produzione (processi e macchina anche non fisicamente collegati)
+Analizzare da remoto l¿as is e la previsione
+Gli strumenti attraverso cui garantire al cliente tutto questo saranno:
+Algoritmi supervisionati (basati su dati storici) e non supervisionati (basati su reti neurali) per la manutenzione predittiva
+Cruscotti, Indici e allarmi per l¿analisi e la gestione del sistema
+Strumenti di pianificazione dell'intervento basato sugli algoritmi
+Il sistema memorizzerà ed elaborerà i dati degli impianti, generando reportistica web, distribuile anche via mai,l al fine di potenziare le prestazioni e garantire max affidabilità e sicurezza della filiera.

@@ -1,0 +1,4 @@
+Sperimentare un robot collaborativo intelligente in grado di svolgere le finiture superficiali:
+-  Riconoscere una superficie 3D 
+-  Generare una traiettoria tramite algoritmo intelligente 
+-  Identificare tramite visione intelligente caratteristiche di superfici non conformi

@@ -1,0 +1,4 @@
+Il progetto si prefigge di innovare il processo di assistenza superando le attuali criticità e adottando soluzioni
+tecnologiche a supporto che consentiranno di tracciare gli strumenti di pesa tramite QR Code, fornire
+assistenza remota anche grazie a tecniche di realtà aumentata, generare flussi documentali integrati con le
+piattaforme già in uso presso l’azienda

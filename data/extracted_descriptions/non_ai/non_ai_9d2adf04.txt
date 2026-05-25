@@ -1,0 +1,6 @@
+Si propone la realizzazione di Virtual Tours a 360°, interattivi HTML5 per immobili.
+Un Virtual Tour è costituito da una serie di immagini panoramiche HD, dotato di hotspot interattivi contenenti informazioni o input di spostamento. Essi saranno accessibili da qualsiasi dispositivo (smartphone, pc o visore VR), pubblicati in un sito web o in un portale, condivisibili tramite link.
+L¿obiettivo è l¿incremento di interesse verso il servizio offerto dall¿azienda, per mezzo di nuovi strumenti di comunicazione, che ottimizzino i motori di ricerca (SEO) nel mercato digitale.
+I vantaggi consistono nell¿offrire al cliente un più alto contenuto di informazioni dell¿immobile in vendita, ed il coinvolgimento di più persone nella sua scelta (i contenuti saranno condivisibili).
+Il cliente potrà realizzare l¿esperienza virtuale ogni volta che ne ha bisogno, con il contemporaneo risparmio dei tempi commerciali da parte dell¿agenzia, grazie alla possibilità di individuare le persone realmente interessate all¿immobile (verificando le pre-visite ai Virtual Tours).
+Il tour sarà di utilizzo intuitivo e totalmente user-friendly anche per chi non ha confidenza con l¿utilizzo di tecnologie di realtà virtuale.

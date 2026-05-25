@@ -1,0 +1,6 @@
+ORWELL S.r.l. ha per oggetto lo sviluppo, la produzione e la commercializzazione di prodotti e servizi innovativi ad alto valore tecnologico, e più specificamente applicativi di Realtà Virtuale e Mixed Reality realizzati attraverso lo sviluppo e la produzione di software e simulazioni 3D avanzate in termini di user experience. Negli anni l¿azienda, oltre a strutturare il proprio catalogo prodotti nel segmento Computer Graphics (CG), si è specializzata nella Realtà Virtuale (VR), intuendo le enormi possibilità di crescita di questo settore: la realtà virtuale si sta infatti imponendo come settore a più rapida crescita nei prossimi anni.
+Il presente progetto si inserisce nel piano investimenti aziendale; in particolare, sono 3 gli obiettivi del framework VR: modernizzare i dispositivi HW, migliorare il sistema di scambio dati e aggiornare i pacchetti SW per facilitare la produzione di asset 3D. 
+Il piano acquisti prevede:
+1. Un un nuovo sistema infrastrutturale per archiviazione veloce e condivisione dati che sincronizzi velocemente i file di progetto VR (di grandi dimensioni e residenti su più computer)
+2. Hardware aggiornato per VR (nuova generazione di visori, schede video VR ready ed accessori)
+3. Software di produzione di Asset 3D avanzati (con tools e funzionalità aggregate)

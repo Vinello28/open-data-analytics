@@ -1,0 +1,1 @@
+Cooperative Research Project – sviluppare un algoritmo automatico per l’analisi di una rete di gravimetri quantistici permanenti, con lo scopo di separare, all’interno delle variazioni di gravità osservate, i segnali geofisici locali da quelli regionali e di integrare le variazioni di gravità regionali con osservazioni di dati satellitari.

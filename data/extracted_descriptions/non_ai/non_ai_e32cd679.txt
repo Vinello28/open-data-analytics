@@ -1,0 +1,1 @@
+Lo scopo del progetto è lo studio, sviluppo e la realizzazione prototipale di un sistema di alimentazione autonoma per sensori ambientali basato su le tecnologie dell’energy harvesting e caratterizzato da una ridotta “carbonfootprint”. A tal proposito verranno utilizzati come sistemi di accumulo, non le classiche batterie litio ioni o litio pomeri, ma dei supercapacitori.

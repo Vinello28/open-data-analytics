@@ -1,0 +1,1 @@
+Questo progetto si concentra sullo sviluppo di un robot collaborativo specificamente progettato per automatizzare le operazioni in colture verticali.  L’obiettivo principale è incrementare l’efficienza e ridurre i costi di gestione, affrontando le sfide del settore legate all’ottimizzazione delle operazioni e alla necessità di un monitoraggio continuo.

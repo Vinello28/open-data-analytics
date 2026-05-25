@@ -1,0 +1,1 @@
+Realizzazione di un software artificiale che riconoscera quali parti delle rappresentazioni bidimensionali e tridimensionali delle opere sono toccate e che rilascera contenuti multimediali

@@ -1,0 +1,6 @@
+Il progetto prevede la modellazione di ambienti e oggetti per realtà virtuale  o realtà aumentata con le seguenti finalità:
+in fase di preventivazione poter mostrare, tramite tour virtuali et similia, le dinamiche principali dell¿evento in modo da poter lavorare sui dettagli che lo comporranno. Dalla realizzazione del set di uno Studio di produzione  video per un live streaming, a un evento ad alta affluenza come congressi o fiere;
+durante l¿evento per proporre esperienze immersive a scopi emozionali o formativi.
+
+A questo scopo provvederemo ad effettuare un upgrade dell¿infrastruttura di rete tramite router e switch di ultima generazione che consentano l¿implementazione di NAS a bassa latenza ed alta velocità internet [ Intranet 10 Gb] ed esterna per la condivisione in cloud [internet fibra 1Gbps]. Nuove macchine dalla grande potenza di calcolo per la composizione di una render farm.
+Adeguamento degli spazi comuni per lo sviluppo, i test in tempo reale e le presentazioni al cliente delle event experience.

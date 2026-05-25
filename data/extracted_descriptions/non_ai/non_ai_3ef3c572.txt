@@ -1,0 +1,7 @@
+La soluzione integrata si pone come l'obiettivo di diventare l'analytics di riferimento delle aree fieristiche e prevede:
+- attraverso appositi rilevatori (sensori infrarossi, fotocamere,..) monitoraggio degli ambienti e movimenti delle persone all¿interno dell¿area fieristica, tracciamento dello sguardo e area di visione degli utenti, controllo tempo stazionamento da parte degli utenti di fronte agli espositori, sistema analisi statistica movimenti delle persone con riconoscimento facciale, strumenti interattivi di reportistica e statistica, applicazione mobile per gli addetti ai lavori per il monitoraggio in tempo reale;
+- attraverso app mobile condivisione di contenuti multimediali attivabili inquadrando aree/stand di interesse (riconoscimento automatico delle immagini),mappa 3d con realtà aumentata del percorso per raggiungere stand e zone di interesse, scambio materiale e contatti tra espositori e utenti;
+- controllo accessi multiprofilo per operatori, espositori e utenti ai vari spazi fieristici (parcheggio, uffici, centrali termiche...);
+- gestione eventi e sessioni a numero chiuso, con check-in e check-out e relativa prenotazione attraverso applicazione mobile;
+- API di interfacciamento per integrazione piattaforme esterne.
+- Progettazione e sviluppo piattaforma cl

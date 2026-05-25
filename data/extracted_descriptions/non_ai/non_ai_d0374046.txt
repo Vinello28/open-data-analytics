@@ -1,0 +1,3 @@
+Il progetto Laelia 4.0 si basa sull’idea di trasformare un prodotto per il riscaldamento domestico, come le stufe a pellet, in un prodotto SMART, commercializzabile con un
+canale prevalentemente diretto, attraverso una piattaforma e-commerce dedicata, connessa ad un configuratore mobile e ad un’applicazione di realtà aumentata che
+consenta al potenziale cliente di visualizzare il prodotto scelto all’interno del proprio ambiente domestico, valutandone ingombri e compatibilità di stile;

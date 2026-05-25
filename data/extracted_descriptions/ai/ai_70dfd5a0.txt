@@ -1,0 +1,1 @@
+Realizzazione di un Robot volto ad analizzare il campo magnetico di una risonanza magnetica (Shimming passivo) in maniera del tutto automatico.

@@ -1,0 +1,1 @@
+Il progetto studia la fattibilità di un sistema di visione 3D per rilevare la posizione di componenti industriali, da prelevare con un robot per lavorazione o confezionamento.

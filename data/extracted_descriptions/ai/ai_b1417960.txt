@@ -1,0 +1,7 @@
+Il progetto si prefissa l¿ obiettivo di guidare l¿azienda nel processo di analisi, progettazione e sviluppo di un applicativo ad alto contenuto innovativo per la creazione di una nuova strategia commerciale basata sui più moderni strumenti di digital marketing, analisi di big data e applicazione di algoritmi di machine learning. Inoltre l¿ Innovation Manager si occuperà di formare l¿azienda sulle best practice per agevolare il processo di innovazione.
+
+Il tool sviluppato consentirà all¿ azienda di raccogliere in un unico ambiente tutti le informazioni ed i contatti ottenuti durante la sua attività al fine di individuare possibili sviluppi commerciali tramite integrazione con dati da fonti pubbliche, elaborati da algoritmi di intelligenza artificiale.
+
+Un' innovativa interfaccia grafica consentirà una intuitiva, agile ed efficace navigazione dei risultati ottenuti.
+
+Il software consentirà all¿ azienda di supportare il proprio processo di trasformazione tecnologica e di innovazione, aprendo a nuove opportunità di business e migliorando le strategie di gestione aziendale. Tale strumento potrà successivamente essere esteso con funzionalità CRM e Digital Marketing per diventare un prodotto che l¿ azienda proporrà ai propri clienti.

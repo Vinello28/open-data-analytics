@@ -1,0 +1,6 @@
+Il piano e l’intervento attuativo presentati da Iperverde S.R.L. mirano ad accelerare la trasformazione digitale dell’azienda.
+Obiettivi e Aree di Intervento
+L’obiettivo principale è la migrazione dei principali software aziendali su piattaforme cloud, per consentire l’accesso remoto e migliorare l’efficienza operativa. Attualmente, l’azienda utilizza sistemi locali (Microsoft Dynamics Nav e Power BI) che limitano l’operatività. L'intervento attuativo punta a migrare a Microsoft Dynamics Business Central e Microsoft Fabric, oltre ad adottare DocFinance per la gestione della tesoreria, aumentando così l’automazione, l’integrazione e l’accessibilità. Gli obiettivi sono definiti secondo KPI misurabili: completamento delle migrazioni cloud, piena integrazione dei software, miglioramento dell’accesso remoto (dal 90% al 99%) e formazione completa del personale.
+Soluzioni Tecnologiche
+Microsoft Dynamics Business Central (SaaS): ERP in cloud che gestisce contabilità, vendite, magazzino e progetti. La soluzione offre alta integrazione con Microsoft 365, un’interfaccia user-friendly e funzionalità di intelligenza artificiale (Copilot) per automatizzare operazioni ripetitive. La scelta del cloud riduce i costi di infrastruttura e supporta l’adozione di pratiche lavorative flessibili.
+Micros

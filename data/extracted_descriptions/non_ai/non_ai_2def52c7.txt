@@ -1,0 +1,4 @@
+L’obiettivo del progetto è raggiungere la capacità di produrre video VR/AR (realtà virtuale/aumentata), con ibridazione di contenuti 360° e lineari, volta ai servizi per la cultura, lo spettacolo, la documentaristica e la formazione. Creazione di narrazioni aumentate, immersive, e interattive, in cui lo spettatore è al centro della narrazione e può interagire con essa. Il progetto prevede la pianificazione e realizzazione di un servizio destinato alla produzione di contenuti audiovisivi per supporti VR, servizio che a sua volta si articolerà in due diverse tipologie di proposte: 
+1. realizzazione di contenuti video 360 in base alle richieste dei clienti;
+2. progettazione interna di contenuti e successiva proposta a potenziali enti pubblici\privati interessati alla produzione.
+La finalità è quella di fornire contenuti innovativi in un momenti di espansione di questo tipo di tecnologia.

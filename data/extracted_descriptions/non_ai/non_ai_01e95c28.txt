@@ -1,0 +1,8 @@
+I temi di più importante interesse oggi per la realizzazione della visione dell'industria 4.0: 
+¿	cyber-physical systems
+¿	sicurezza digitale e blockchain
+¿	workplace safety, etica e complementarità nella collaborazione uomo-macchina
+¿	intelligenza artificiale e multiagenti
+¿	Edge computing e IoT.
+Uno dei principali limiti alla introduzione fattuale di tali soluzioni tecnologiche è la ancora troppo grande necessità di infrastrutture di calcolo centralizzate, complesse e costose. Alcune soluzioni sono disponibili ma non si rivolgono ad oggi ad un panorama adatto alle PMI, come più tipico nel territorio marchigiano, ma anche europeo. 
+L¿ azienda Eletica si vorrebbe collocare in questo mercato internazionale. Grazie alla consulenza dell' Innovation Manager si prevede lo sviluppo di una nuova linea di prodotti 4.0 basati su elettronica embedded, che sposti il computing per le sopra menzionate tecnologie su sistemi dedicati, distributi, a costituire un tessuto di calcolo pervasivo e ubiquo oggi noto come Edge computing. Questo è previsto anche dai nuovi standard industriali come IEC 61499, che mira ad una estensione dello scopo delle sue direttive e pratiche anche a campi come le smart grid e l¿automazione in campo edilizio (esempio, Building Management Systems).

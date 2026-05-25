@@ -1,0 +1,1 @@
+Il progetto prevede l'acquisto di un software che consente lo sviluppo di applicazioni che utilizzano il riconoscimento ed il monitoraggio delle immagini e della realtà aumentata della geo-localizzazione.In aggiunta al software si intende effettuare un corso chiamato Angular 5, che ha come obiettivo quello di trasmettere solide basi architetturali del framework .

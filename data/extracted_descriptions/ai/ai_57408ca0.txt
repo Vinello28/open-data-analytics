@@ -1,0 +1,9 @@
+Attraverso la nuova tecnologia è possibile progettare a distanza con il visore 360° Oculus Rift e si può far vivere l'esperienza di "essere all'interno" degli ambienti virtuali a 360 gradi dei progetti di ristrutturazione prima che vengano realzzati.  L'Oculus Rift supporta esperienze in scala complete con sei gradi di libertà, per un entrare e vivere nel realismo dei progetti che ancora devono essere realizzati.
+Per poter realizzare questo progetto di virtualizzazione serve oltre alla comunicazione di un sito internet/facebook:
+- Visore 360° Oculus Rift - Occhiali per la realtà virtuale per entrare e vivere i progetti di ristrutturazione prima che siano realizzati. 
+- Il software Autodesk Revit® per il BIM (Building Information Modeling) include funzionalità per la progettazione architettonica e strutturale.
+Oltre a collegare il progetto con la realtà virtuale il software BIM permette di accedere ai bandi pubblici.
+- PC portatile ottimizzato per supportare il Visore 360° di realtà virtuale Oculus Rift
+- Dropbox business 
+- Cellulare Xiaomi
+Inoltre per poter interagire completamente a livello digitale si implementa il sistema di fatturazione elettronica tramite piattaforma web - Fattura24 - Servizio che consente la crescita tecnologica nei processi interni ed esterni dell¿impresa

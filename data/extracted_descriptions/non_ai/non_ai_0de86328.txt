@@ -1,0 +1,8 @@
+Ci sono 3 obiettivi
+1 revisione di tutti i processi di gestione delle informazioni e di passaggio di informazioni tra i colleghi, redesign delle attività, ridefinizione dei bisogni e delle aspettative dei clienti tramite workshop dedicati
+2 implementazione di un sistema CAFM (computer-aided facility management) e elaborazione di un sistema di informatizzazione per l¿integrazione con l¿ERP (Enterprise Resource Planning) in uso
+3 creazione di un sistema di taggature finalizzato alla gestione digitalizzata in tempo reale della posizione e attività dei manutentori presso i clienti.
+
+Benefici: strutturare, pianificare e tracciare in real time tutte le attività core aziendali, programmare riparazioni e manutenzione preventiva, monitorare gli ordini di lavoro e aderire agli standard di conformità, gestire i turni dei dipendenti e aggregare i dati affinché i processi manutentivi possano essere monitorati, studiati e migliorati, favorire la trasparenza verso il cliente permettendo di verificare in tempo reale la presenza dei tecnici e l¿ottemperanza agli impegni contrattuali.
+
+Vengono forniti: analisi di processo, facilitazione tramite gamification e metodologie di service design e design thinking, formazione del personale, scelta del miglior fornitore di software, supporto al cha

@@ -1,0 +1,8 @@
+Il progetto aziendale consiste nell'acquisto di un'etichetta digitale adesiva da applicare sulle bomboniere per cerimonie. La suddetta etichetta contiene un codice Marckar che inquadrato attraverso l'app di un qualsiasi smartphone permette di visualizzare video, foto e oggetti in realtà aumentata.
+Come funziona:
+Attraverso il sistema di riconoscimento su cui si basa la tecnologia dell¿Augmented Reality sarà possibile associare ad un codice univoco (identificato con l¿adesivo Marckar) contenuti multimediali personalizzabili e modificabili in qualsiasi momento collegandosi ad una propria area riservata.
+
+Investimenti previsti:
+Acquisto di codici digitali per le etichette,
+Progettazione APP per smartphone,
+Progettazione Sito per la vendita e la pubblicizzazione del prodotto

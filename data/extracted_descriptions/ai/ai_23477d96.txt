@@ -1,0 +1,8 @@
+Il progetto Face Features avrà l¿obiettivo di creare un repository che raccolga dati e immagini delle caratteristiche somatiche umane provenienti da fonti eterogenee al fine di procedere alla loro segmentazione e classificazione.
+Nel repository così ottenuto, i processi di analisi dati e simulazioni di scenario, oltre alle tecniche tradizionali di reporting e data analytics, si sperimenteranno sistemi di machine learning, e nello specifico si adotterà l¿approccio Deep Learning basato sull¿utilizzo di particolari reti neurali multilivello.
+Il ruolo dell¿Innovation Manager sarà quello di coordinare il gruppo di lavoro favorendone l¿accrescimento nell¿analisi dei big data grazie alle competenze acquisite nelle pluriennali esperienze di gestione progetti in tale ambito.
+Il manager attivato sarà il Sig. Federico Villoni.
+Le prestazioni verranno fornite nel periodo: 01/01/2020 ¿ [31/12/2020] per un numero di giornate uomo di impegno del manager qualificato pari a n. 75.
+Il compenso per la prestazione ammonterà in totale ad euro 60.000,00 (IVA Esclusa).
+Trasformazione tecnologica e digitale attraverso l¿applicazione delle seguenti tecnologie abilitanti:
+      - Big data e analisi dei dati.

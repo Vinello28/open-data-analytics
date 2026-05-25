@@ -1,0 +1,7 @@
+Trya è la Società che ha ideato la nuova piattaforma “Snapfeet” che sfrutta algoritmi di acquisizione di immagini avanzate per creare ricostruzioni 3D del piede umano incredibilmente accurate mediante l’utilizzo di un semplice smartphone.
+Questo significa maggiori profitti per i venditori di scarpe online, che operano in un mercato sempre più difficile a causa dell’aumento da parte dei clienti di comportamenti come lo showrooming e gli acquisti multipli dello stesso articolo che spesso è destinato ad essere restituito.
+Con “Snapfeet” è possibile introdurre la migliore tecnologia di scansione mobile per migliorare l’esperienza d’acquisto dei clienti ed ottenere la misura perfetta dei piedi del cliente.
+Durante lo sviluppo sono emerse varie criticità: sebbene la forma 3D fosse molto fedele, i test hanno eviden-ziato che la scala non sempre è sufficientemente accurata. Siccome errori di scala creano errori nel consiglio taglia e quindi inficiano le performance del servizio, nel 2020 TRYA ha svolto un lavoro di ricerca di soluzioni innovative per aumentare l’accuratezza del sistema.
+TRYA ha quindi deciso di sviluppare una soluzione propria e ha avviato due nuovi rami del progetto:
+1. Realizzazione del software di realtà aumentata;
+2. Realizzazione di modelli 3D di scarpe (previa scan

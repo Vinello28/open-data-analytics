@@ -1,0 +1,7 @@
+Progetto di realizzazione di un sito e-commerce per la commercializzazione di un catalogo di complementi d'arredo Made in Italy, frutto delle esperienze di Perin Spa nel settore del mobile. Il Progetto si compone di 4 macro attività:
+-Affiancamento di un consulente esperto in soluzioni di e-commerce, con lo scopo di approfondire tematiche di tipo:
+a)Tecnico, relative alle soluzioni tecnologiche e dell'architettura del sito e-commerce
+b)Promozionale, per la valutazione di aspetti dell'approccio al mercato, di strategia e tecniche di promozione digitale(SEO, SEM, Social Media)
+-Realizzazione di un sito e-commerce basato sui più recenti standard tecnologici, con forte orientamento al marketing digitale, ottimizzato per dispositivi mobile e che consenta forme di pagamento in linea con le più recenti innovazioni del settore dei sistemi di pagamento.
+-Arricchimento della piattaforma di e-commerce con un sistema evoluto di realtà virtuale e realtà aumentata che permetta al cliente di valutare preventivamente l'aspetto dei prodotti direttamente inseriti nel proprio ambiente casalingo.
+-Acquisto di terminali hardware per la gestione delle attività, sia da postazioni fisse con utilizzo di personal computer fissi, sia da postazioni remote con l'utilizzo di PC portatili e smartphone.

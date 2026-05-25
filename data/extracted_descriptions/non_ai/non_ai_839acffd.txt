@@ -1,0 +1,2 @@
+Nuova cassa automatizzata vocale per lavanderia self service, con prenotazione delle lavatrici tramite applicativo dal cellulare con predisposizione dei flussi per l'agenzia dell'entrate, pagamento tramite carta di credito - bancomat o/e NFC cellulare e notifica sul proprio cellulare, istantanea al termine del lavaggio.
+La cassa verrà progettata in modo tale che vi sia una guida vocale che istruisca le persone utilizzatrici sui vari passaggi per non commettere errori.

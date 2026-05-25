@@ -1,0 +1,7 @@
+Progettazione e realizzazione di un sistema web in grado di automatizzare e semplificare la produzione di Realtà Aumentata applicata a svariati supporti fisici.
+IBS S.r.l. è un'azienda che opera nell'ambito del marketing digitale, realizzando e commercializzando prodotti e servizi in Realtà Aumentata, sfruttando questa tecnologia con l'obiettivo di migliorare le performance comunicative e gestionali dei propri clienti.
+Il sistema si identifica con una piattaforma web che garantirà il raggiungimento di una serie di obiettivi fondamentali per la digitalizzazione aziendale:
+- Produzione automatizzata della Realtà Aumentata su svariati supporti fisici
+- Semplificazione del processo di creazione e abbinamento Marker 
+- Miglioramento dei processi aziendali interni
+Il sistema prevede inoltre la creazione di un pannello per la visualizzazione e la gestione di tutti i dati abbinati alle operazioni di produzione Marker associati alla Realtà Aumentata.

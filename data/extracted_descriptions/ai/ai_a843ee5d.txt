@@ -1,0 +1,3 @@
+l’erogazione di servizi tecnologici avanzati ed innovativi finalizzati alla “Valutazione delle
+performance di un algoritmo di identificazione e segmentazione di noduli polmonari da immagini di
+tomografia computerizzata in programmi di screening del tumore polmonare".

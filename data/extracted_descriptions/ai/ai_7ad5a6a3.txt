@@ -1,0 +1,1 @@
+Il progetto riguarda un sistema di navigazione autonoma per robot mobili

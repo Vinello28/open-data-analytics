@@ -1,0 +1,2 @@
+Utilizzo di un'applicazione di Realt? Aumentata  che permette di migliorare tutte le attivit? di manutenzione, revisione, riparazione sul campo dei robot rasaerba.
+La soluzione  permette all'utente di visualizzare informazioni aggiuntive, sugli oggetti ripresi da webcam di tablet e smartglasses, sulla base degli ordini di lavoro da svolgere e delle regole di sicurezza che questi impongono. Una volta identificato un oggetto attraverso il suo marker (un ?tag? o l'oggetto stesso),  sovrappo

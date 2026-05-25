@@ -1,0 +1,1 @@
+Implementazione di un format di mostra in realta virtuale immersiva sulla nebbia fruibile all’interno di Musei e Gallerie d’Arte

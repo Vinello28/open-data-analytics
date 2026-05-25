@@ -1,0 +1,8 @@
+Il progetto si articolerà come segue:
+1.	Integrazione delle tecnologie di big data/AI nei processi aziendali dei clienti Rulex. L¿adozione di tali tecnologie innovative comporta un cambiamento pervasivo all¿interno delle società, a livello tecnologico, organizzativo e di competenze. Il mio intervento sarà focalizzato nel migliorare tale processo nel suo complesso, con un focus particolare su aspetti di privacy (fondamentali nei processi di Intelligenza Artificiale, come spiegato nel GDPR) e in alcuni settori specifici (per es. IT Travel).
+2.	Supporto scaling up aziendale. Tale processo può essere favorito dall¿adozione di diverse politiche che devono essere individuate e implementate tra le quali:
+-	Definizione di Strategie di Partnership
+-	Pricing Definition
+-	Definizione e targetizzazione Value Proposition
+3.	Definizione e implementazione di processi di open innovation: co-creazione di contenuti con i propri partner di settore, individuati tramite opportuni processi di qualificazione (competenze, trust, mercato di riferimento, dominio...)
+4.	Definizione e implementazione di programmi di education / academy: la formazione deve essere un motore di svolta sia tra i clienti sia tra i partner affinché essi possano implementare / sviluppare soluzioni ad hoc.

@@ -1,0 +1,5 @@
+Il progetto si propone di definire ed implementare un’infrastruttura software per la realizzazione di sistemi di dialogo in ambienti virtualizzati nell’ambito dei beni culturali allo scopo di realizzare una “esperienza 3D” relativa ai siti culturali, selezionati tra quelli presenti nella Regione Campania. 
+
+In particolare, l’esperienza verrà presentata agli utenti finali attraverso l’utilizzo di visori per la realtà virtuale, attraverso cui verrà mostrata una ricostruzione 3D degli ambienti e/o delle opere che il sito espone, consentendo al visitatore di navigare all’interno dell’area e di interagire con un agente virtuale capace di soddisfare il suo bisogno informativo. 
+
+Tali “tour” virtuali verranno commercializzati in loco e online (su piattaforma Oculus) a clienti finali e in franchising. Inoltre, l’infrastruttura software e la base di conoscenza sviluppate fungeranno da base per la creazione di “esperienze 3D” ad hoc da realizzare su commissione per siti culturali pubblici e privati.

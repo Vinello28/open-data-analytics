@@ -1,0 +1,4 @@
+L¿azienda AR Engineering specializzata nella progettazione di sistemi meccanici complessi intende integrare la propria offerta di servizi con sistemi avanzati di simulazione e virtualizzazione fruibili anche attraverso piattaform web. Nello specifico l¿azienda intende introdurre nuove tecnologie AR/VR per il supporto alle fasi di progettazione e co-design di sistemi cinematici. La possibilità di avere dei modelli matematici navigabili su piattaforme web-based permette una progettazione collaborativa e simultanea anche con utenti che non hanno a disposizione software specifici di progettazione.
+Attraverso la realizzazione di questo progetto l¿azienda intende:
+1. aumentare la propria gamma di servizi includendo nei servizi di progettazione anche quello della simulazione attraverso sistemi di realtà virtuale
+2. sviluppare per i propri clienti un servizio di facile accesso per la gestione dei contenuti progettuali e modelli 3d

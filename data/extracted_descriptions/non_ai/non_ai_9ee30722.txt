@@ -1,0 +1,12 @@
+Sulla base della tecnologia Kimap, sviluppata e brevettata da Kinoa, si sviluppano le attività di mappatura, data science e navigazione che costituiscono il core business dell¿azienda. Tali attività sfruttano tecnologie all¿avanguardia atte alla mappatura, e quindi all¿estrazione di dati, in loco. 
+Le attività di mappatura si svolgono in maniera innovativa grazie all¿uso dell¿app Kimap, installabile su smartphone e tablet, di tecniche avanzate di fotogrammetria aerea e a terra, della tecnologia LiDAR e di beacons per la georeferenziazione indoor. I dati vengono monitorati e elaborati in tempo reale dagli operatori sul luogo e in remoto.
+Le attrezzature necessarie sono:
+Drone SAPR per attività critiche outdoor di ripresa aerea 
+Visore per la realtà virtuale per il pilotaggio del drone 
+Fotocamera 4K per la fotogrammetria a terra
+Modulo LiDAR per attività di mappatura 2D indoor e outdoor
+Tablet e smartphone con Kimap e ARKit e CoreML 
+Smartwatch per la georeferenziazione e crowdmapping indoor con i beacons
+Portatili per l¿analisi e il monitoraggio dati in loco durante le attività di mappatura
+Beacons per la georeferenziazione indoor in stazioni, ospedali e mall tramite tecnologia Bluetooth LE 4.0/4.2 
+Fascia Bluetooth EEG

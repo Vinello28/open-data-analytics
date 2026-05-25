@@ -1,0 +1,1 @@
+chip di registrazione di segnali neurali da utilizzare all’interno di un dispositivo medico impiantabile per la stimolazione cerebrale profonda per il trattamento di malattie neurologiche

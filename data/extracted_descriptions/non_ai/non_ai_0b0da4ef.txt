@@ -1,0 +1,9 @@
+Il complesso progetto che la Elsamec sta realizzando, relativo ai mercati delle serrande e delle porte, si compone come segue:
+- Ottenimento del brevetto per sistema di sicurezza paracadute denominato ¿DISPOSITIVO DI ARRESTO AMMORTIZZATO PER SERRANDE AVVOLGIBILI¿¿¿La domanda è stata depositata il 30/11/2021 e protocollata con numero 
+02021000030353. La Elsamec sarà la prima azienda ad utilizzare tale dispositivo in ambito industriale.
+- Ideazione e perfezionamento di un motore per porte rapide. Industrializzazione ed
+allestimento dello stesso al fine di ottimizzare i cicli di lavorazione.
+- Integrazione di un sistema di visione a realtà aumentata finalizzato a rilevare in tempo reale accessi veicolari o pedonali, capace di interagire con la  ovimentazione della serranda a valori
+pre-impostati (modificabili da remoto tramite cloud).
+- Montaggio e connessione dell¿elettroriduttore su porta veloce. Tale operazione meccanica permetterà di svincolare la velocità di rotazione dell¿albero di uscita dell' elettroriduttore da quello di avvolgimento della porta, usando come trasmissione una coppia di corone ed una
+catena. Non occorrerà più, pertanto, disporre di un¿ampia gamma di elettroriduttori che si adattino alle dimensioni/peso delle porte.

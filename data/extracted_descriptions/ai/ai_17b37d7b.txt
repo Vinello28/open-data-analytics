@@ -1,0 +1,8 @@
+SIPI con sede a Perugia offre piattaforme Web e servizi Chat Bot su temi fiscali on line, strumenti e soluzioni innovative per la gestione di flussi di lavoro, archivi documentali e sistemi CMR, ERP e MRP.
+Il progetto Fido Customer Data Platform avrà lo scopo di creare una Customer Data Platform, che raccolga e integri tra loro i dati dei vari sistemi e processi aziendali al fine di instaurare un rapporto esclusivo e fidelizzato con la clientela attivando un sistema che convoglierà i dati aziendali in un unico collettore che consentirà una visione collettiva dell'impresa.
+Il ruolo dell¿Innovation Manager, sarà quello di coordinare e seguire il team, portando esperienza su modelli innovativi di gestione dello sviluppo, con metodologie DevOps/Agile, per velocizzare i tempi di rilascio e contenere i budget di investimento. Si tratterà di un sistema in grado di raccogliere dati interni ed esterni, amalgamarli quasi in real-time e renderli facilmente fruibili, al fine di consentire analisi e previsioni per anticipare futuri bisogni e facilitare le scelte aziendali.
+Il tutto per creare ¿il Data Lake¿ dove poter attivare tecnologie avanzate di
+-	Big Data
+-	intelligenza artificiale
+-	machine learning
+adeguando i processi sia in materia di sicurezza che di GDPR.

@@ -1,0 +1,3 @@
+Questo progetto nasce dall¿attenta analisi e sperimentazione delle nuove tecnologie per la realtà virtuale, visionate dal punto di vista dell¿attività d¿aula, in particolar modo con soggetti portatori di handicap e/o con difficoltà sociali. 
+La tecnologia scelta è quella di HTC col visore VIVE, unita ad una stampante 3d che permetterà all'utente di fruire del maggior numero di contenuti, software didattici e ludici.
+Lo strumento consentirà l¿interazione del formatore  con il discente, in modo tale da accompagnare fisicamente la persona nella sua interazione, laddove richiesto.

@@ -1,0 +1,13 @@
+Il progetto che viene di seguito presentato è riferito ad un intervento di consulenza volto alla
+realizzazione di un prototipo di agenzia immobiliare completamente virtualizzata e web-based.
+Il progetto si pone come obiettivo la pianificazione integrale della infrastruttura tecnologica di
+supporto al portale.
+Le fasi operative del progetto riguardano:
+Progettazione della infrastruttura e-commerce
+Progettazione della infrastruttura tecnologica dei servizi
+Progettazione dei sistemi di aste on line
+Progettazione dei sistemi di credits anche legati a tecnologie blockchain
+Progettazione delle piattaforma per la gestione dei contratti preliminari on line e per il
+versamento di caparre tramite carte di credito.
+Progettazione dei servizi di realtà aumentata
+Sistemi di geo-localizzazione

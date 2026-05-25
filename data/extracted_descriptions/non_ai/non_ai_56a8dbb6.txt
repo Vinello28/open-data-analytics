@@ -1,0 +1,4 @@
+Il presente progetto si inserisce nel più ampio progetto della startup Bloovery di rivoluzionare il settore del flower delivery in Italia. Dopo aver con successo lanciato i canali di acquisto da Smartphone (App e Chatbot) intendiamo adesso sviluppare e lanciare la piattaforma Web.
+La richiesta per il Voucher Digitalizzazione include:
+- studio, sviluppo e implementazione software di un sito web ecommerce su piattaforma da definire completo di catalogo, carrello, check out e pagamento e di un backend in grado di gestire il flusso di ordini in ingresso e le anagrafiche dei clienti
+- consulenza specialistica strategica, tattica e operativa per il lancio promozionale della soluzione sopra descritta, per un periodo di 6 mesi, volta all¿acquisizione di nuovi clienti e alla fidelizzazione dei clienti esistenti tramite i canali di web marketing e i social media (Adwords, Facebook e Instagram Ads, guest posting, influencer marketing, Social media management)

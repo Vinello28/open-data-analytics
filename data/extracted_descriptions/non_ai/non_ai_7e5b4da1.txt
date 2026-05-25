@@ -1,0 +1,9 @@
+GMI srl si occupa dello sviluppo di software ed impianti per il mondo della moda, in particolare software di comando per macchine da ricamo e ponti laser. 
+Attraverso questo progetto mira a migliorare la competitività aziendale attraverso l¿efficientamento del reparto ricerca, sviluppo e progettazione. Gli investimenti saranno relativi ad hardware finalizzato all¿aumento delle prestazioni di calcolo sia per quanto riguarda la programmazione che per quanto concerne la progettazione 3D. In particolare verranno acquisiti:
+- 9 pc portatili e fissi con relativi accessori e schermi primari e secondari;
+- uno spettrofotometro per  l¿implementazione di soluzioni nell¿ambito della stampa digitale in combinazione con le altre attività aziendali;
+- un NAS ed un gruppo di continuità per il backup di quanto sviluppato;
+- un kit per la visualizzazione 3D in realtà virtuale per il miglioramento della progettazione degli impianti;
+- una licenza software Visual Studio per l¿efficientamento della progettazione;
+- una stampante per etichette per la tracciatura degli ordini interni;
+- una consulenza per l¿efficientamento del sistema produttivo di reparto.

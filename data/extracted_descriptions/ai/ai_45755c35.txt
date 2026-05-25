@@ -1,0 +1,13 @@
+L¿investimento riguarda lo sviluppo di un progetto, denominato ICRI-PROACTIVE; il progetto nasce dalla pluriennale esperienza maturata dalla società ICRI nell¿ambito della gestione e manutenzione degli impianti di grandi dimensioni e si basa essenzialmente sulla tecnologia dell¿Internet of Things.
+Il progetto ICRI PROACTIVE prevede l¿impiego di:
+· sensori che misurano grandezze fisiche degli impianti installati (temperatura, pressione, ecc...);
+· tag NFC posti sugli impianti che facilitano l¿operatore ad ottenere dati necessari sull¿impianti e registrano l¿intervento di manutenzione;
+· tecnologie proprietarie e aperte, piattaforme standard (Arduino e Raspberry);
+· un sistema ¿intelligente¿ che immagazzini ed elabori i dati (SAP B1).
+Il fine del progetto:
+- Controllo dell¿efficacia delle attività di manutenzione programmata effettuata;
+· Verifica del corretto funzionamento delle macchine;
+· Realizzazione di un sistema di manutenzione predittiva in base alla storia degli oggetti monitorati e alle misure effettuate (machine learning) con invio di allarmi prima che avvenga il blocco;
+· Attuazione automatica di funzioni basilari, avvio di allarmi;
+· Riduzione di consumi energetici;
+· maggiore efficienza operativa del personale.

@@ -1,0 +1,1 @@
+Realizzazione di una soluzione in grado di supportare una ricerca contenutistica sulla base di conoscenza della piattafoma Eutekne basata sulla comprensione delle richieste poste all'utente in linguaggio naturale e, quando non possibile, sullo sviluppo di un dialogo con l'utente finalizzato all'identificazione puntuale della richiesta.

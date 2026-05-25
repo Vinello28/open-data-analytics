@@ -1,0 +1,24 @@
+Scenario generale
+Gamma Indirizzi è una società nata nel 1987 come azienda innovativa. I settori in cui opera sono  Marketing
+elettorale, turistico, commerciale editoriale.  
+Consulenza
+L'obiettivo della consulenza è individuare tecnologie digitali sulle quali costruire dei nuovi servizi.
+I due settori che appartengono al patrimonio di Gamma e che vanno completamente reingegnerizzati sono:
+-big data e data analytics
+-digital marketing
+Nel primo caso, in un mercato che ha raggiunto in Italia il valore di 1,7 miliardi di euro, si tratta di affiancare alle competenze nel campo dell¿elaborazione del Dato Variabile (VDP) già presenti in Gamma quelle di:
+-raccolta di big data
+-descriptive analytics
+-predictive analytics
+-prescriptive analytics
+-automated analytics
+Si tratterebbe di un servizio fortemente innovativo perché rivolto a quelle PMI clienti che al momento restano escluse da questo mercato.
+Nel secondo caso, la consulenza si occuperà di:
+-social network
+-SEO e SEM
+-Google Adwords
+-Realtà aumentata
+-Content Marketing
+-User Experience
+-Digital PR	
+Questo aprirebbe il campo a nuove opportunità fino ad oggi inesplorate per debolezze strutturali

@@ -1,0 +1,6 @@
+Allo stato attuale, l'impresa deve ricorrere a società/consulenti esterni al fine di sviluppare applicativi 3D in ambiente di realtà virtuale.
+Attraverso il presente progetto Humarker srl intende sopperire a questa situazione dotandosi dunque, da una parte, dell'infrastruttura hardware e software necessaria e, dall'altra, delle conoscenze operative per poter sviluppare internamente tale tipologia di prodotti, con evidenti ricadute in termini di miglioramento dell'efficienza aziendale e della competitività sul mercato.
+Il progetto dunque si svilupperà in due fasi, tra loro interconnesse: 
+1. acquisizione di una consulenza specialistica finalizzata all'individuazione dell'infrastruttura hardware/software ottimale di cui Humarker si dovrà dotare (HW/SW selection);
+2. acquisizione consulenza per apprendere le conoscenze necessarie a sviluppare internamente applicativi mobile in ambiente di realtà con l'utilizzo di modelli tridimensionali.
+Il progetto dunque consentirà a Humarker srl di aumentare la propria competitività sul mercato, potendo gestire internamente e customizzare gli applicativi richiesti dai clienti.

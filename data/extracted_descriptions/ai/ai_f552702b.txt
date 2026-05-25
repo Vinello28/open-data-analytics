@@ -1,0 +1,1 @@
+progettazione di un sistema di simulazione per il monitoraggio, la pianificazione e l¿ottimizzazione della logistica mediante sistemi cyber.-fisici (dispositivi IOT, Digital Twin e tecniche di AI collaborativi). Il sistema consentirà di supportare le decisioni operative, tattiche e fornirà elementi di analisi per le evoluzioni strategiche del business aziendale.

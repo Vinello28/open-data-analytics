@@ -1,0 +1,1 @@
+Aggiornamento chiave "dongle-usb" per software aziendale vision 2006 3 utenti; installazione nuovo database su piattaforma SQL, cinfigurazione di tutti i client di Vision al nuovo Firmware; configurazione nuovo modulo Rapportino per gestione personale si cantiere.

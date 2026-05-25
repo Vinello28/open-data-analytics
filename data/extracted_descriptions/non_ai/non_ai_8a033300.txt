@@ -1,0 +1,7 @@
+Il programma di investimento si articola su diverse direttrici, elencate a seguire, che permetteranno uno sviluppo armonico e integrato dell¿attuale realtà aziendale:
+A.	Incremento della capacità produttiva nei segmenti asportazione di truciolo e lavorazioni mediante elettroerosione (EDM);
+B.	Smart Workspace: allestimento di una area di lavoro in condizioni ambientali controllate, connessa e dotata di tecnologie per la realtà aumentata, per le operazioni di completamento, montaggio e controllo dei prodotti finiti;
+C.	Gestione efficace, recupero e riutilizzo in situ dei fluidi di processo (acque, lubrorefrigeranti, solventi);
+D.	Infrastruttura di rete e connessione internet industriale, Cloud & Cybersecurity
+E.	Ispezione, accettazione e controllo materie prime deperibili;
+F.	Recupero e riutilizzo in loco del packaging delle merci in ingresso, gestione efficace e integrata del packaging multifunzionale per il prodotto finito in ottica di sostenibilità;

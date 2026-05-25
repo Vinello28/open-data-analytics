@@ -1,0 +1,7 @@
+L'obiettivo di questo progetto è di dotare la società di tecnologie ed apparecchiature di ultima generazione necessarie a costruire collaudare testare e vendere immobili di nuova costruzione adottando quelle che sono gli strumenti hardware e software più moderni come: droni, termocamere, BIM, stampanti 3d, realtà virtuale, plotter pluricromatici ad altissima risoluzione, videoproiezione immersiva. Il progetto di ammodernamento della T&Co srl che si occupa di progettazione e realizzazione di nuovi fabbricati con diverse destinazioni (residenziale, produttivo, direzionale, agricolo, etc.)  sia per appalti privati che pubblici, in tutte le sue parti ed in tutte le sue fasi, ha l¿obiettivo di sfruttare tutte le ultime tecnologie al fine di migliorare le seguenti fasi:
+1.	analisi dei territori e dei terreni, 
+2.	progettazione su carta dei nuovi edifici 
+3.	presentazione dei progetti agli enti e alla committenza 
+4.	Supporto in fase di direzione dei lavori
+5.	Supporto in fase di collaudo
+In particolare i software quali archicad, edificius, nonché SketchUp Pro e V-Ray3 hanno lo scopo di consentire allo studio di chiudere l¿intero ciclo di progettazione secondo  i nuovi requisiti imposti dal nuovo codice degli appalti pubblici secondo l¿approccio BIM (Edificius) consentendo di focali

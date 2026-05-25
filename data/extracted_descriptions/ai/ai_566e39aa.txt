@@ -1,0 +1,8 @@
+Lo scopo del progetto è la valorizzazione e la comunicazione alla cittadinanza del patrimonio delle biblioteche attraverso la digitalizzazione dei contenuti bibliotecari, per favorire nei cittadini la frequentazione delle biblioteche come luogo di incontro e di scambio, e rafforzarne il senso di appartenenza e comunità.
+
+Intendiamo, attraverso l’attivazione di una serie di percorsi di visita con l'uso della tecnologia che metta in relazione le fonti bibliotecarie e il territorio urbano, portare le biblioteche "fuori dalle biblioteche" rendendole accessibili ad un pubblico ampio con una specifica attenzione alla sostenibilità delle azioni e alla loro scalabilità.
+
+Esperienze proposte:  
+- City tour in Realtà Aumentata su Web App che metta in relazione alcuni Punti di Interesse della città, con lo scopo di riportare alla luce opere/edifici che non ci sono più di cui esistono testimonianze racchiuse nel patrimonio bibliotecario. In questo modo la cittadinanza, tramite il proprio smartphone e senza la necessità di scaricare App, potrà scoprire una Milano che non c’è più e al tempo stesso verrà stimolata nella consultazione diretta dei preziosi documenti direttamente in biblioteca;
+
+- Podcast narrativo ed esperienziale (accessibile sempre dalla Web App), che racconti alla cittadinanza

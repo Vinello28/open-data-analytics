@@ -1,0 +1,1 @@
+Sensore di monitoraggio delle vibrazioni a cui gli edi¿ci sono soggetti. Il sensore analizza le sollecitazioni inviando i relativi dati ad una piattaforma cloud dove vengono analizzati tramite AI, classi¿cando le informazioni e generando dei report per gli utenti.

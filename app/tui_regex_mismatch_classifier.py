@@ -66,7 +66,7 @@ def get_project_root():
 
 def load_data():
     project_root = get_project_root()
-    input_path = os.path.join(project_root, "data", "regex_fn_mismatches.csv")
+    input_path = os.path.join(project_root, "data", "regex_tp_matches.csv")
 
     if not os.path.exists(input_path):
         raise FileNotFoundError(f"Input file not found: {input_path}")
@@ -366,7 +366,7 @@ async def main():
     project_root = get_project_root()
     output_dir = os.path.join(project_root, "data", "labelled")
     os.makedirs(output_dir, exist_ok=True)
-    output_path = os.path.join(output_dir, "regex_fn_reclassified.csv")
+    output_path = os.path.join(output_dir, "regex_tp_reclassified.csv")
 
     export_df = df[["old", "text", "predicted_label"]].copy()
     export_df.rename(columns={"text": "descrizione"}, inplace=True)

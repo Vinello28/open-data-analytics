@@ -1,0 +1,12 @@
+Il progetto Amalfi Coast's Land nasce con lo scopo di salvaguardare il territorio della
+Costiera Amalfitana. Attraverso un sito web con funzionalità di e-commerce, l'utente può contribuire al
+progetto con una donazione. La donazione consiste nell'acquisto di un prodotto digitale definito "Albero". A
+fronte del corrispettivo versato, all'utente verranno assegnate le credenziali per accedere ad una propria area
+dedicata. Il portale permetterà di progettare una visita sul luogo con la possibilità di visualizzare itinerari,
+percorsi turistici, sentieri e strutture ricettive della zona. Strettamente collegata al portale e-commerce, viene
+sviluppata un'applicazione per smartphone sia Android che iOS diffusa sui market a costo zero ma i cui
+contenuti saranno accessibili previo inserimento di un codice generato all'atto dell'acquisto. L'applicazione
+permetterà la visualizzazione di contenuti in Realtà Virtuale attraverso una Cardboard personalizzata che sarà
+recapitata all'acquirente. La cardboard permette di inserire lo smartphone al suo interno, avvicinarlo agli
+occhi e godere delle bellezze della Costiera Amalfitana visualizzando il panorama che si sta contribuendo a
+salvaguardare. Sono inclusi nel progetto il logo, copywriting, gestione dei canali social e formazione

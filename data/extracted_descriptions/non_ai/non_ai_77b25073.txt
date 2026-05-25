@@ -1,0 +1,1 @@
+Il progetto prevede lo sviluppo del codice principalmente front-end su linguaggio di templating "Liquid" di Shopify ma con coinvolgimento di funzionalità e codice back-end in "javascript".

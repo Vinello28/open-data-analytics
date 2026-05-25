@@ -1,0 +1,9 @@
+Il progetto prevede: sul versante interno l'ottimizzazione generale dei flussi di lavoro e, principalmente, del sistema di monitoraggio dei processi che comprenda una correzione iterativa dei modelli applicati.
+- Revisione dell¿organigramma aziendale ed evidenziazione funzioni interne
+- Applicazione di un modello di eXtreme Project Management (Scrum/Kannban) per la
+gestione del workflow aziendale. 
+Sul versante estreno la creazione di una efficace UI (User Interface) centrata sull¿ottimizzazione delle UX (UsereXperience) che monitorizzi efficacemente i processi di acquisto ed i momenti d¿interazione con il cliente diversificando i modelli di eCommerce attraverso due siti di shop on line dedicati rispettivamente al mercato B2C e B2B, ai quali verranno associati due siti,
+altrettanto specifici, per la gestione di processi di Content Marketing finalizzati all¿attuazione di Funnel di conversione Customer oriented.
+- Sviluppo interfaccia utente per siti di eCommerce B2B e B2C
+- Sviluppo sistema di Funneling e Marketing Automation sui siti di Content Marketing
+Applicazione di una piattaforma IT integrata nei sistemi aziendali per collegare il versante esterno ed interno uniformando il flusso di dati anche attraverso applicativi di Machine Learning e di intelligenza artificiale.

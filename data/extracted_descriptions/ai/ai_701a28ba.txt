@@ -1,0 +1,11 @@
+Il progetto prevede l'introduzione di un processo, a supporto delle attività quotidiane e delle divisione in centri di costo del lavoro delle risorse. Sarà acquistato un software applicativo che verrà sviluppato dalla società Volo Consulting, per l'acquisizione dei timesheet e degli stati di avanzamento delle lavorazioni relativi alle attività di sviluppo progettuali interne. Il programma eviterà il calcolo manuale delle ore lavorate e tramite l¿integrazione di un app specifica la chiusura dei task in  tempo reale. Saranno inoltre eliminati gli errori di fatturazione sui vari centri di costo. Inoltre verrà introdotta la digitalizzazione dei timesheet e dei documenti di analisi progettuale aumentando così il livello di efficienza grazie ad una significativa riduzione dei tempi di ricerca e archiviazione dei documenti. 
+Il progetto prevede la creazione dei seguenti moduli:
+¿	La rilevazione presenze per la tua azienda
+¿	App mobile di rilevazione presenze
+¿	App mobile di ausilio ( chatbot )
+Cosa può fare TimeSheetBot:
+¿	Timbra l'entrata e l'uscita da lavoro 
+¿	Gestisce ferie, malattia, permessi e straordinari
+¿	Assegna attività e progetti di lavoro
+¿	Genera timesheet e report su dipendenti
+¿	La piattaforma sarà disponibile su Facebook Messenger, WhatsApp, Telegram o Slack.

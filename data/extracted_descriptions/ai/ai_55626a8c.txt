@@ -1,0 +1,8 @@
+Il progetto promosso da FLIM LABS è incentrato sullo sviluppo e la commercializzazione di un sistema innovativo per l'acquisizione e l'analisi dei dati di imaging a vita di fluorescenza (FLIM).
+L'analisi della durata della fluorescenza FLIM è una tecnica di microscopia all'avanguardia, attualmente utilizzata nelle scienze della vita (diagnostica del cancro, di tessuti e di cellule staminali, nonchè per la valutazione dell'efficacia di farmaci e vaccini). 
+In futuro si prevede un'ampia diffusione delle tecniche FLIM anche nei settori biomedicale, delle biotecnologie, delle tecnologie alimentari e della scienza dei materiali.
+La mission del progetto è la realizzazione di un innovativo kit di analisi completo, che possa essere in grado di incrementare le applicazioni della tecnologia anche in nuovi ambiti, caratterizzato da:
+- hardware composto da un dispositivo portatile per l’acquisizione dei dati avente dimensioni ridotte e alimentazione a batteria;
+- modulo laser pulsato per l’eccitazione dei campioni;
+- modulo detector per la rilevazione della luce fluorescente di tipo SPAD (single photon avalanche diode);
+- software per elaborazione dati in tempo reale; intelligenza artificiale per l’interpretazione dei risultati. Condivisione risultati su cloud e altre piattaforme.

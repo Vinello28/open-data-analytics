@@ -1,0 +1,11 @@
+Questo progetto si concentra sullo sviluppo di un robot collaborativo specificamente progettato per automatizzare le operazioni in colture verticali.  L’obiettivo principale è incrementare l’efficienza e ridurre i costi di gestione, affrontando le sfide del settore legate all’ottimizzazione delle operazioni e alla necessità di un monitoraggio continuo.    
+
+Il robot sarà in grado di svolgere diverse funzioni chiave:
+
+Trapianto: Dotato di pinze di precisione e adattatori per diversi substrati, il robot potrà piantare in modo efficiente in spazi verticali ristretti, supportando la diffusione del sistema brevettato DWT (Deep Water Tower).    
+
+Raccolta: Attraverso l’uso di bracci articolati e sensori ottici e spettroscopici, il robot identificherà il momento ottimale per la raccolta, migliorando la qualità e riducendo gli sprechi.    
+
+Trattamenti: Il robot sarà in grado di eseguire trattamenti fitosanitari mirati, riducendo l’uso di prodotti chimici e l’impatto ambientale.    
+
+L’integrazione di queste funzionalità in un unico sistema robotico permetterà una gestione più efficiente delle risorse, riducendo gli sprechi di acqua, concimi ed energia, in linea con i principi dell’agricoltura di precisione.
