@@ -1,11 +1,11 @@
-"""Approccio 4 — Estrazione via LLM (OpenAI) con output strutturato.
+"""Approccio 4 — Estrazione via LLM (LM Studio) con output strutturato.
 
 Per ogni descrizione chiede al modello di elencare, scegliendo SOLO dal
 vocabolario canonico della tassonomia, le tecnologie AI menzionate o
 chiaramente implicite. Output JSON validato contro il vocabolario.
 
-Richiede la variabile d'ambiente OPENAI_API_KEY. Concorrenza via thread
-(chiamate I/O-bound) e cache su disco per evitare costi ripetuti.
+Si connette al server locale LM Studio. Gestisce automaticamente i blocchi
+<think> dei modelli "thinking". Concorrenza via thread e cache su disco.
 """
 import json
 import os
@@ -15,7 +15,7 @@ from concurrent.futures import ThreadPoolExecutor
 from .. import taxonomy as T
 
 NAME = "llm"
-MODEL = os.environ.get("AI_TECH_LLM_MODEL", "gpt-4o-mini")
+MODEL = os.environ.get("AI_TECH_LLM_MODEL", "openai/gpt-oss-20b")
 _CACHE_PATH = os.path.join(os.path.dirname(__file__), "..", "..", "..",
                            "data", "distilled", ".cache_llm_tech.json")
 
@@ -25,16 +25,14 @@ _ALLOWED = set(T.canonical_labels())
 
 
 def available():
-    return bool(os.environ.get("OPENAI_API_KEY"))
+    return True
 
 
 def load():
     global _client
     if _client is None:
-        if not available():
-            raise RuntimeError("OPENAI_API_KEY non impostata: l'approccio LLM non e' utilizzabile.")
         from openai import OpenAI
-        _client = OpenAI()
+        _client = OpenAI(base_url="http://localhost:1234/v1", api_key="lm-studio")
     return _client
 
 
@@ -71,6 +69,7 @@ _SYSTEM = (
 
 
 def _one(text):
+    import re
     cache = _load_cache()
     k = _key(text)
     if k in cache:
@@ -78,18 +77,31 @@ def _one(text):
     client = load()
     allowed = ", ".join(f'"{c}"' for c in T.canonical_labels())
     user = f"Lista consentita: [{allowed}]\n\nDescrizione:\n{str(text)[:2000]}"
-    resp = client.chat.completions.create(
-        model=MODEL,
-        temperature=0,
-        response_format={"type": "json_object"},
-        messages=[{"role": "system", "content": _SYSTEM},
-                  {"role": "user", "content": user}],
-    )
-    raw = resp.choices[0].message.content
     try:
-        labels = json.loads(raw).get("tecnologie", [])
-    except Exception:
+        resp = client.chat.completions.create(
+            model=MODEL,
+            temperature=0,
+            messages=[{"role": "system", "content": _SYSTEM},
+                      {"role": "user", "content": user}],
+        )
+        raw = resp.choices[0].message.content
+        
+        # Gestione per modelli thinking: rimuove eventuali blocchi <think>
+        raw = re.sub(r'<think>.*?</think>', '', raw, flags=re.DOTALL).strip()
+        
+        try:
+            labels = json.loads(raw).get("tecnologie", [])
+        except json.JSONDecodeError:
+            # Fallback se ci sono codici markdown (es. ```json ... ```)
+            json_match = re.search(r'\{.*\}', raw, flags=re.DOTALL)
+            if json_match:
+                labels = json.loads(json_match.group(0)).get("tecnologie", [])
+            else:
+                labels = []
+    except Exception as e:
+        print(f"Errore LLM: {e}")
         labels = []
+        
     labels = [l for l in labels if l in _ALLOWED]
     result = T.apply_fallback(labels)
     cache[k] = result
