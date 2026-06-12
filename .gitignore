@@ -1,19 +1,21 @@
+.DS_Store
+.vscode/
+.antigravitycli/
+CLAUDE.md
+.venv
+
 data/*.csv
 data/cup_clean/
 data/cup_only/
-.DS_Store
-CLAUDE.md
 data/raw/
 data/processed/
-src/__pycache__/
 data/training/bert_binary.csv
 data/binary/bert_binary.csv
 data/export/dataset_importi_cf.csv
-
 data/technology_mapping/*.csv
 data/technology_mapping/*.zip
-.vscode/
-.antigravitycli/
-.venv
+data/traceability/*.csv
 
 
+notebooks/traceability/__pycache__
+src/__pycache__/
