@@ -5,16 +5,30 @@ import re
 CHUNK_SIZE = 100_000
 
 def get_mask(series):
-    p1 = r'\b(?:tracciabilit[aà]|rintracciabilit[aà]|tracciamento|autenticazione|blockchain|registri distribuiti|distributed ledger technology|provenienza del prodotto|origine certificata|qr code|codice qr|codice a barre bidirezionale|filiera|caten[ae] del valore|(?:catena|sistema) di approvvigionamento|supply chain|internet of things|sicurezza del prodotto|smart logistics)\b'
-    m1 = series.str.contains(p1, regex=True)
+    # 1. Termini forti inequivocabili (bastano da soli)
+    p_core = r'\b(?:(?:rin)?tracciabilit[aà]|provenienza del prodotto|origine certificata|passaporto digitale)\b'
+    m_core = series.str.contains(p_core, regex=True)
     
-    m2 = series.str.contains(r'\bmonitoraggio\b', regex=True) & series.str.contains(r'\bend-to-end\b', regex=True)
-    m3 = series.str.contains(r'\blocalizzazione\b', regex=True) & series.str.contains(r'\b(?:prodotto|materia)\b', regex=True)
-    m4 = series.str.contains(r'\bidentificazione\b', regex=True) & series.str.contains(r'\b(?:prodotto|materia)\b', regex=True)
-    m5 = series.str.contains(r'\bindustria 4\.0\b', regex=True) & series.str.contains(r'\btracciabilit[aà]\b', regex=True)
-    m6 = series.str.contains(r'\blogistica\b', regex=True) & series.str.contains(r'\bintelligente\b', regex=True)
+    # 2. Azione + Oggetto (es. "tracciamento" ma solo se associato a "prodotti", "filiera", ecc.)
+    p_action = r'\b(?:tracciamento|tracciatura|identificazione|monitoraggio|autenticazione)\b'
+    p_target = r'\b(?:prodotto|prodotti|materia|materie|filiera|supply chain|merce|merci|lotto|lotti|end-to-end)\b'
+    m_action_target = series.str.contains(p_action, regex=True) & series.str.contains(p_target, regex=True)
     
-    return m1 | m2 | m3 | m4 | m5 | m6
+    # 3. Tecnologie + Contesto (es. "Internet of Things" o "Blockchain" ma solo se si cita filiera, provenienza o logistica)
+    p_tech = r'\b(?:blockchain|registri distribuiti|distributed ledger|qr code|codice qr|rfid|nfc|internet of things|iot)\b'
+    p_tech_target = r'\b(?:filiera|supply chain|provenienza|logistica|anticontraffazione)\b'
+    m_tech_target = series.str.contains(p_tech, regex=True) & series.str.contains(p_tech_target, regex=True)
+    
+    # 4. Filiera/Supply chain + Attributi di trasparenza/controllo
+    p_chain = r'\b(?:filiera|caten[ae] del valore|supply chain)\b'
+    p_chain_mod = r'\b(?:trasparente|trasparenza|sicurezza alimentare|certificata|garantita)\b'
+    m_chain = series.str.contains(p_chain, regex=True) & series.str.contains(p_chain_mod, regex=True)
+    
+    # 5. Manteniamo alcune delle vecchie combinazioni sensate rendendole più robuste
+    m5 = series.str.contains(r'\bindustria 4\.0\b', regex=True) & series.str.contains(r'\b(?:rin)?tracciabilit[aà]\b', regex=True)
+    m6 = series.str.contains(r'\blogistica\b', regex=True) & series.str.contains(r'\bintelligente\b', regex=True) & series.str.contains(r'\b(?:merci|prodotti|tracciamento)\b', regex=True)
+
+    return m_core | m_action_target | m_tech_target | m_chain | m5 | m6
 
 def process_chunk(chunk):
     titolo = chunk['TITOLO_PROGETTO'].fillna('').str.lower()
