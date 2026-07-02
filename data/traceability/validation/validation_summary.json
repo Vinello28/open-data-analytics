@@ -1,0 +1,16 @@
+{
+  "n_descrizioni_uniche": 929962,
+  "n_non_classificate": 0,
+  "n_valide": 929962,
+  "accuracy_vs_regex": 0.9543615760643983,
+  "cohen_kappa": 0.11405782047153623,
+  "precision_pos_vs_regex": 0.06353029566447164,
+  "recall_pos_vs_regex": 0.9785568413886998,
+  "f1_pos_vs_regex": 0.1193144090305445,
+  "positive_rate_regex": 0.0031592688733518143,
+  "positive_rate_modello": 0.04866220340185943,
+  "n_solo_modello_pos": 42379,
+  "n_solo_regex_pos": 63,
+  "embedding_confirm_solo_modello_pos": 0.22875,
+  "llm_confirm_solo_modello_pos": 0.008333333333333333
+}
