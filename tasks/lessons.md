@@ -1,5 +1,83 @@
 # Lessons
 
+## Un proxy non è una metrica: "contiene un termine forte" NON è precision
+- **Contesto**: avevo venduto la regex v2 con "l'**84,1%** dei positivi contiene un termine forte di
+  tracciabilità (nella v1 era il 18,2%)", presentandolo come prova che funzionasse. Il gold set
+  annotato dice che la **precision reale è 50,8%** (IC 95%: 42–60%). Il proxy era inflazionato dal
+  fatto che *la parola "tracciabilità" è boilerplate*: compare in ERP, gestionali HR, pratiche
+  assicurative, e-commerce ("tracciabilità dei processi/documenti"). Contenere il termine forte non
+  dimostra che il progetto **tracci un prodotto**.
+- **Regola**: quando non puoi misurare la metrica vera, un proxy va bene per **orientarti**, mai per
+  **concludere**. E va dichiarato come proxy ogni volta che lo citi, non solo la prima. Se ti accorgi
+  di usarlo come se fosse la metrica ("l'84% è buono"), ti stai auto-ingannando.
+- **Come applicarla**: il proxy misura la *presenza di un segnale*; la metrica misura la *correttezza
+  di una decisione*. Sono la stessa cosa solo se il segnale è deciso — e le parole non lo sono mai.
+
+## Se il gold viene dall'accordo tra due predittori, non puoi valutare quei due predittori su di esso
+- **Contesto**: nel gold set 193/300 label venivano dall'accordo regex+LLM (solo i 107 discordanti
+  erano annotati a mano). Sui 193 **regex e LLM coincidono col gold per costruzione**: valutarli lì
+  dentro dava accuracy gonfiate (LLM 0,94!). Il confronto onesto esiste solo sui record con gold
+  **indipendente** da entrambi.
+- **Regola**: la ground truth deve essere indipendente da **ogni** sistema che ci misuri contro.
+  È la stessa trappola del BERT (addestrato su `get_mask`, valutato contro `get_mask`), rientrata
+  dalla finestra sotto forma di "assumiamo che gli accordi siano giusti".
+- **Come applicarla**: separa sempre (a) le metriche **non distorte** — la precision si stima sullo
+  strato A, che è un campione *casuale* dei positivi; (b) i confronti testa a testa, solo sui record
+  ad annotazione indipendente. Non citare mai l'aggregato su un campione stratificato: gli strati
+  sono sovracampionati e non rispettano le proporzioni di popolazione.
+
+## Se prometti un'annotazione "in cieco", controlla che il file non contenga la risposta
+- **Contesto**: avevo progettato l'adjudicazione in cieco (l'umano non deve sapere cosa hanno detto
+  regex e LLM, altrimenti insegue la loro risposta). Avevo tolto le colonne `REGEX_V2_LABEL` e
+  `LLM_LABEL`… ma avevo lasciato **`stratum`** (dove `A_positivi_v2` significa letteralmente "la regex
+  ha detto tracciabilità") e **`_motivo`** (che rivelava quali record erano gli spot-check).
+  Il cieco non era cieco. Trovato solo perché l'utente ha chiesto "ci sono solo le colonne di interesse?".
+- **Regola**: il blinding si verifica sull'**artefatto finale**, non sull'intenzione. Apri il file che
+  consegni e chiediti: "da qui posso dedurre la risposta?". Le colonne di servizio (id di strato,
+  motivo del campionamento, ordine delle righe) sono canali di fuga quanto la label esplicita.
+- **Come applicarla**: le chiavi vanno in un file **separato** (`.gold_adjudication_key.csv`),
+  ricongiunto in fase di merge via id. Nel file da annotare solo: id, testo, colonna da compilare.
+
+## Il dataset esportato è un prodotto, non un dump della memoria di lavoro
+- **Contesto**: `tag_taxonomies` materializzava 21 colonne one-hot `TECNOLOGIA__blockchain=True/False`
+  *dentro il CSV esportato* (56 colonne totali). Servivano solo ai grafici, ma ripetevano
+  un'informazione già presente nella colonna dei valori (`TECNOLOGIA = "blockchain;iot_sensori"`).
+  L'utente le ha giustamente definite inutilizzabili.
+- **Regola**: separa la **rappresentazione di lavoro** (one-hot, comoda per plottare e incrociare)
+  dal **dato canonico** (i valori). Nel file che consegni va il dato canonico, una volta sola.
+  Se una colonna si ricava da un'altra con una riga di pandas, non è un dato: è una vista.
+- **Come applicarla**: `onehot(df, axis)` in `profiling_worker.py` ricava le booleane al volo con
+  `str.get_dummies(sep=';')`. Export: 56 → **35 colonne**, zero ridondanza.
+
+## Multiprocessing NON è solo per la pipeline "ufficiale": vale per OGNI passata sul corpus
+- **Contesto**: l'utente aveva già dato la regola (Pool(10), 12 core − 2). L'ho applicata a
+  `traceability_worker`, `compare_regex_versions`, `profiling_worker`… ma ho scritto gli script
+  **usa e getta** di audit (`sample_spec_orphans.py`) con un banale `for file in files:` sequenziale.
+  Su 24M record significa far aspettare l'utente minuti per una cosa che ne richiede uno.
+  Richiamato: *"ci stai mettendo troppo, usa i miei core"*.
+- **Regola**: se lo script tocca il corpus completo, va in `Pool(10)` con `mp.get_context('fork')`.
+  **Non esiste lo script "di scarto"**: uno script esplorativo lento fa perdere tempo esattamente
+  come uno di produzione. La regola dell'utente vale sul *carico*, non sull'importanza del file.
+- **Come applicarla**: prima di lanciare qualunque cosa che apra i file di `data/technology_mapping/`,
+  fermarsi e chiedersi "sto ciclando in sequenza?". Se sì, riscrivere con `pool.map(fn, files)`.
+  Template pronto: `audit_spec_terms.py`.
+
+## Un termine può essere nella specifica ed essere comunque un falso amico: controlla cosa pesca
+- **Contesto**: la specifica dei termini chiedeva `identificazione + prodotto`, `autenticazione`,
+  `sicurezza del prodotto`, `catena del valore`, `filiera nel titolo`. Campionando gli orfani:
+  `sicurezza del prodotto` = le **schede di sicurezza (SDS) dei prodotti chimici**;
+  `identificazione + prodotto` = corsi di **trattamenti fitosanitari**; `autenticazione` = login e
+  pagamenti; `catena del valore` = negozi di abbigliamento; `filiera` nel solo titolo = **36.147
+  record** (7,5× l'intero set positivo): "Filiera Bollicine in Rete", ristoranti a km 0.
+- **Regola**: una lista di keyword è un'**ipotesi**, non una verità. Prima di implementarla,
+  misura *cosa aggiunge davvero* — non quanti record, ma **quali**. Un termine giusto in astratto
+  può essere dominato, nei dati reali, da un omonimo di un altro dominio.
+- **Come applicarla**: `audit_spec_terms.py` (copertura per termine) + `sample_new_terms.py`
+  (campiona gli orfani). Riporta i campioni all'utente **prima** di cambiare l'oracolo: qui hanno
+  ribaltato una decisione già presa. I sinonimi veri (`catena di approvvigionamento` = supply chain)
+  entrano nel **vocabolario esistente**, così ereditano i vincoli di prossimità già validati, invece
+  di diventare una regola nuova senza rete.
+
 ## Verifica la premessa di un bug report prima di "fixare" ciò che l'utente indica
 - **Contesto**: task tracciabilità — l'utente sospettava che il modello fosse addestrato solo sulla
   descrizione (non sul titolo), a differenza della regex. In realtà `dataset.py:231` costruiva già
@@ -26,3 +104,39 @@
   valle senza rieseguire il modello.
 - **Come applicarla**: `inference.positive_threshold` in `model_config.yml`, applicato dall'helper
   condiviso `src/inference/labeling.py::probs_to_results`.
+
+## Un modello addestrato su label di una regex NON può superare la regex
+- **Contesto**: il BERT dava "F1 = 0.928 held-out" e sembrava ottimo, ma le sue label venivano da
+  `get_mask` (`prepare_traceability_data.py` la importa). Era la **distillazione di un maestro
+  rumoroso**, valutata contro lo stesso maestro: valutazione circolare, numero privo di significato.
+  Sulla popolazione reale over-triggerava 20,8×.
+- **Regola**: se le label di training e la ground truth di validazione vengono dalla stessa funzione,
+  non stai misurando la qualità del modello — stai misurando quanto bene imita quella funzione.
+  Il modello non può, per costruzione, scoprire nulla che l'oracolo non sapesse già.
+- **Come applicarla**: prima di investire in un modello supervisionato, chiedi "da dove vengono le
+  label?". Se la risposta è "da una regola", allora (a) la regola è il classificatore, aggiustala; e
+  (b) l'unica validazione sensata è un **gold set annotato a mano**. Vedi `build_regex_gold_set.py`.
+
+## Le regole composte richiedono PROSSIMITÀ, non co-occorrenza
+- **Contesto**: `get_mask` v1 marcava un record se `azione` e `oggetto` comparivano entrambi nel
+  testo, **a qualsiasi distanza**. Misurato: mediana **148 caratteri** di distanza, 42% oltre 200,
+  su descrizioni di ~1.000 caratteri. Risultato: consulenze di cybersecurity e gestionali di
+  magazzino classificati "tracciabilità"; solo il **18,2%** dei positivi aveva un termine forte.
+- **Regola**: `A.*B` su un documento lungo non è una relazione semantica, è una collisione lessicale.
+  Vincola i termini a una finestra (~una proposizione) e tieni fuori i verbi generici
+  (`monitoraggio`, `identificazione`, `controllo`): da soli non significano nulla.
+- **Come applicarla**: helper `near(a, b, window)` in `traceability_patterns.py`. Ogni positivo
+  espone `MATCH_RULE`/`MATCH_SOURCE` → l'audit dei match è ciò che ha smascherato il problema
+  (e ha bocciato una mia regola `generic_strong`, poi rimossa perché produceva solo spazzatura).
+
+## pandas ≥ 3.0: `\b` e `\w` sono ASCII-only (Arrow/RE2) → le parole accentate non matchano
+- **Contesto**: `pd.Series(["tracciabilità:"]).str.contains(r'\btracciabilit[aà]\b')` → **False**,
+  mentre `re.search(...)` sullo stesso testo → **True**. pandas 3.0 usa stringhe Arrow-backed che
+  passano da RE2, dove `\b` è ASCII-only: dopo `à` il word-boundary non esiste. La regex v1 era
+  **corretta quando fu scritta** (pandas ≤ 2.x, motore `re`) e si è rotta in silenzio con l'upgrade,
+  perdendo **~2.000 record che contengono esplicitamente "tracciabilità"**.
+- **Regola**: una regressione può arrivare da un upgrade di dipendenza senza che una riga di codice
+  cambi. Se una regex con `\b`/`\w` gira su testo non-ASCII (italiano, accenti!), verifica il motore.
+- **Come applicarla**: `_normalize()` in `traceability_patterns.py` forza `.astype(object)` →
+  motore `re` di Python, Unicode-aware, con supporto ai lookahead. Test di non-regressione nella
+  test battery del notebook: "tracciabilità:" (accento + punteggiatura) DEVE matchare.

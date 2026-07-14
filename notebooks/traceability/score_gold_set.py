@@ -55,7 +55,10 @@ def main():
     print("Bilanciamento GOLD:", annotated["GOLD_LABEL"].value_counts().to_dict())
 
     gold = annotated["GOLD_LABEL"]
-    for col, name in [("REGEX_LABEL", "REGEX"),
+    for col, name in [("REGEX_V1_LABEL", "REGEX v1 (storica)"),
+                      ("REGEX_V2_LABEL", "REGEX v2.1  <-- il classificatore"),
+                      ("REGEX_LABEL", "REGEX"),
+                      ("LLM_LABEL", "GIUDICE LLM (annotatore indipendente)"),
                       ("AI_LABEL", "MODELLO (UmBERTo)"),
                       ("LLM_LABEL_v2", "GIUDICE LLM v2")]:
         if col not in annotated.columns:
@@ -67,14 +70,18 @@ def main():
             continue
         evaluate(gold[mask], pred[mask], name)
 
-    # Precisione per strato del modello: dove sbaglia di piu'?
-    if "stratum" in annotated.columns:
-        print("\n=== Precisione MODELLO per strato ===")
+    # Dove sbaglia di piu'? Ogni strato risponde a una domanda diversa (vedi build_regex_gold_set).
+    pred_col = next((c for c in ("REGEX_V2_LABEL", "AI_LABEL", "REGEX_LABEL")
+                     if c in annotated.columns), None)
+    if "stratum" in annotated.columns and pred_col:
+        print(f"\n=== Composizione per strato (GOLD umano) — predittore: {pred_col} ===")
         for st, sub in annotated.groupby("stratum"):
-            pos_pred = sub[_norm(sub["AI_LABEL"]) == POS]
-            if len(pos_pred):
-                prec = (_norm(pos_pred["GOLD_LABEL"]) == POS).mean()
-                print(f"  {st:22s}: precision={prec:.2f} su {len(pos_pred)} positivi-modello")
+            quota_pos = (_norm(sub["GOLD_LABEL"]) == POS).mean()
+            print(f"  {st:26s}: {len(sub):>3} record, {quota_pos:.0%} veri positivi")
+        print("\n  Come leggerli:")
+        print("    A_positivi_v2             -> quota pos = PRECISION della regex")
+        print("    B_scartati_da_v2          -> quota pos alta = la v2 ha buttato roba buona")
+        print("    C_near_miss_non_catturati -> quota pos alta = la v2 si perde dei positivi")
 
 
 if __name__ == "__main__":
