@@ -140,3 +140,25 @@
 - **Come applicarla**: `_normalize()` in `traceability_patterns.py` forza `.astype(object)` →
   motore `re` di Python, Unicode-aware, con supporto ai lookahead. Test di non-regressione nella
   test battery del notebook: "tracciabilità:" (accento + punteggiatura) DEVE matchare.
+
+## Un carattere di sostituzione non si sostituisce a tappeto: si *deduce* dai dati
+
+- **Contesto**: il corpus conteneva 278.561 `¿`. La lettura ovvia ("gli apostrofi sono diventati `¿`")
+  era vera solo al **57%**. Il `¿` è un *replacement char*: si è mangiato apostrofi, vocali accentate
+  (`pi¿`→`più`, `citt¿`→`città`), trattini (`Pezzapiana ¿ Zona`), il simbolo euro (`pari a ¿ 300.000`),
+  virgolette tipografiche — e in alcuni file c'erano **tre strati di mojibake sovrapposti**
+  (`Ã¿Â¢Ã¿Â¿Ã¿Â¿interno` → `all'interno`).
+- **Regola**: prima di sostituire, **censisci i contesti**. Un `sed 's/¿/'/g'` avrebbe scritto
+  `pi'`, `citt'`, `' 300.000` su decine di migliaia di record, e nessuno se ne sarebbe accorto.
+- **Come applicarla**: `src/text_repair.py` non indovina la parola, **deduce il carattere**. Costruisce
+  il vocabolario delle parole PULITE del corpus (il corpus è il proprio dizionario: la corruzione
+  colpisce una minoranza di righe), poi per ogni sequenza corrotta prova ogni candidato e tiene quello
+  che produce una parola **che esiste davvero**. Toccando solo i caratteri rotti, il maiuscolo
+  sopravvive: `dell¿EXPO` → `dell'EXPO`, non `dell'expo` (era il bug della prima versione, che
+  sostituiva la parola intera).
+- **Verifica**: righe identiche prima/dopo su tutti i 12 file, zero `¿` residui, delta di dimensione
+  -0,0057% (solo i byte di spazzatura collassati). Batteria di test sui casi difficili prima di
+  toccare 16GB.
+- **E soprattutto**: il danno era **già in `data/raw/`**, identico. Non l'aveva introdotto la pipeline.
+  Prima di correggere a valle, controlla sempre se il difetto viene da monte: cambia completamente
+  che cosa vai a riparare.

@@ -14,6 +14,8 @@ data/binary/bert_binary.csv
 data/export/dataset_importi_cf.csv
 data/technology_mapping/*.csv
 data/technology_mapping/*.zip
+data/technology_mapping_repaired/*.csv
+data/technology_mapping_repaired/*.zip
 data/traceability/*.csv
 data/classified_technology_mapping/*.csv
 
