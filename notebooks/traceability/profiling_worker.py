@@ -45,7 +45,7 @@ TIPO_INTERVENTO = {
     'formazione':      r'\b(?:formazion\w*|corso|corsi|training|tirocinio|aggiornamento professionale|docenza|addestramento|percorso formativo)\b',
     'consulenza':      r'\b(?:consulenz\w*|consulente|affiancamento|advisory|supporto specialistico)\b',
     'ricerca_sviluppo': r'\b(?:ricerca (?:e |ed )?sviluppo|r&s|r&d|ricerca industriale|sperimentazion\w*|prototip\w*|brevett\w*)\b',
-    'certificazione':  r'\b(?:certificazion\w*|accreditament\w*|audit|iso \d+|disciplinare|dop|igp|docg|\bdoc\b)\b',
+    'certificazione':  r'\b(?:certificazion\w*|accreditament\w*|audit|iso[- ]?\d+|disciplinare|dop|igp|docg|\bdoc\b)\b',
 }
 
 SETTORE = {
