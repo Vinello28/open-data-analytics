@@ -162,3 +162,19 @@
 - **E soprattutto**: il danno era **già in `data/raw/`**, identico. Non l'aveva introdotto la pipeline.
   Prima di correggere a valle, controlla sempre se il difetto viene da monte: cambia completamente
   che cosa vai a riparare.
+
+## RECIDIVA: la regola del Pool vale anche per il controllo di tre righe fatto "al volo"
+- **Contesto**: seconda violazione della stessa regola già scritta sopra ("Multiprocessing NON è solo
+  per la pipeline ufficiale"), sullo stesso corpus, **pochi minuti dopo aver letto questo file**.
+  `src/verify_repaired.py` era correttamente in `Pool(10)`; poi, per un cross-check "veloce" del
+  conteggio AI, ho scritto `cat data/*/reclassified_*.csv | awk ...`: **15 GB in pipe sequenziale**.
+  L'utente ha interrotto con "stai usando il multiprocessing?".
+- **Perché è ricascato**: la prima volta la scusa era "è uno script usa e getta". Qui era peggio:
+  non sembrava nemmeno uno *script*, era "un comando". La regola l'avevo applicata all'artefatto che
+  *si vedeva* (il file .py in `src/`) e non al comando in Bash, come se il costo dipendesse da dove
+  scrivi il codice invece che da quanti byte legge.
+- **Regola**: il trigger non è "sto scrivendo uno script", è **"sto per leggere il corpus"**. Se una
+  riga di Bash apre più di un file da un GB, non è un comando: è una passata, e va in `Pool(10)`.
+  In pratica: `cat`/`awk`/`grep` su `data/*/reclassified_*.csv` sono **sempre** un errore.
+- **Come applicarla**: il cross-check parallelo (24 task su `Pool(10)`) ha impiegato **7,8s** contro i
+  minuti del pipe. Non è una questione di stile: è il tempo dell'utente, e l'avevo già sprecato una volta.

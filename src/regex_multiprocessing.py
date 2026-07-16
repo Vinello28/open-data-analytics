@@ -183,6 +183,23 @@ def process_file_ai(filepath):
 # NEW METHODS FOR UPDATING TIPO_AI IN PLACE IN RAW FILES
 # =======================================================
 
+def classify_obiettivo(text):
+    """OBIETTIVO -> formazione | implementazione | doubt.
+
+    A livello di modulo (prima era annidata dentro process_file_update_tipo_ai) perche'
+    src/rebuild_corpus.py deve poterla importare invece di riscriverla: l'oracolo di TIPO_AI
+    deve restare uno solo.
+    """
+    if pd.isna(text):
+        return "doubt"
+    text_str = str(text)
+    if REGEX_FORMAZIONE.search(text_str):
+        return "formazione"
+    elif REGEX_IMPLEMENTAZIONE.search(text_str):
+        return "implementazione"
+    return "doubt"
+
+
 def process_file_update_tipo_ai(filepath):
     """
     Processa un singolo file CSV 'reclassified_multiclass...' o raw:
@@ -201,18 +218,7 @@ def process_file_update_tipo_ai(filepath):
             df["TIPO_AI"] = pd.NA
             
         if "CLASSIFICAZIONE" in df.columns and "OBIETTIVO" in df.columns:
-            # Creiamo una funzione di appoggio per classificare
-            def classify_obiettivo(text):
-                if pd.isna(text):
-                    return "doubt"
-                text_str = str(text)
-                if REGEX_FORMAZIONE.search(text_str):
-                    return "formazione"
-                elif REGEX_IMPLEMENTAZIONE.search(text_str):
-                    return "implementazione"
-                return "doubt"
-            
-            # Filtriamo gli indici dei record AI 
+            # Filtriamo gli indici dei record AI
             mask_ai = df["CLASSIFICAZIONE"] == "AI"
             
             # Applichiamo e popoliamo TIPO_AI

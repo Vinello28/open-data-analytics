@@ -180,3 +180,84 @@ Il gold è annotato da **Claude Opus 4.8**, non da un umano — e la regex v2 l'
 modello: c'è un conflitto d'interessi (l'autore che si corregge il compito), mitigato ma non
 eliminato dall'annotazione in cieco. Da ricontrollare a campione (~20 record). Inoltre lo strato C
 campiona i near-miss, non la popolazione: il recall è "sul pool dei near-miss", non assoluto.
+
+---
+
+## Fase 8 — Ricostruzione del corpus con testo integro (`technology_mapping_v2`)
+
+**Perché**: il corpus pubblicato ha il testo mutilato da `reclassify_annual.py` (QUOTE_NONE, ogni `,` → spazio):
+6,7M descrizioni (28,1%) senza virgole, e `SETTORI_ATTIVITA` — una lista comma-separated — con i separatori
+distrutti. Il testo integro esiste ancora in `data/classified_multiclass_aiuti_*.csv`.
+
+**Vincolo**: le etichette pubblicate NON devono cambiare (il paper è uscito). Misurato in anticipo: il gate AI
+riprodotto sulla sorgente pulita dà **esattamente 7.022 record**, e `TECNOLOGIE_AI` ha **0 differenze**.
+
+- [ ] Refactor `src/reclassify_annual.py`: path assoluto (oggi `'../data'` cwd-dipendente → `MANUAL_AI_SET`
+      vuoto in silenzio, -144 AI), e separazione `apply_ai_gate` / `stata_mutilate`. Comportamento invariato.
+- [ ] `classify_obiettivo` a livello modulo in `src/regex_multiprocessing.py` (oggi annidata, non importabile)
+- [ ] `src/freeze_tipo_ai_carryover.py`: congela i 1.807 `doubt` risolti dall'API ormai spenta (7.022 righe)
+- [ ] `src/rebuild_corpus.py` (Pool 10): gate su testo ORIGINALE → repair mojibake → TIPO_AI → TECNOLOGIE_AI
+      → CSV QUOTE_MINIMAL in `data/technology_mapping_v2/`
+- [ ] `src/verify_corpus.py` (Pool 10): 0 diff attesi su CLASSIFICAZIONE / TIPO_AI / TECNOLOGIE_AI, altrimenti
+      exit(1). Le differenze devono stare SOLO nel testo.
+- [ ] `src/export_stata.py`: `.dta` v118 (UTF-8 + strL) per i 12 anni + file dei soli 7.022 AI
+- [ ] Rimuovere `data/technology_mapping_repaired/` (vicolo cieco: ripara il mojibake ma non le virgole)
+
+**Trappole già misurate** (non riscoprirle):
+- `COR` **non è una chiave**: duplicato 2.275 volte nel 2024 → allineamento POSIZIONALE, mai `merge(on='COR')`
+- 12 chiavi di `MANUAL_AI_SET` contengono `¿` → il gate gira sul testo ORIGINALE, la riparazione viene DOPO
+- `regex_gazetteer.extract_batch` apre `Pool(cpu_count())`: dentro un worker esplode → usare `extract`
+- `to_stata` non è streaming: Pool 10 sul 2023+2024 insieme = OOM
+- `CLASSIFICAZIONE_MULTICLASS_CONFIDENZA` è lunga 37 char: STATA tronca a 32 **in silenzio**
+
+---
+
+## Fase 9 — Estrazione imprese Marche 2023–2025 — COMPLETATA
+
+**Obiettivo**: da `data/technology_mapping_repaired/reclassified_multiclass_aiuti_{2023,2024,2025}.csv`
+(9,0 GB) estrarre tutte le righe con `REGIONE_BENEFICIARIO` = Marche, incluse le multi-regione.
+
+**Scelte utente**: sorgente `technology_mapping_repaired` (non `data/raw`, non `v2`); un record per aiuto
+(27 colonne, nessuna dedup); nessun filtro su `DES_TIPO_BENEFICIARIO`.
+
+### Fatti misurati (non riscoprirli)
+
+- Il separatore multi-regione **NON è `|`**: è un **doppio spazio**. Nel campo `REGIONE_BENEFICIARIO`
+  ci sono **0 pipe**. È il danno di `reclassify_annual.py` (QUOTE_NONE, ogni `,` → spazio):
+  `'Lazio  Marche'`, `'Emilia-Romagna  Lazio  Liguria  Lombardia  Marche  Piemonte'`.
+- `technology_mapping_repaired` ha **0 virgolette** e **27 campi esatti**: una riga = un record,
+  `split(b',')` è esatto → byte-range chunking senza pandas.
+- Nessun'altra regione contiene la sottostringa "Marche" → il prefiltro `b'Marche' in riga` è
+  conservativo (0 falsi negativi). Il match finale è comunque sul **token esatto**, non sottostringa.
+
+### Fatto
+
+- [x] `src/verify_repaired.py` (`Pool(10)`): prova che `repaired` ≡ `technology_mapping`
+- [x] `notebooks/analytics/extract_marche.py` (`Pool(10)`, 136 fette da 64 MB): 9,0 GB in **1,5s**
+- [x] Output in `data/analytics/marche/`: `marche_{2023,2024,2025}.csv` + `marche_2023_2025.csv`
+- [x] Passthrough **verbatim** delle righe sorgente (no `csv.writer`) → nessuna seconda mutilazione
+- [x] Ordine deterministico per `(anno, offset)`: due run → md5 identici (verificato)
+
+### Verifica (fatta, non dichiarata)
+
+- [x] **Doppia implementazione indipendente** (`scratchpad/verify_marche.py`: modalità testo +
+      `csv.reader` + `str.split('  ')`, per anno intero invece che per byte-range) → **concorda
+      esattamente**: 205.929 / 156.529 / 46.642
+- [x] **Superset**: righe contenenti "Marche" ovunque = 205.984 ≥ 205.929 estratte. Il delta (55) sono
+      righe con "Marche" in altri campi ma non nella regione → correttamente escluse
+- [x] Output: 27 campi su ogni riga, `ANNO` costante, ogni riga ha il token Marche, 0 malformate
+- [x] Le multi-regione ci sono: 707 righe, 33 combinazioni distinte
+
+### Risultato
+
+**409.100 record** (2023: 205.929 | 2024: 156.529 | 2025: 46.642), 131.130 CF distinti.
+PMI 376.061 · Non classificata 31.604 · Grande impresa 1.334 · `-` 101.
+Di questi **99 sono AI** (85 implementazione, 14 formazione), tutti con `TECNOLOGIE_AI` valorizzato.
+
+### Caveat aperto
+
+`technology_mapping_repaired` ripara il mojibake ma **non le virgole** (0 virgolette): le
+`DESCRIZIONE_PROGETTO` in output restano prive di virgole. Per la selezione regionale è indifferente,
+ma **per NLP sul testo la sorgente giusta è `technology_mapping_v2`** (che ripara entrambi i danni ed
+è già verificato). Se l'analisi Marche arriva a toccare il testo, rigenerare da v2: è un cambio di
+`SRC_DIR` in `extract_marche.py`. La Fase 8 prevede comunque la rimozione di `repaired`.
